@@ -41,6 +41,7 @@ LOG_DIR = ROOT / "logs"
 STATE_FILE = LOG_DIR / "fetch_state.json"   # 记录已抓取文章的 ID，用于去重
 OPS_LOG = LOG_DIR / "ops.md"
 PROJECT_MD = ROOT / "PROJECT.md"
+PENDING_REVIEW_FILE = LOG_DIR / "pending_review.json"  # --review 模式写入，待用户确认
 
 CST = timezone(timedelta(hours=8))  # 北京时间
 
@@ -470,9 +471,49 @@ def _filter_reason(title):
     return ""
 
 
+# ── 审核流程 ──────────────────────────────────────────────────────────────────
+#
+# --review 模式不自动入库，先输出审核表让用户确认再执行。
+# 流程：fetch → filter → 输出审核表 → 保存 pending_review.json → STOP
+# 用户确认后，不带 --review 再跑一次即入库。
+
+def print_review_table(kept, skipped):
+    """输出清晰的审核表，供用户确认筛选决策"""
+    print()
+    print("╔" + "═" * 78 + "╗")
+    print("║  📋 文章审核表 — 请您确认筛选决策                       ║")
+    print("╠" + "═" * 78 + "╣")
+    for a in kept:
+        title = a["title"][:55]
+        print(f"║  ✅ KEEP  {title:<55}  {a['pub_date_str']}  ║")
+    for s in skipped:
+        title = s["title"][:45]
+        reason = s.get("reason", "?")[:20]
+        print(f"║  ❌ SKIP  {title:<45}  {s['pub_date_str']}  原因:{reason:<20}  ║")
+    print("╚" + "═" * 78 + "╝")
+    print(f"\n👉 如确认无误请直接回复「入库」，如需调整筛选规则请说明")
+    print(f"   待确认数据已保存至 {PENDING_REVIEW_FILE}")
+
+
+def save_pending_review(kept, skipped, run_time):
+    """将待确认的审核结果写入 JSON"""
+    data = {
+        "run_time": run_time,
+        "status": "pending_review",
+        "kept": [{"id": a["id"], "title": a["title"], "link": a["link"],
+                  "pub_date_str": a["pub_date_str"]} for a in kept],
+        "skipped": [{"id": s["id"], "title": s["title"], "link": s["link"],
+                      "pub_date_str": s["pub_date_str"], "reason": s.get("reason", "")}
+                     for s in skipped],
+    }
+    LOG_DIR.mkdir(parents=True, exist_ok=True)
+    with open(PENDING_REVIEW_FILE, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
 # ── 主流程 ────────────────────────────────────────────────────────────────────
 
-def main(dry_run=False):
+def main(dry_run=False, review=False):
     run_result = {
         "run_time": now_str(),
         "status": "unknown",
@@ -507,6 +548,14 @@ def main(dry_run=False):
         log(f"通过筛选 {len(new_articles)} 篇，跳过 {len(skipped)} 篇")
         run_result["new_count"] = len(new_articles)
         run_result["new_articles"] = new_articles
+
+        # --- review 模式：输出审核表后停止，不入库 ---
+        if review:
+            print_review_table(new_articles, skipped)
+            save_pending_review(new_articles, skipped, run_result["run_time"])
+            run_result["status"] = "review_pending"
+            log("=== 审核模式：已输出审核表，等待用户确认 ===")
+            return True
 
         if not new_articles:
             run_result["status"] = "success_no_new"
@@ -555,7 +604,13 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="腾讯技术工程文章抓取脚本")
     parser.add_argument("--dry-run", action="store_true",
                         help="只打印，不写文件不 git commit")
+    parser.add_argument("--review", action="store_true",
+                        help="抓取后输出审核表，等待用户确认后再入库")
     args = parser.parse_args()
 
-    ok = main(dry_run=args.dry_run)
+    if args.review and args.dry_run:
+        log("--review 和 --dry-run 互斥，请只选一个", "ERROR")
+        sys.exit(1)
+
+    ok = main(dry_run=args.dry_run, review=args.review)
     sys.exit(0 if ok else 1)
