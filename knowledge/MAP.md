@@ -20,7 +20,7 @@ AI 工程化实践（21 篇原文）
 │   Harness不是目的，知识才是护城河
 │
 ├── 二、Skill 设计（Harness 的执行单元）
-│   如何写好 Skill：一份终极实战经验手册
+│   如何写好 Skill：一份终极实战经验手册  → [📖 entries/skill-design-handbook](entries/skill-design-handbook.md)
 │   当我把 AI 变成一个"算法"：Skill 工程化设计的心路历程
 │   AI Agent & Skill 测评方案及落地实践
 │
