@@ -77,16 +77,18 @@ def extract_meta(html, url):
             ts = int(m.group(1))
             pub_date_str = datetime.fromtimestamp(ts, tz=CST).strftime("%Y-%m-%d")
 
-    # 正文：id="js_content"
+    # 正文：id="js_content"，找到开口后向后截取到常见结束标记
     content_html = ""
-    m = re.search(r'<div[^>]+id=["\']js_content["\'][^>]*>(.*?)</div>\s*</div>\s*<div[^>]+id=["\']js_article_comment', html, re.DOTALL)
+    m = re.search(r'id=["\']js_content["\'][^>]*>(.*)', html, re.DOTALL)
     if m:
-        content_html = m.group(1)
-    else:
-        # 宽松匹配
-        m = re.search(r'id=["\']js_content["\'][^>]*>(.*?)</section>\s*</div>', html, re.DOTALL)
-        if m:
-            content_html = m.group(1)
+        body = m.group(1)
+        for end in ['id="js_article_comment"', "id='js_article_comment'",
+                    'id="js_content_bottom"', '</body>']:
+            idx = body.find(end)
+            if idx > 0:
+                body = body[:idx]
+                break
+        content_html = body
 
     return title, pub_date_str, content_html
 
@@ -126,7 +128,15 @@ def main():
         fa.log("无法提取标题，请检查 URL 或页面结构", "ERROR")
         sys.exit(1)
 
-    # 4. 构造文章对象，复用 save_article
+    # 4. 筛选审核：标题过一遍自动筛选规则
+    filter_reason = fa._filter_reason(title)
+    if filter_reason:
+        fa.log(f"⚠️  自动筛选建议：跳过（{filter_reason}）", "WARN")
+        fa.log("   手动导入不受自动筛选限制，但建议确认后再入库")
+    else:
+        fa.log("✅  自动筛选通过")
+
+    # 5. 构造文章对象，复用 save_article
     article = {
         "id": fa.article_id(url, title),
         "title": title,
