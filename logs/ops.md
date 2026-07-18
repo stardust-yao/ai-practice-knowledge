@@ -112,3 +112,13 @@
 
 **本次新增：**
 - [横向拆解Claude Code、Codex等六大Agent上下文压缩策略后，我们做了第 7 个](https://mp.weixin.qq.com/s/BQwyvE2qIfguwKk63F3LZw) `2026-06-08`
+
+## 2026-07-18 15:56:07 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 1 篇
+- **Feed 总量**: 1 篇
+- **累计已抓**: 28 篇
+
+**本次新增：**
+- [AI Infra入门干货总结：大模型是如何高效推理的](https://mp.weixin.qq.com/s/gCRMjGry2EmBmv1CFfCzVQ) `2026-05-25`
