@@ -25,7 +25,7 @@ AI 工程化实践（21 篇原文）
 │   AI Agent & Skill 测评方案及落地实践
 │
 ├── 三、Agent 架构与治理
-│   Agent 治理：用 Hook 堵住 LLM 的偷懒、越权与失忆
+│   Agent 治理：用 Hook 堵住 LLM 的偷懒、越权与失忆  → [📖 entries/agent-governance-hook](entries/agent-governance-hook.md)
 │   OpenClaw与Hermes：源码里的 AI Agent 架构知识大复盘
 │   横向拆解六大Agent上下文压缩策略
 │   Loop Engineering 实践指南
