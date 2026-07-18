@@ -92,3 +92,13 @@
 
 **本次新增：**
 - [OpenClaw与Hermes：源码里的 AI Agent 架构知识大复盘](https://mp.weixin.qq.com/s/49dxdMXEUoWIYlIh8fFqMQ) `2026-05-29`
+
+## 2026-07-18 15:55:52 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 1 篇
+- **Feed 总量**: 1 篇
+- **累计已抓**: 26 篇
+
+**本次新增：**
+- [如何写好 Skill：一份终极实战经验手册](https://mp.weixin.qq.com/s/SZv3pDXPrL9vwV3Ua_84Kg) `2026-06-05`
