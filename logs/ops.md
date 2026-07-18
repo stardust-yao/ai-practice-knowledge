@@ -52,3 +52,13 @@
 
 **本次新增：**
 - [你的 Harness 工作流真的在进步吗？我们用一场考试撕掉了遮羞布](https://mp.weixin.qq.com/s/kAPx6ZxXxpTyRi-hYAbqtA) `2026-06-18`
+
+## 2026-07-18 15:51:13 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 1 篇
+- **Feed 总量**: 1 篇
+- **累计已抓**: 22 篇
+
+**本次新增：**
+- [拆解大模型几项核心操作背后的数学与 Infra 优化逻辑](https://mp.weixin.qq.com/s/V727TpGvRjo5RvYRGZl6oA) `2026-06-17`
