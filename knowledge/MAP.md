@@ -11,7 +11,7 @@
 ```
 AI 工程化实践（21 篇原文）
 │
-├── 一、Harness Engineering（核心方法论）
+├── 一、Harness Engineering（核心方法论）  → [📖 entries/harness-engineering](entries/harness-engineering.md)
 │   驾驭AI Coding：一份面向团队的Harness Engineering落地规范
 │   开启Harness Engineering探索之旅
 │   从AI Coding到Harness Engineering的端到端工程开发实践
