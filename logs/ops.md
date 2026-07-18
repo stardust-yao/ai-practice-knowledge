@@ -72,3 +72,13 @@
 
 **本次新增：**
 - [AI Agent & Skill 测评方案及落地实践](https://mp.weixin.qq.com/s/PUbGqheJhFMmb6hGj1ZtOw) `2026-06-16`
+
+## 2026-07-18 15:51:29 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 1 篇
+- **Feed 总量**: 1 篇
+- **累计已抓**: 24 篇
+
+**本次新增：**
+- [一篇搞懂 AI Coding Agent 的 Token 成本控制](https://mp.weixin.qq.com/s/x8ssQ-trmIqHMPlvQSE9SA) `2026-06-15`
