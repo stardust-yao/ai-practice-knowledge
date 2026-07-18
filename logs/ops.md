@@ -102,3 +102,13 @@
 
 **本次新增：**
 - [如何写好 Skill：一份终极实战经验手册](https://mp.weixin.qq.com/s/SZv3pDXPrL9vwV3Ua_84Kg) `2026-06-05`
+
+## 2026-07-18 15:55:59 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 1 篇
+- **Feed 总量**: 1 篇
+- **累计已抓**: 27 篇
+
+**本次新增：**
+- [横向拆解Claude Code、Codex等六大Agent上下文压缩策略后，我们做了第 7 个](https://mp.weixin.qq.com/s/BQwyvE2qIfguwKk63F3LZw) `2026-06-08`
