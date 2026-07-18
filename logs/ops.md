@@ -122,3 +122,13 @@
 
 **本次新增：**
 - [AI Infra入门干货总结：大模型是如何高效推理的](https://mp.weixin.qq.com/s/gCRMjGry2EmBmv1CFfCzVQ) `2026-05-25`
+
+## 2026-07-18 15:56:15 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 1 篇
+- **Feed 总量**: 1 篇
+- **累计已抓**: 29 篇
+
+**本次新增：**
+- [Harness不是目的，知识才是护城河 —— 一个AI工程交付团队的知识沉淀实践](https://mp.weixin.qq.com/s/JV4-oPP0jjsBCZ4tW3Gy1g) `2026-05-11`
