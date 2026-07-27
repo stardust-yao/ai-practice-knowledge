@@ -2,6 +2,7 @@
 type: Article
 title: 驾驭AI Coding：一份面向团队的Harness Engineering落地规范
 description: 团队级 Rules 基线、Spec 驱动的协作模式
+module: project-arch
 date: 2026-07-17
 source: raw/2026-07/2026-07-17_驾驭AI Coding：一份面向团队的Harness Engineering落地规范.md
 tags: [harness, team-standards, engineering]

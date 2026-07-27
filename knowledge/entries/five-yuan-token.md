@@ -2,6 +2,7 @@
 type: Article
 title: 五块钱如何花三天 — Token 成本控制实践
 description: Token 系统化治理：五块钱花三天的会话管理与看板告警
+module: cost-performance
 date: 2026-07-01
 source: raw/2026-07/2026-07-01_五块钱如何花三天….md
 tags: [token, cost-control, practice]

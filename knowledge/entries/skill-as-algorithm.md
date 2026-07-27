@@ -2,6 +2,7 @@
 type: Article
 title: 当我把 AI 变成一个"算法"：Skill 工程化设计的心路历程
 description: Agent 即算法——CLI 接管确定性、Workflow、Gate、步进式披露
+module: skill-design
 date: 2026-05-13
 source: raw/2026-05/2026-05-13_当我把 AI 变成一个-算法-：Skill 工程化设计的心路历程.md
 tags: [skill, cli, workflow, state-machine, engineering]

@@ -2,6 +2,7 @@
 type: Article
 title: Agent 治理：用 Hook 堵住 LLM 的偷懒、越权与失忆
 description: 用 Hook 堵住 LLM 的偷懒、越权与失忆
+module: safety-guardrails
 date: 2026-07-16
 source: raw/2026-07/2026-07-16_Agent 治理：用 Hook 堵住 LLM 的偷懒、越权与失忆.md
 tags: [agent-governance, hook, hitl, long-context, guardrails]

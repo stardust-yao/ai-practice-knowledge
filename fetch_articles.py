@@ -460,12 +460,6 @@ _EXCLUDE_PRODUCT_NAMES = [
     "Marvis", "马维斯",   # 腾讯 Marvis 产品推广系列
 ]
 
-# 即使命中产品名，标题含这些词说明是技术分析，保留
-_RETAIN_OVERRIDE_KEYWORDS = [
-    "原理", "技术拆解", "推理优化", "架构", "实战", "方法论", "工程",
-]
-
-
 def _apply_filter_rules(articles):
     """
     返回 (kept, skipped)。
@@ -486,11 +480,9 @@ def _apply_filter_rules(articles):
 
 def _filter_reason(title):
     """返回排除理由字符串，无理由则返回空字符串（保留）。"""
-    # 1. 产品名黑名单（先检查，再看是否有技术关键词豁免）
+    # 1. 产品名黑名单
     for prod in _EXCLUDE_PRODUCT_NAMES:
         if prod in title:
-            if any(kw in title for kw in _RETAIN_OVERRIDE_KEYWORDS):
-                break  # 豁免：虽含产品名但属技术分析
             return f"产品推广系列（含「{prod}」）"
 
     # 2. 标题关键词排除

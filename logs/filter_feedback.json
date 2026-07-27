@@ -1,7 +1,50 @@
 {
-  "total_reviews": 0,
+  "total_reviews": 6,
   "total_overrides": 0,
-  "consecutive_agreements": 0,
+  "consecutive_agreements": 6,
   "auto_approve_enabled": false,
-  "history": []
+  "history": [
+    {
+      "time": "2026-07-27 17:29:38 CST",
+      "kept_count": 4,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-07-27 17:30:15 CST",
+      "kept_count": 4,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-07-27 17:30:20 CST",
+      "kept_count": 4,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-07-27 17:30:48 CST",
+      "kept_count": 4,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-07-27 17:33:13 CST",
+      "kept_count": 4,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-07-27 17:34:02 CST",
+      "kept_count": 4,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    }
+  ]
 }

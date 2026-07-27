@@ -2,6 +2,7 @@
 type: Article
 title: 从AI Coding到Harness Engineering的端到端工程开发实践
 description: P1-P6 端到端全链路与 Gate 门禁体系
+module: project-arch
 date: 2026-07-03
 source: raw/2026-07/2026-07-03_从AI Coding到Harness Engineering的端到端工程开发实践.md
 tags: [harness, engineering-practice, end-to-end]

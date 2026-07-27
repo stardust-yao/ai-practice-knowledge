@@ -1,0 +1,96 @@
+{
+  "skill-as-algorithm": [
+    "agent-governance-hook",
+    "ai-coding-to-harness",
+    "harness-engineering",
+    "loop-engineering",
+    "skill-design-handbook"
+  ],
+  "ai-coding-to-harness": [
+    "agent-governance-hook",
+    "harness-engineering",
+    "harness-eval",
+    "knowledge-as-moat",
+    "skill-as-algorithm",
+    "team-harness-spec",
+    "vibe-to-harness"
+  ],
+  "openclaw-hermes-arch": [
+    "agent-governance-hook",
+    "loop-engineering"
+  ],
+  "skill-design-handbook": [
+    "agent-skill-evaluation",
+    "openclaw-hermes-arch",
+    "skill-as-algorithm"
+  ],
+  "harness-eval": [
+    "agent-skill-evaluation",
+    "team-harness-spec"
+  ],
+  "token-cost-control": [
+    "agent-skill-evaluation",
+    "ai-infra-inference",
+    "context-compression-survey",
+    "five-yuan-token",
+    "frugal-token",
+    "hygiene-habits",
+    "llm-core-operations",
+    "skill-design-handbook"
+  ],
+  "harness-engineering": [
+    "ai-coding-to-harness",
+    "knowledge-as-moat",
+    "loop-engineering",
+    "team-harness-spec",
+    "vibe-to-harness"
+  ],
+  "knowledge-as-moat": [
+    "ai-coding-to-harness"
+  ],
+  "team-harness-spec": [
+    "ai-coding-to-harness",
+    "harness-engineering",
+    "harness-eval",
+    "vibe-to-harness"
+  ],
+  "llm-core-operations": [
+    "ai-infra-inference"
+  ],
+  "five-yuan-token": [
+    "context-compression-survey",
+    "frugal-token",
+    "token-cost-control"
+  ],
+  "hygiene-habits": [
+    "context-compression-survey",
+    "frugal-token",
+    "knowledge-as-moat",
+    "token-cost-control"
+  ],
+  "frugal-token": [
+    "five-yuan-token",
+    "hygiene-habits",
+    "token-cost-control"
+  ],
+  "context-compression-survey": [
+    "five-yuan-token",
+    "hygiene-habits",
+    "token-cost-control"
+  ],
+  "agent-skill-evaluation": [
+    "harness-eval",
+    "skill-design-handbook"
+  ],
+  "ai-infra-inference": [
+    "llm-core-operations"
+  ],
+  "loop-engineering": [
+    "openclaw-hermes-arch",
+    "skill-as-algorithm"
+  ],
+  "agent-governance-hook": [
+    "openclaw-hermes-arch",
+    "skill-as-algorithm"
+  ]
+}

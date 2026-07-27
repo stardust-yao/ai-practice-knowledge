@@ -2,6 +2,7 @@
 type: Article
 title: OpenClaw与Hermes：源码里的 AI Agent 架构知识大复盘
 description: Agent 框架的 Gateway、插件体系、部署模式对比
+module: project-arch
 date: 2026-05-29
 source: raw/2026-05/2026-05-29_OpenClaw与Hermes：源码里的 AI Agent 架构知识大复盘.md
 tags: [agent-architecture, openclaw, hermes, gateway, design-patterns]

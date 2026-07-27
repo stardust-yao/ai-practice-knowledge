@@ -2,6 +2,7 @@
 type: Article
 title: AI Agent & Skill 测评方案及落地实践
 description: Agent 与 Skill 测评方案：Rubric 评分器、确定性评分
+module: eval-testing
 date: 2026-06-16
 source: raw/2026-06/2026-06-16_AI Agent & Skill 测评方案及落地实践.md
 tags: [evaluation, agent-evaluation, skill-evaluation, rubric]

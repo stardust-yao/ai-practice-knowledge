@@ -2,6 +2,7 @@
 type: Article
 title: 一篇搞懂 AI Coding Agent 的 Token 成本控制
 description: Token 成本控制：模型选择、上下文管理、三层漏斗策略
+module: cost-performance
 date: 2026-06-15
 source: raw/2026-06/2026-06-15_一篇搞懂 AI Coding Agent 的 Token 成本控制.md
 tags: [token, cost-control, ai-coding]

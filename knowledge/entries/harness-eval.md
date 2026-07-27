@@ -2,6 +2,7 @@
 type: Article
 title: Harness Eval：我们用一场考试撕掉了遮羞布
 description: Harness Eval 回归评测——用考试检验工作流是否真的在进步
+module: eval-testing
 date: 2026-06-18
 source: raw/2026-06/2026-06-18_你的 Harness 工作流真的在进步吗？我们用一场考试撕掉了遮羞布.md
 tags: [harness, evaluation, eval]

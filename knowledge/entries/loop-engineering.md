@@ -2,6 +2,7 @@
 type: Article
 title: Loop Engineering 实践指南：在 Code Buddy 中构建自主循环系统
 description: 自主循环设计——Sense-Decide-Repair 范式
+module: skill-design
 date: 2026-06-22
 source: raw/2026-06/2026-06-22_Loop Engineering 实践指南：在 Code Buddy 中构建自主循环系统.md
 tags: [loop-engineering, agent, automation, loops]

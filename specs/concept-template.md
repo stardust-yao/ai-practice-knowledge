@@ -12,6 +12,7 @@
 | `type` | ✅ | 固定值 `Article` | 当前所有内容均为公众号文章提炼 |
 | `title` | ✅ | 原文标题 | 从 raw/ 原文复制，不修改措辞 |
 | `description` | ✅ | 一句话，≤80 字 | 回答「这篇文章解决什么问题」。用于 index.md 条目和检索匹配。不要复述标题 |
+| `module` | ✅ | `string` | 8 模块之一：project-arch/skill-design/tools-integration/memory-knowledge/safety-guardrails/eval-testing/cost-performance/fundamentals |
 | `date` | ✅ | `YYYY-MM-DD` | 原文发布日期 |
 | `source` | ✅ | `raw/YYYY-MM/YYYY-MM-DD_标题.md` | 指向 raw/ 原文路径，不用绝对路径 |
 | `tags` | ✅ | 小写英文，逗号分隔，3-6 个 | 从模块关键词和文章核心方法中提取。不用中文、不用驼峰、不用空格 |
@@ -77,6 +78,7 @@
 type: Article
 title: [原文标题]
 description: [一句话，≤80 字，回答「解决什么问题」]
+module: [模块名]
 date: YYYY-MM-DD
 source: raw/YYYY-MM/YYYY-MM-DD_[标题].md
 tags: [tag1, tag2, tag3]

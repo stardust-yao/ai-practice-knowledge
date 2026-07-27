@@ -2,6 +2,7 @@
 type: Article
 title: 拆解大模型几项核心操作背后的数学与 Infra 优化逻辑
 description: LLM 核心算子拆解：RoPE、GQA、SwiGLU、Flash Attention、RMSNorm
+module: fundamentals
 date: 2026-06-17
 source: raw/2026-06/2026-06-17_拆解大模型几项核心操作背后的数学与 Infra 优化逻辑.md
 tags: [inference-optimization, rope, gqa, swiglu, flash-attention]

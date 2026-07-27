@@ -2,9 +2,10 @@
 type: Article
 title: 横向拆解六大Agent上下文压缩策略后，我们做了第 7 个
 description: 六大 Agent 上下文压缩策略横向拆解
+module: cost-performance
 date: 2026-06-08
 source: raw/2026-06/2026-06-08_横向拆解Claude Code、Codex等六大Agent上下文压缩策略后，我们做了第 7 个.md
-tags: [上下文压缩, token-optimization, agent设计]
+tags: [context-compression, token-optimization, agent-design]
 timestamp: 2026-06-08T00:00:00+08:00
 ---
 

@@ -2,6 +2,7 @@
 type: Article
 title: 从Vibe Coding到Harness — 一套大仓AI工程化实战
 description: 大仓 Monorepo 环境下从凭感觉写代码到工程化
+module: project-arch
 date: 2026-07-07
 source: raw/2026-07/2026-07-07_从Vibe Coding到Harness—— 一套大仓AI工程化实战.md
 tags: [harness, vibe-coding, monorepo]

@@ -1,6 +1,6 @@
 # 设计文档
 
-> P2 产出。sandbox_mode: true（P3 改动先写入沙箱，确认后合并）。
+> P2 产出。sandbox_mode: true（P3 每个 D-x 在独立 git 分支执行，PR review 通过后合并到 main）。
 > 下游 P3 实现和 code-reviewer 均以此文档为契约。
 
 ---

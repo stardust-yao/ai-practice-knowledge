@@ -2,6 +2,7 @@
 type: Article
 title: 如何写好 Skill：一份终极实战经验手册
 description: Skill 编写最佳实践：description、渐进式加载、Few-Shot、反模式
+module: skill-design
 date: 2026-06-05
 source: raw/2026-06/2026-06-05_如何写好 Skill：一份终极实战经验手册.md
 tags: [skill, engineering, prompt-engineering]

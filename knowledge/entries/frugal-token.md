@@ -2,6 +2,7 @@
 type: Article
 title: 精打细算虾养成指南：省 Token 和把 AI 用好，从来就是一件事
 description: 省 Token 实战心法：小步快跑、脚本替代 LLM
+module: cost-performance
 date: 2026-07-08
 source: raw/2026-07/2026-07-08_精打细算虾养成指南： 省 Token 和把 AI 用好，从来就是一件事.md
 tags: [token, cost-control, practice]

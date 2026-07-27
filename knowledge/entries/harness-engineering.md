@@ -2,6 +2,7 @@
 type: Article
 title: 开启Harness Engineering探索之旅
 description: AI 出码快但整体节奏没跟上——三个根因与 Harness 工程化方案
+module: project-arch
 date: 2026-06-29
 source: raw/2026-06/2026-06-29_开启Harness Engineering探索之旅.md
 tags: [harness-engineering, methodology, engineering]

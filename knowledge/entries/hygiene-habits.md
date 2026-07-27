@@ -2,6 +2,7 @@
 type: Article
 title: 你讲卫生吗？— AI 交互习惯的工程化
 description: AI 交互习惯：上下文管理、信噪比、任务隔离
+module: memory-knowledge
 date: 2026-06-23
 source: raw/2026-06/2026-06-23_你讲卫生吗？….md
 tags: [interaction-habits, context-management, token-optimization]

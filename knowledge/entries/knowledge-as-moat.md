@@ -2,6 +2,7 @@
 type: Article
 title: Harness不是目的，知识才是护城河
 description: 知识沉淀流程：Delta Spec、changes-sync、归档策略
+module: memory-knowledge
 date: 2026-05-11
 source: raw/2026-05/2026-05-11_Harness不是目的，知识才是护城河 —— 一个AI工程交付团队的知识沉淀实践.md
 tags: [knowledge-management, harness, engineering]

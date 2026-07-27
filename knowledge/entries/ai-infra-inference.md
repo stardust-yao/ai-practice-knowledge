@@ -2,6 +2,7 @@
 type: Article
 title: AI Infra入门干货总结：大模型是如何高效推理的
 description: 大模型推理优化：vLLM、Continuous Batching、PagedAttention、KV Cache
+module: fundamentals
 date: 2026-05-25
 source: raw/2026-05/2026-05-25_AI Infra入门干货总结：大模型是如何高效推理的.md
 tags: [inference-optimization, vllm, continuous-batching, pagedattention, kv-cache]
