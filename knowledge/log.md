@@ -12,10 +12,7 @@
 * **Addition**: `knowledge/.backlinks.json` — 反向索引数据 (18 concepts, 58 links)
 * **Addition**: `knowledge/.embeddings.json` — 向量索引数据 (19 concepts)
 * **Addition**: `specs/p3-plan.md` `specs/p4-plan.md` `specs/p5-plan.md` `specs/p6-plan.md` — P3-P6 计划
-* **Addition**: `specs/deploy.md` — 部署记录
-* **Addition**: `specs/delta-spec.md` — P6 Delta Spec (14 ADDED + 7 MODIFIED + 1 REMOVED)
-* **Addition**: `specs/changes-sync.md` — P6 changes-sync (8/8 D-x 与设计一致)
-* **Addition**: `specs/knowledge-sync.md` — P6 knowledge-sync (5 条可复用模式)
+* **Addition**: `changes/p3-p4-20260727/` — P6 归档 (deploy + changes-sync + knowledge-sync + delta-spec + evaluation + metrics)
 * **Update**: `knowledge/entries/*.md` — 19 篇增加 `module` 字段
 * **Update**: `specs/concept-template.md` — 增加 `module` 字段
 * **Update**: `specs/concept-spec.md` — F1-F11 Gate 规则 (6 FAIL + 5 WARN)
