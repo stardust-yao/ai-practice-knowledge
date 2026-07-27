@@ -1,11 +1,21 @@
 ---
+type: Article
 title: AI Infra入门干货总结：大模型是如何高效推理的
+description: 大模型推理优化：vLLM、Continuous Batching、PagedAttention、KV Cache
 date: 2026-05-25
 source: raw/2026-05/2026-05-25_AI Infra入门干货总结：大模型是如何高效推理的.md
-tags: [推理优化, vLLM, Continuous Batching, PagedAttention, KV Cache]
+tags: [inference-optimization, vllm, continuous-batching, pagedattention, kv-cache]
+timestamp: 2026-05-25T00:00:00+08:00
 ---
 
 > 作者：binnnliu（腾讯程序员）
+
+## 适用场景
+
+- 部署模型后发现推理太慢、显存不够
+- 想理解 vLLM / Continuous Batching / PagedAttention 的原理
+- 需要评估推理性能和资源的 tradeoff
+- 准备 AI Infra 相关面试或技术讨论
 
 ## 核心问题
 
@@ -71,6 +81,11 @@ Prefill（计算密集、latency-sensitive）和 Decode（访存密集）对硬�
 </td></tr>
 
 </table>
+
+## 关联概念
+
+- 配合：[核心算子拆解](llm-core-operations.md) — 算子层面补充（Flash Attention 等）
+- 配合：[Token 成本控制](token-cost-control.md) — 推理效率直接影响使用成本
 
 ## 关键引用
 

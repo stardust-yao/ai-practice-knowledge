@@ -1,9 +1,19 @@
 ---
+type: Article
 title: 驾驭AI Coding：一份面向团队的Harness Engineering落地规范
+description: 团队级 Rules 基线、Spec 驱动的协作模式
 date: 2026-07-17
 source: raw/2026-07/2026-07-17_驾驭AI Coding：一份面向团队的Harness Engineering落地规范.md
-tags: [Harness, 团队规范, 工程化]
+tags: [harness, team-standards, engineering]
+timestamp: 2026-07-17T00:00:00+08:00
 ---
+
+## 适用场景
+
+- 需要为团队制定统一的 AI 协作规范
+- 团队中多人用 AI 但方式各异、输出质量参差不齐
+- 想把个人的 Rules / Skill 升级为团队基线
+- 需要一套可持续演进的团队规范而非一次性文档
 
 ## 核心问题
 
@@ -19,6 +29,12 @@ Harness Engineering 的概念有了，但团队层面怎么落地？需要一个
 4. **评估与演进**：定期跑 Harness Eval 回归，规则过时了就更新
 
 **核心原则**：规范不是"写一次就完"，是要在每次交付后持续演进——通过 P6 归档阶段的 knowledge-sync 自动沉淀。
+
+## 关联概念
+
+- 前置：[Harness Engineering 入门](harness-engineering.md) — 先理解 Harness 理念
+- 配合：[端到端全链路](ai-coding-to-harness.md) — P1-P6 阶段中规范如何嵌入
+- 配合：[Harness Eval](harness-eval.md) — 规范改了之后用回归评测验证效果
 
 ## 关键引用
 

@@ -1,11 +1,21 @@
 ---
+type: Article
 title: 拆解大模型几项核心操作背后的数学与 Infra 优化逻辑
+description: LLM 核心算子拆解：RoPE、GQA、SwiGLU、Flash Attention、RMSNorm
 date: 2026-06-17
 source: raw/2026-06/2026-06-17_拆解大模型几项核心操作背后的数学与 Infra 优化逻辑.md
-tags: [推理优化, RoPE, GQA, SwiGLU, Flash Attention]
+tags: [inference-optimization, rope, gqa, swiglu, flash-attention]
+timestamp: 2026-06-17T00:00:00+08:00
 ---
 
 > 作者：binnnliu
+
+## 适用场景
+
+- 读到 RoPE / GQA / Flash Attention 不知道是什么意思
+- 想理解模型架构为什么这样设计（不是背结论）
+- 需要面试或技术讨论时能把核心算子讲清楚
+- 正在做模型微调或推理优化，需要理解底层机制
 
 ## 核心问题
 
@@ -24,6 +34,11 @@ tags: [推理优化, RoPE, GQA, SwiGLU, Flash Attention]
 **RoPE 的核心公式**：旋转矩阵只作用于相邻维度对 `(0,1), (2,3)...`，不处理 `rope_dim` 之后的维度。高频组精细感知局部位置、低频组保留远端语义。
 
 **GQA 的显存节省**：KV Cache 大小 = `2 * layers * num_kv_heads * head_dim * max_tokens * dtype`。从 MHA 切换到 GQA（如 8 KV heads vs 32 Q heads），KV Cache 减少到原来的 1/4。
+
+## 关联概念
+
+- 配合：[推理优化](ai-infra-inference.md) — 算子是推理优化方案的基础
+- 配合：[Token 成本控制](token-cost-control.md) — 算子效率影响 Token 成本
 
 ## 关键引用
 

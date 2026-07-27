@@ -1,9 +1,19 @@
 ---
+type: Article
 title: Harness不是目的，知识才是护城河
+description: 知识沉淀流程：Delta Spec、changes-sync、归档策略
 date: 2026-05-11
 source: raw/2026-05/2026-05-11_Harness不是目的，知识才是护城河 —— 一个AI工程交付团队的知识沉淀实践.md
-tags: [知识管理, Harness, 工程化]
+tags: [knowledge-management, harness, engineering]
+timestamp: 2026-05-11T00:00:00+08:00
 ---
+
+## 适用场景
+
+- 团队知识散落在人脑 / Wiki / TAPD，每次做相似需求 AI 从零开始
+- Harness 让你跑得快但知识没有积累成「更快」
+- 想建立自动化的知识沉淀机制（changes-sync / knowledge-sync）
+- 需要说服团队：工具不是护城河，知识才是
 
 ## 核心问题
 
@@ -20,6 +30,12 @@ Harness 让你跑得快，但每次变更产生的设计决策、踩坑经验、
 3. **specs-generator**：按 ADDED/MODIFIED/REMOVED/RENAMED 四类标记增量更新 specs 索引，避免全量复制导致膨胀
 
 **Delta Spec 是灵魂**：不复制全部文档进 specs，只标记"哪些变了"→增量合并。
+
+## 关联概念
+
+- 前置：[Harness Engineering](harness-engineering.md) — 知识层是四层骨架的第四层
+- 配合：[端到端全链路](ai-coding-to-harness.md) — P6 归档阶段的实现
+- 配合：[AI 交互习惯](hygiene-habits.md) — 知识卫生是交互卫生的延伸
 
 ## 关键引用
 

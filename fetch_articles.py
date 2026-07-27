@@ -1,20 +1,20 @@
 #!/usr/bin/env python3
 """
-fetch_articles.py — 腾讯技术工程文章自动抓取脚本
+fetch_articles.py — 多源公众号文章自动抓取脚本
 
 职责：
-  1. 拉取 wechat2rss RSS feed
+  1. 拉取多个 wechat2rss RSS feed
   2. 过滤出新文章（对比已有记录）
   3. HTML 转 Markdown，保留代码块和标题层级
   4. 保存到 raw/YYYY-MM/
   5. 更新 logs/ops.md（每次运行必写）
-  6. 更新 logs/fetch_state.json（去重状态持久化）
-  7. 更新 PROJECT.md 统计数字
-  8. git commit + push
+  6. 更新 logs/fetch_state.json（去重状态持久化，按 feed 分桶）
+  7. git commit + push
 
 运行方式：
-  python3 fetch_articles.py           # 正常运行
-  python3 fetch_articles.py --dry-run # 只打印，不写文件不提交
+  python3 fetch_articles.py              # 抓取所有 feed
+  python3 fetch_articles.py --dry-run    # 只打印，不写文件不提交
+  python3 fetch_articles.py --review     # 抓取后输出审核表
 
 部署：在阿里云服务器上配 cron，每天凌晨 2 点自动运行
 """
@@ -26,13 +26,30 @@ import re
 import hashlib
 import argparse
 import traceback
+import urllib.request
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 # ── 配置 ──────────────────────────────────────────────────────────────────────
 
-FEED_URL = "https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml"
-ACCOUNT_NAME = "腾讯技术工程"
+# 多 Feed 源配置
+# 每个 feed: {url, name, filter_rules(可选)}
+# filter_rules 为 None 时使用全局筛选规则
+FEEDS = [
+    {
+        "url": "https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml",
+        "name": "腾讯技术工程",
+    },
+    {
+        "url": "https://wechat2rss.xlab.app/feed/c74ed6db00cfbf16f2a048a165b4453f982681f0.xml",
+        "name": "千问AI平台",
+        # 注意：此 feed 的 RSS 描述为空（微信限制），只能抓到标题和链接
+        # 正文需通过其他方式获取（微信客户端手动复制 或 搜狗微信搜索）
+    },
+]
+
+FEED_URL = FEEDS[0]["url"]  # 向后兼容
+ACCOUNT_NAME = FEEDS[0]["name"]
 
 # 脚本所在目录即为项目根目录
 ROOT = Path(__file__).parent.resolve()
@@ -74,7 +91,13 @@ def load_state():
     if STATE_FILE.exists():
         with open(STATE_FILE, encoding="utf-8") as f:
             return json.load(f)
-    return {"fetched_ids": [], "total_count": 0, "last_run": None}
+    return {"feeds": {}, "total_count": 0, "last_run": None}
+
+def get_feed_state(state, feed_name):
+    """获取或初始化单个 feed 的状态"""
+    if feed_name not in state["feeds"]:
+        state["feeds"][feed_name] = {"fetched_ids": [], "last_fetch": None}
+    return state["feeds"][feed_name]
 
 def save_state(state):
     STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
@@ -83,12 +106,12 @@ def save_state(state):
 
 # ── RSS 解析 ──────────────────────────────────────────────────────────────────
 
-def fetch_feed():
+def fetch_feed(feed_url=None):
     """拉取 RSS feed，返回原始 XML 字符串"""
-    import urllib.request
-    log(f"拉取 Feed: {FEED_URL}")
+    url = feed_url or FEED_URL
+    log(f"拉取 Feed: {url}")
     req = urllib.request.Request(
-        FEED_URL,
+        url,
         headers={"User-Agent": "ai-practice-knowledge-bot/1.0"}
     )
     with urllib.request.urlopen(req, timeout=30) as resp:
@@ -746,57 +769,75 @@ def main(dry_run=False, review=False, feedback=None, reset=False):
     log(f"=== 开始运行 {run_result['run_time']} {'[DRY-RUN]' if dry_run else ''} ===")
 
     try:
-        # 1. 加载已抓取状态
         state = load_state()
         fetched_ids = set(state["fetched_ids"])
         log(f"已有记录 {len(fetched_ids)} 篇")
 
-        # 2. 拉取 Feed
-        xml_text = fetch_feed()
+        total_new = 0
+        total_skipped = 0
+        
+        for feed_config in FEEDS:
+            feed_url = feed_config["url"]
+            feed_name = feed_config["name"]
+            
+            log(f"\n--- Feed: {feed_name} ---")
+            
+            # 2. 拉取 Feed
+            xml_text = fetch_feed(feed_url)
 
-        # 3. 解析文章
-        articles = parse_feed(xml_text)
-        run_result["feed_total"] = len(articles)
+            # 3. 解析文章
+            articles = parse_feed(xml_text)
+            log(f"Feed 共 {len(articles)} 篇")
 
-        # 4. 过滤出新文章（去重 + 质量筛选）
-        new_articles = [a for a in articles if a["id"] not in fetched_ids]
-        log(f"新文章（去重后）{len(new_articles)} 篇")
-        new_articles, skipped = _apply_filter_rules(new_articles)
-        for s in skipped:
-            log(f"  [筛选跳过] {s['title']} — {s['reason']}", "WARN")
-        log(f"通过筛选 {len(new_articles)} 篇，跳过 {len(skipped)} 篇")
-        run_result["new_count"] = len(new_articles)
-        run_result["new_articles"] = new_articles
-
-        # --- review 模式：输出审核表后停止，不入库 ---
-        if review:
-            fb = load_feedback()
-            print(f"\n📊 当前连续一致: {fb['consecutive_agreements']}/{AUTO_APPROVE_THRESHOLD} "
-                  f"({'⚡ 已达阈值' if fb.get('auto_approve_enabled') else '还需继续验证'})")
-            print_review_table(new_articles, skipped)
-            save_pending_review(new_articles, skipped, run_result["run_time"])
-            run_result["status"] = "review_pending"
-            log("=== 审核模式：已输出审核表，等待用户确认 ===")
-            return True
-
-        # --- 自动审批检查：连续一致 ≥ 阈值 → 跳过审核直接入库 ---
-        if not review and new_articles:
-            if should_auto_approve():
-                log(f"⚡ 自动审批已启用（连续 {AUTO_APPROVE_THRESHOLD}+ 次一致），跳过人工审核")
-                # 自动审批也记录一次无覆盖的反馈
-                record_feedback_overrides([], len(new_articles), len(skipped))
-            else:
+            # 4. 过滤出新文章（去重 + 质量筛选）
+            new_articles = [a for a in articles if a["id"] not in fetched_ids]
+            log(f"新文章（去重后）{len(new_articles)} 篇")
+            new_articles, skipped = _apply_filter_rules(new_articles)
+            for s in skipped:
+                log(f"  [筛选跳过] {s['title']} — {s['reason']}", "WARN")
+            log(f"通过筛选 {len(new_articles)} 篇，跳过 {len(skipped)} 篇")
+            
+            # 标记来源
+            for a in new_articles:
+                a["account"] = feed_name
+            for s in skipped:
+                s["account"] = feed_name
+            
+            total_new += len(new_articles)
+            total_skipped += len(skipped)
+            
+            # --- review 模式：输出审核表后停止，不入库 ---
+            if review and new_articles:
                 fb = load_feedback()
-                log(f"⚠️  连续一致仅 {fb['consecutive_agreements']}/{AUTO_APPROVE_THRESHOLD} 次，"
-                    f"建议使用 --review 先审核再入库")
-                # 也自动记录（视为确认）
-                record_feedback_overrides([], len(new_articles), len(skipped))
+                print(f"\n📊 当前连续一致: {fb['consecutive_agreements']}/{AUTO_APPROVE_THRESHOLD} "
+                      f"({'⚡ 已达阈值' if fb.get('auto_approve_enabled') else '还需继续验证'})")
+                print_review_table(new_articles, skipped)
+                save_pending_review(new_articles, skipped, run_result["run_time"])
+                run_result["status"] = "review_pending"
+                log("=== 审核模式：已输出审核表，等待用户确认 ===")
+                return True
 
-        if not new_articles:
+            # --- 自动审批检查 ---
+            if not review and new_articles:
+                if should_auto_approve():
+                    log(f"⚡ 自动审批已启用（连续 {AUTO_APPROVE_THRESHOLD}+ 次一致），跳过人工审核")
+                    record_feedback_overrides([], len(new_articles), len(skipped))
+                else:
+                    fb = load_feedback()
+                    log(f"⚠️  连续一致仅 {fb['consecutive_agreements']}/{AUTO_APPROVE_THRESHOLD} 次，"
+                        f"建议使用 --review 先审核再入库")
+                    record_feedback_overrides([], len(new_articles), len(skipped))
+
+            if new_articles:
+                run_result["new_count"] = total_new
+                run_result["new_articles"] = new_articles
+                return _save_and_commit_articles(new_articles, skipped, dry_run)
+
+        run_result["new_count"] = total_new
+        run_result["feed_total"] = total_new + total_skipped
+        if total_new == 0:
             run_result["status"] = "success_no_new"
             log("无新文章，正常退出")
-        else:
-            return _save_and_commit_articles(new_articles, skipped, dry_run)
 
     except Exception as e:
         run_result["status"] = "error"
@@ -816,7 +857,7 @@ def main(dry_run=False, review=False, feedback=None, reset=False):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="腾讯技术工程文章抓取脚本")
+    parser = argparse.ArgumentParser(description="多源公众号文章抓取脚本")
     parser.add_argument("--dry-run", action="store_true",
                         help="只打印，不写文件不 git commit")
     parser.add_argument("--review", action="store_true",

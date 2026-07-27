@@ -1,11 +1,21 @@
 ---
+type: Article
 title: OpenClaw与Hermes：源码里的 AI Agent 架构知识大复盘
+description: Agent 框架的 Gateway、插件体系、部署模式对比
 date: 2026-05-29
 source: raw/2026-05/2026-05-29_OpenClaw与Hermes：源码里的 AI Agent 架构知识大复盘.md
-tags: [Agent架构, OpenClaw, Hermes, Gateway, 设计模式]
+tags: [agent-architecture, openclaw, hermes, gateway, design-patterns]
+timestamp: 2026-05-29T00:00:00+08:00
 ---
 
 > 作者：rianli（腾讯程序员）
+
+## 适用场景
+
+- 选型 Agent 框架（OpenClaw vs Hermes）需要技术对比
+- 想深入理解 Agent 的 Gateway、插件体系、记忆管理架构
+- 需要评估 Agent 框架的安全模型和沙箱能力
+- 正在自己设计 Agent 系统，需要借鉴成熟方案的取舍
 
 ## 核心问题
 
@@ -66,6 +76,12 @@ tags: [Agent架构, OpenClaw, Hermes, Gateway, 设计模式]
 </td></tr>
 
 </table>
+
+## 关联概念
+
+- 配合：[Skill 编写手册](skill-design-handbook.md) — Skill 机制依赖框架能力
+- 配合：[Loop Engineering](loop-engineering.md) — 自主循环需要框架的编排支持
+- 配合：[Agent 治理 Hook](agent-governance-hook.md) — 安全审批的架构层实现
 
 ## 关键引用
 

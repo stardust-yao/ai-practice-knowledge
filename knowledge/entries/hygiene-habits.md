@@ -1,11 +1,21 @@
 ---
+type: Article
 title: 你讲卫生吗？— AI 交互习惯的工程化
+description: AI 交互习惯：上下文管理、信噪比、任务隔离
 date: 2026-06-23
 source: raw/2026-06/2026-06-23_你讲卫生吗？….md
-tags: [交互习惯, 上下文管理, Token优化]
+tags: [interaction-habits, context-management, token-optimization]
+timestamp: 2026-06-23T00:00:00+08:00
 ---
 
 > 作者：Enri（腾讯AI产品工程师）
+
+## 适用场景
+
+- 一个 session 用几天不换，AI 开始搞混不同任务
+- 经常塞一堆无关文件给 AI「你帮我看看」
+- AI 的输出质量随着对话变长越来越差
+- 想建立团队级的 AI 交互习惯规范
 
 ## 核心问题
 
@@ -22,6 +32,12 @@ AI 交互中的"脏习惯"：一个 session 聊几天不换、塞一堆无关文
 3. **明确指令**：把需求写成 AI 无法误解的格式。`GIVEN-WHEN-THEN` 比自然语言描述歧义少得多。
 
 **实践清单**：长任务拆短 session；不用的文件从对话里删掉；定期"打扫"上下文；说不清的事先画流程图再给 AI。
+
+## 关联概念
+
+- 配合：[Token 成本控制](token-cost-control.md) — 干净上下文的 Token 效益
+- 配合：[省 Token 心法](frugal-token.md) — 习惯 + 技巧才是最大省钱方案
+- 配合：[上下文压缩策略](context-compression-survey.md) — 上下文太长时怎么办
 
 ## 关键引用
 

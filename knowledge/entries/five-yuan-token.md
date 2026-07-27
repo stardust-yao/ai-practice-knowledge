@@ -1,11 +1,21 @@
 ---
+type: Article
 title: 五块钱如何花三天 — Token 成本控制实践
+description: Token 系统化治理：五块钱花三天的会话管理与看板告警
 date: 2026-07-01
 source: raw/2026-07/2026-07-01_五块钱如何花三天….md
-tags: [Token, 成本控制, 实践]
+tags: [token, cost-control, practice]
+timestamp: 2026-07-01T00:00:00+08:00
 ---
 
 > 作者：horsley（腾讯应用开发高级工程师）
+
+## 适用场景
+
+- Token 消耗不可见、不可度量
+- 想做 Token 用量监控和预算告警
+- 需要从「Token 焦虑」升级到「系统化治理」
+- 要给团队配看板来追踪 Token 支出
 
 ## 核心问题
 
@@ -22,6 +32,12 @@ AI Coding 的 Token 账单往往"不知不觉就上去了"——一个长 sessio
 3. **架构优化**（高收益但需投入）— 知识库按需加载、SubAgent 拆分但计费隔离、token 用量监控 + 告警。**只有可度量的 Token 才能被管理**——配 Token 用量看板，设阈值告警
 
 **反直觉发现**：便宜模型 + 干净上下文 > 最强模型 + 脏长上下文。
+
+## 关联概念
+
+- 前置：[Token 成本控制](token-cost-control.md) — 先理解三层漏斗
+- 配合：[省 Token 心法](frugal-token.md) — 技巧层面的互补
+- 配合：[上下文压缩策略](context-compression-survey.md) — 压缩是治理的高级手段
 
 ## 关键引用
 

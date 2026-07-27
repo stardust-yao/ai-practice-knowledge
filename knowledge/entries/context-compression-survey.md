@@ -1,11 +1,21 @@
 ---
+type: Article
 title: 横向拆解六大Agent上下文压缩策略后，我们做了第 7 个
+description: 六大 Agent 上下文压缩策略横向拆解
 date: 2026-06-08
 source: raw/2026-06/2026-06-08_横向拆解Claude Code、Codex等六大Agent上下文压缩策略后，我们做了第 7 个.md
-tags: [上下文压缩, Token优化, Agent设计]
+tags: [上下文压缩, token-optimization, agent设计]
+timestamp: 2026-06-08T00:00:00+08:00
 ---
 
 > 作者：mervynyang（腾讯程序员）
+
+## 适用场景
+
+- Agent 长对话越聊越慢、越聊越贵
+- 上下文快溢出时不知道用哪种压缩方案
+- 需要在六种主流压缩策略中做选型
+- 正在设计 Agent 框架的上下文管理模块
 
 ## 核心问题
 
@@ -58,6 +68,12 @@ tags: [上下文压缩, Token优化, Agent设计]
 </td></tr>
 
 </table>
+
+## 关联概念
+
+- 配合：[Token 成本控制](token-cost-control.md) — 压缩是成本控制的最顶层策略
+- 配合：[五块钱花三天](five-yuan-token.md) — 压缩配合监控形成闭环
+- 配合：[AI 交互习惯](hygiene-habits.md) — 压缩治标，习惯治本
 
 ## 关键引用
 

@@ -1,11 +1,21 @@
 ---
+type: Article
 title: Harness Eval：我们用一场考试撕掉了遮羞布
+description: Harness Eval 回归评测——用考试检验工作流是否真的在进步
 date: 2026-06-18
 source: raw/2026-06/2026-06-18_你的 Harness 工作流真的在进步吗？我们用一场考试撕掉了遮羞布.md
-tags: [Harness, 评测, Eval]
+tags: [harness, evaluation, eval]
+timestamp: 2026-06-18T00:00:00+08:00
 ---
 
 > 作者：chaseren
+
+## 适用场景
+
+- 改了 Skill / Rules 后不确定效果是变好还是变差
+- 整个团队用主观感受（vibes）驱动工作流演进
+- 需要一套轻量、可回归、可量化对比的评测标准
+- 需要向团队证明「这版改进是数据可验证的」
 
 ## 核心问题
 
@@ -20,6 +30,12 @@ tags: [Harness, 评测, Eval]
 核心思路：用一组固定任务作为"考卷"，每次改 Harness 配置后跑一次评测，对比得分变化。维度覆盖：任务完成度、步骤合规性（是否跳步骤）、产物质量、Token 效率。
 
 **关键设计**：轻量——不需要复杂基础设施；可回归——同一套题反复跑，量化对比；闭环——评测结果反馈到 Rules/Skills 的改进方向。
+
+## 关联概念
+
+- 前置：[端到端全链路](ai-coding-to-harness.md) — 先建好 Harness 工作流再评测
+- 配合：[Agent & Skill 测评](agent-skill-evaluation.md) — 评分器设计的具体方案
+- 配合：[团队 Harness 规范](team-harness-spec.md) — 评测结果反馈到团队规范
 
 ## 关键引用
 

@@ -1,11 +1,21 @@
 ---
+type: Article
 title: 开启Harness Engineering探索之旅
+description: AI 出码快但整体节奏没跟上——三个根因与 Harness 工程化方案
 date: 2026-06-29
 source: raw/2026-06/2026-06-29_开启Harness Engineering探索之旅.md
-tags: [Harness Engineering, 方法论, 工程化]
+tags: [harness-engineering, methodology, engineering]
+timestamp: 2026-06-29T00:00:00+08:00
 ---
 
 > 作者：fanniemeng（腾讯程序员）
+
+## 适用场景
+
+- 刚开始搭建 AI 工程化项目，不确定从哪里入手
+- 发现 AI 出码速度很快但整体项目节奏没同步提升
+- 想理解 Harness Engineering 是什么、为什么需要它
+- 需要说服团队从 Prompt Engineering 升级到 Harness Engineering
 
 ## 核心问题
 
@@ -94,6 +104,12 @@ Mitchell Hashimoto 的定义：
 </td></tr>
 
 </table>
+
+## 关联概念
+
+- 看完这篇 → [团队 Harness 落地规范](team-harness-spec.md) — 把理念变成团队规范
+- 配合：[端到端全链路](ai-coding-to-harness.md) — Harness 的四层骨架详解
+- 配合：[Skill 工程化设计](skill-as-algorithm.md) — 确定性设计是 Harness 的核心手段
 
 ## 关键引用
 

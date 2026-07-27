@@ -1,11 +1,21 @@
 ---
+type: Article
 title: 如何写好 Skill：一份终极实战经验手册
+description: Skill 编写最佳实践：description、渐进式加载、Few-Shot、反模式
 date: 2026-06-05
 source: raw/2026-06/2026-06-05_如何写好 Skill：一份终极实战经验手册.md
-tags: [Skill, 工程化, Prompt Engineering]
+tags: [skill, engineering, prompt-engineering]
+timestamp: 2026-06-05T00:00:00+08:00
 ---
 
 > 作者：jackjchou（腾讯程序员）
+
+## 适用场景
+
+- 第一次写 Skill 不知道从哪下手
+- Skill 写了但 AI 不触发，或效果时好时坏
+- 想把重复的对话流程固化成 Skill
+- 需要 Skill 设计的最佳实践和常见反模式清单
 
 ## 核心问题
 
@@ -106,6 +116,12 @@ Skill 不是免费的——装 20 个 Skill，光 Level 1 就要吃掉 1,000-3,0
 </td></tr>
 
 </table>
+
+## 关联概念
+
+- 互为补充：[Skill 工程化设计](skill-as-algorithm.md) — 这篇讲「怎么写」，那篇讲「为什么这样设计」
+- 配合：[Agent & Skill 测评](agent-skill-evaluation.md) — 写完 Skill 后怎么测评效果
+- 配合：[Token 成本控制](token-cost-control.md) — Skill 本身的 Token 开销管理
 
 ## 关键引用
 

@@ -1,12 +1,22 @@
 ---
+type: Article
 title: Agent 治理：用 Hook 堵住 LLM 的偷懒、越权与失忆
+description: 用 Hook 堵住 LLM 的偷懒、越权与失忆
 date: 2026-07-16
 source: raw/2026-07/2026-07-16_Agent 治理：用 Hook 堵住 LLM 的偷懒、越权与失忆.md
-tags: [Agent治理, Hook, HITL, 长文本, 护栏]
+tags: [agent-governance, hook, hitl, long-context, guardrails]
+timestamp: 2026-07-16T00:00:00+08:00
 ---
 
 > 作者：xiangnzhang（腾讯程序员）
 > 背景：DECO 数仓 Agent 引擎的生产实践
+
+## 适用场景
+
+- AI 在处理长 SQL / 长文件时偷懒省略中间逻辑
+- AI 在方案设计阶段就越权执行了危险操作（改表结构、发布）
+- AI 做完事不告诉你结果，你事后才发现问题
+- 需要框架层面的确定性护栏而非靠 prompt 约束
 
 ## 核心问题
 
@@ -91,6 +101,12 @@ To start editing, run copy_file(...) first, then str_replace.>
 </tr>
 
 </table>
+
+## 关联概念
+
+- 配合：[Skill 工程化设计](skill-as-algorithm.md) — CLI 接管确定性 = Hook 的技术基础
+- 配合：[端到端全链路](ai-coding-to-harness.md) — Gate 门禁本质上是一种前置 Hook
+- 配合：[OpenClaw & Hermes 架构](openclaw-hermes-arch.md) — 安全审批的架构实现
 
 ## 关键引用
 

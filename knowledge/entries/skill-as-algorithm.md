@@ -1,11 +1,21 @@
 ---
+type: Article
 title: 当我把 AI 变成一个"算法"：Skill 工程化设计的心路历程
+description: Agent 即算法——CLI 接管确定性、Workflow、Gate、步进式披露
 date: 2026-05-13
 source: raw/2026-05/2026-05-13_当我把 AI 变成一个-算法-：Skill 工程化设计的心路历程.md
-tags: [Skill, CLI, Workflow, 状态机, 工程化]
+tags: [skill, cli, workflow, state-machine, engineering]
+timestamp: 2026-05-13T00:00:00+08:00
 ---
 
 > 作者：peihanyu（腾讯程序员）
+
+## 适用场景
+
+- Skill / Rules 写得越多效果反而下降
+- 想让 Agent 的输出具有确定性和可预期性
+- 需要设计 Workflow + Gate + 状态机来约束 Agent
+- 正在判断哪些事该让 AI 做、哪些事该让 CLI 程序接管
 
 ## 核心问题
 
@@ -131,6 +141,13 @@ CLI 把流程运行状态写到磁盘 `.state` 文件。任何会话、任何模
 </td></tr>
 
 </table>
+
+## 关联概念
+
+- 互为补充：[Skill 编写手册](skill-design-handbook.md) — 这篇讲「为什么」，那篇讲「怎么写」
+- 配合：[端到端全链路](ai-coding-to-harness.md) — Gate 门禁的全链路位置
+- 配合：[Loop Engineering](loop-engineering.md) — Workflow 升级为自主循环
+- 配合：[Agent 治理 Hook](agent-governance-hook.md) — CLI 接管确定性 = Hook 的实现基础
 
 ## 关键引用
 
