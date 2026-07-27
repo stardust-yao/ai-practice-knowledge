@@ -149,3 +149,16 @@
 - **新文章**: 0 篇
 - **Feed 总量**: 20 篇
 - **累计已抓**: 0 篇
+
+## 2026-07-27 18:45:32 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 4 篇
+- **Feed 总量**: 6 篇
+- **累计已抓**: 34 篇
+
+**本次新增：**
+- [腾讯WorkBuddy实践：如何把Agent做成可用产品](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802931&amp;idx=1&amp;sn=d1a09a7e393f439886c13f84ea8dcde4) `2026-07-24`
+- [鹅厂员工都碰到过哪些Token刺客？](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802928&amp;idx=1&amp;sn=98b6bc4e64f5936316f262d627453c38) `2026-07-23`
+- [从 Vibe Coding 到 AI 原生研发团队：一套能落地的工程实践](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802812&amp;idx=1&amp;sn=732df4944b3cb1543cc4cfe666e6f47a) `2026-07-21`
+- [AI代码生成率94%：我们用一个 Skill 跑通需求开发全流程](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802727&amp;idx=1&amp;sn=631188a7c6711314ff2febbe5cb721e5) `2026-07-20`
