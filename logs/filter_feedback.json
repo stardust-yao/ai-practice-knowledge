@@ -1,7 +1,7 @@
 {
-  "total_reviews": 6,
+  "total_reviews": 8,
   "total_overrides": 0,
-  "consecutive_agreements": 6,
+  "consecutive_agreements": 8,
   "auto_approve_enabled": false,
   "history": [
     {
@@ -41,6 +41,20 @@
     },
     {
       "time": "2026-07-27 17:34:02 CST",
+      "kept_count": 4,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-07-27 17:59:28 CST",
+      "kept_count": 4,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-07-27 18:00:46 CST",
       "kept_count": 4,
       "skipped_count": 2,
       "overrides": [],

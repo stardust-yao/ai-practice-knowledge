@@ -12,12 +12,14 @@ import os
 import re
 import subprocess
 import sys
+from datetime import datetime
 from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parent.parent
 ENTRIES_DIR = ROOT / "knowledge" / "entries"
 INDEX_MD = ROOT / "knowledge" / "index.md"
+LOG_MD = ROOT / "knowledge" / "log.md"
 BACKLINKS_FILE = ROOT / "knowledge" / ".backlinks.json"
 VALIDATE_SCRIPT = ROOT / "scripts" / "validate_concept.py"
 FETCH_SCRIPT = ROOT / "fetch_articles.py"
@@ -194,8 +196,39 @@ def test_tc4_3() -> None:
 
 
 # =============================================================================
-# TC-6.1: 模块覆盖 — index.md 8 modules + 19 concepts module 字段
+# TC-5: Delta Spec 变更记录 — log.md 结构
 # =============================================================================
+
+def test_tc5() -> None:
+    print("\n=== TC-5: Delta Spec 变更记录 ===")
+
+    if not LOG_MD.is_file():
+        _fail(f"日志文件缺失: {LOG_MD}")
+        return
+
+    log_text = LOG_MD.read_text(encoding="utf-8")
+
+    # 检查是否有日期标题（## YYYY-MM-DD）
+    dates = re.findall(r"^## (\d{4}-\d{2}-\d{2})", log_text, re.MULTILINE)
+    if not dates:
+        _fail("log.md 无日期标题（格式: ## YYYY-MM-DD）")
+        return
+
+    # 检查是否有 Delta Spec 标记（**Addition**/**Update**/**Deprecation**）
+    additions = re.findall(r"\*\*Addition\*\*", log_text)
+    updates = re.findall(r"\*\*Update\*\*", log_text)
+    total = len(additions) + len(updates)
+
+    if total == 0:
+        _fail("log.md 无 Delta Spec 标记（**Addition**/**Update**）")
+        return
+
+    _pass(f"{len(dates)} dates, {total} entries ({len(additions)}A/{len(updates)}U)")
+
+
+# =============================================================================
+# TC-6.1: 模块覆盖 — index.md 8 modules + 19 concepts module 字段
+# =============================================================================""
 
 def test_tc6_1() -> None:
     print("\n=== TC-6.1: 模块覆盖 ===")
@@ -331,6 +364,7 @@ def main() -> None:
     test_tc4_1()
     test_tc4_2()
     test_tc4_3()
+    test_tc5()
     test_tc6_1()
     test_tc6_2()
 
