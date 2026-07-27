@@ -54,13 +54,13 @@ stateDiagram-v2
 | 字段 | 类型 | 必填 | Gate | 说明 |
 |------|------|------|------|------|
 | `type` | `string` | ✅ | F1 FAIL | 固定值 `Article` |
-| `title` | `string` | ✅ | — | 原文标题 |
-| `description` | `string` | ✅ | F2 WARN | 一句话，≤80 字 |
-| `module` | `string` | ✅ | — | 8 模块之一，Agent 填入 |
-| `date` | `YYYY-MM-DD` | ✅ | — | 原文发布日期 |
-| `source` | `string` | ✅ | — | `raw/YYYY-MM/...` |
-| `tags` | `string[]` | ✅ | F4 FAIL | 小写英文，≥3 个 |
-| `timestamp` | `ISO8601` | ✅ | F3 FAIL | 最后修改时间 |
+| `title` | `string` | ✅ | F2 FAIL | 原文标题 |
+| `description` | `string` | ✅ | F3 WARN | 一句话，≤80 字 |
+| `module` | `string` | ✅ | F4 FAIL | 8 模块白名单之一 |
+| `date` | `YYYY-MM-DD` | ✅ | F5 FAIL | 原文发布日期 |
+| `source` | `string` | ✅ | F6 FAIL | `raw/YYYY-MM/...` |
+| `tags` | `string[]` | ✅ | F7 FAIL | 小写英文，≥3 个 |
+| `timestamp` | `ISO8601` | ✅ | F8 FAIL | 最后修改时间 |
 
 ### 反向索引 (`knowledge/.backlinks.json`)
 
@@ -121,7 +121,7 @@ flowchart LR
 flowchart TD
     U[("用户触发提炼指令")] -->|读 raw/| AI["Agent 提炼<br/>按 concept-template.md"]
     AI -->|保存| DRAFT[("entries/.slug.draft.md<br/>中间草稿")]
-    DRAFT -->|完成| GATE{"Gate 校验<br/>F1/F3/F4 FAIL<br/>F2/F5/F6/F7 WARN"}
+    DRAFT -->|完成| GATE{"Gate 校验<br/>F1-F8 FAIL<br/>F9-F11 WARN"}
     GATE -->|PASS| ENTRY[("entries/slug.md<br/>正式文件")]
     GATE -->|WARN| ENTRY2[("正式文件 + TODO 标注")]
     GATE -->|FAIL| AI
@@ -242,17 +242,21 @@ INITIAL_STATE = {
 module: cost-performance  # 8 模块之一
 ```
 
-### D-3: F2 降级 + Gate 校验脚本
-- **文件**: `specs/concept-spec.md:8` @ F2 规则
-- **目的**: F2 改为 WARN，保留 F1/F3/F4 为 FAIL
-- **实现**: 修改 `concept-spec.md` 中 F2 级别标注，新增 `validate_concept.py` 脚本
+### D-3: Gate 校验脚本（F1-F11）
+- **文件**: `specs/concept-spec.md` @ Gate 校验清单
+- **目的**: 全部 8 个 frontmatter 字段 + 3 个正文段落均有 Gate 检查，6 FAIL + 5 WARN
+- **实现**: 新增 `validate_concept.py` 脚本，按 F1-F11 逐条检查
 - **关键代码**:
 ```python
 GATE_RULES = {
     "F1": {"field": "type", "check": "non_empty", "level": "FAIL"},
-    "F2": {"field": "description", "check": "non_empty", "level": "WARN"},
-    "F3": {"field": "timestamp", "check": "iso8601", "level": "FAIL"},
-    "F4": {"field": "tags", "check": "lowercase_english_min_3", "level": "FAIL"},
+    "F2": {"field": "title", "check": "non_empty", "level": "FAIL"},
+    "F3": {"field": "description", "check": "non_empty", "level": "WARN"},
+    "F4": {"field": "module", "check": "in_whitelist", "level": "FAIL"},
+    "F5": {"field": "date", "check": "yyyy_mm_dd", "level": "FAIL"},
+    "F6": {"field": "source", "check": "non_empty", "level": "FAIL"},
+    "F7": {"field": "tags", "check": "lowercase_english_min_3", "level": "FAIL"},
+    "F8": {"field": "timestamp", "check": "iso8601", "level": "FAIL"},
 }
 ```
 
