@@ -2,10 +2,10 @@
 
 - **change-id**: `p3-p4-20260727`
 - **branch**: main
-- **commit**: `c93b1f0`
+- **commit**: `43c5511`
 - **deploy-time**: 2026-07-27T18:00:00+08:00
 - **target**: GitHub `stardust-yao/ai-practice-knowledge`
-- **status**: pending
+- **status**: deployed (CI/CD: P4 Test running)
 
 ## 提交信息
 
