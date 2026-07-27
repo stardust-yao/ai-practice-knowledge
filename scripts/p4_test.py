@@ -360,6 +360,8 @@ def test_tc6_2() -> None:
 
 def main() -> None:
     os.chdir(ROOT)
+    import time
+    t0 = time.time()
 
     test_tc4_1()
     test_tc4_2()
@@ -367,6 +369,22 @@ def main() -> None:
     test_tc5()
     test_tc6_1()
     test_tc6_2()
+
+    duration_ms = int((time.time() - t0) * 1000)
+    # Hook: 维度3 指标收集
+    try:
+        from pathlib import Path as _P
+        import json as _J, sys as _S
+        _S.path.insert(0, str(ROOT / "scripts"))
+        from metrics import hook_engine
+        hook_engine("post:phase:end", {
+            "phase": "P4", "action": "test",
+            "duration_ms": duration_ms,
+            "passed": EXIT_CODE == 0,
+            "retry_count": 0,
+        })
+    except Exception:
+        pass  # Hook 不阻断主流程
 
     print()
     if EXIT_CODE == 0:

@@ -43,6 +43,12 @@ def main():
         
         if rc == 0:
             print(f"\n✅ 第 {retry} 轮 PASS")
+            # Hook: 维度3
+            try:
+                sys.path.insert(0, str(ROOT / "scripts"))
+                from metrics import hook_engine
+                hook_engine("post:phase:end", {"phase": "P4", "action": "test_retry", "retry_count": retry, "passed": True, "duration_ms": 0})
+            except: pass
             return 0
         
         failures = diagnose(stdout)
@@ -53,6 +59,12 @@ def main():
         if retry < MAX_RETRIES:
             print(f"  → 自动修正后重试第 {retry+1} 轮...")
         else:
+            # Hook: 重试耗尽
+            try:
+                sys.path.insert(0, str(ROOT / "scripts"))
+                from metrics import hook_engine
+                hook_engine("debugger:retry_exhausted", {"phase": "P4", "retry_count": retry, "passed": False})
+            except: pass
             print(f"\n⛔ 已达 {MAX_RETRIES} 轮上限，需人工介入")
             print(f"  → 拉起 specworker-p4-debugger 或手动排查")
     
