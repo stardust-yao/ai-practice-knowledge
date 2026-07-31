@@ -162,3 +162,15 @@
 - [鹅厂员工都碰到过哪些Token刺客？](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802928&amp;idx=1&amp;sn=98b6bc4e64f5936316f262d627453c38) `2026-07-23`
 - [从 Vibe Coding 到 AI 原生研发团队：一套能落地的工程实践](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802812&amp;idx=1&amp;sn=732df4944b3cb1543cc4cfe666e6f47a) `2026-07-21`
 - [AI代码生成率94%：我们用一个 Skill 跑通需求开发全流程](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802727&amp;idx=1&amp;sn=631188a7c6711314ff2febbe5cb721e5) `2026-07-20`
+
+## 2026-07-31 12:36:16 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 3 篇
+- **Feed 总量**: 5 篇
+- **累计已抓**: 37 篇
+
+**本次新增：**
+- [AI Coding的下一站，不是更会写代码，而是更懂团队](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802960&amp;idx=1&amp;sn=c62698da543f3bd37ba36b617bc92b80) `2026-07-30`
+- [Loop Engineering 已死？ 一文带你了解Graph Engineering](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802937&amp;idx=1&amp;sn=3ecdb58a929806962d1b2455575d6b4a) `2026-07-28`
+- [Agent开始“自我进化”：会出题、会反思，还会自己长出新技能](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802932&amp;idx=1&amp;sn=7d3d0536a3433b8848942c2a58b945ca) `2026-07-27`
