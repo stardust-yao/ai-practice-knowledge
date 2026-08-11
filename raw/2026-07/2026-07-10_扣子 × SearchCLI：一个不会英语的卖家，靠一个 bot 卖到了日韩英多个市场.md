@@ -2,7 +2,7 @@
 title: 扣子 × SearchCLI：一个不会英语的卖家，靠一个 bot 卖到了日韩英多个市场
 date: 2026-07-10
 source: https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520780&amp;idx=2&amp;sn=9b8a0e95210d1da2b0c48795c93a1024
-account: 腾讯技术工程
+account: 字节跳动技术团队
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 9b8a0e95210d1da2b0c48795c93a1024
 ---

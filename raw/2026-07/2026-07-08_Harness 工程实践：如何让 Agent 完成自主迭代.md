@@ -2,7 +2,7 @@
 title: Harness 工程实践：如何让 Agent 完成自主迭代
 date: 2026-07-08
 source: https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509988&amp;idx=1&amp;sn=077f18a5e969437efceb13f31d13bf73
-account: 腾讯技术工程
+account: 阿里技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 077f18a5e969437efceb13f31d13bf73
 ---

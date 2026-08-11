@@ -2,7 +2,7 @@
 title: Hello AgentScope Java
 date: 2025-11-20
 source: https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520182&amp;idx=1&amp;sn=a5a92dd1d74e8aee6b8451c119945150
-account: 腾讯技术工程
+account: 阿里巴巴中间件
 fetched_at: 2026-07-31 12:38:28 CST
 article_id: a5a92dd1d74e8aee6b8451c119945150
 ---

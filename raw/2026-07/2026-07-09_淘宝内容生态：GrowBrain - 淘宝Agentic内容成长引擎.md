@@ -2,7 +2,7 @@
 title: 淘宝内容生态：GrowBrain - 淘宝Agentic内容成长引擎
 date: 2026-07-09
 source: https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561428&amp;idx=1&amp;sn=037c032be851bffa7adf403e63bc0486
-account: 腾讯技术工程
+account: 阿里云开发者
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 037c032be851bffa7adf403e63bc0486
 ---

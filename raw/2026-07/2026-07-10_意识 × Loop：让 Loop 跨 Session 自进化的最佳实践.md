@@ -2,7 +2,7 @@
 title: 意识 × Loop：让 Loop 跨 Session 自进化的最佳实践
 date: 2026-07-10
 source: https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247510011&amp;idx=1&amp;sn=dde47100c92c8264e667c27d7d52f41a
-account: 腾讯技术工程
+account: 阿里技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: dde47100c92c8264e667c27d7d52f41a
 ---

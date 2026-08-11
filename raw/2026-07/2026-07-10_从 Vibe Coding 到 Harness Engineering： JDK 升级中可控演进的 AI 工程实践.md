@@ -2,7 +2,7 @@
 title: 从 Vibe Coding 到 Harness Engineering： JDK 升级中可控演进的 AI 工程实践
 date: 2026-07-10
 source: https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247519825&amp;idx=1&amp;sn=955f06302a8b11467024254492c249b3
-account: 腾讯技术工程
+account: 小米技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 955f06302a8b11467024254492c249b3
 ---

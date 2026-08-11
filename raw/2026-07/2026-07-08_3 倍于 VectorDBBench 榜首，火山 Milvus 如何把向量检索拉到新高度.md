@@ -2,7 +2,7 @@
 title: 3 倍于 VectorDBBench 榜首，火山 Milvus 如何把向量检索拉到新高度
 date: 2026-07-08
 source: https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520682&amp;idx=2&amp;sn=4cbdb81828435ba827ee4c34532f5de3
-account: 腾讯技术工程
+account: 字节跳动技术团队
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 4cbdb81828435ba827ee4c34532f5de3
 ---

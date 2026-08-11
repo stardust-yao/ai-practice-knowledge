@@ -2,7 +2,7 @@
 title: 行动即推理：南洋理工大学等提出S-Agent，空间智能迈入Agent时代
 date: 2026-07-24
 source: https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651046515&amp;idx=2&amp;sn=2c721691c753384e283cefbdfc16fef1
-account: 腾讯技术工程
+account: 机器之心
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: 2c721691c753384e283cefbdfc16fef1
 ---

@@ -2,7 +2,7 @@
 title: 离开OpenAI和Google后，两位大模型核心负责人决定卷下一代架构
 date: 2026-08-05
 source: https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651048476&amp;idx=2&amp;sn=84bb499062e9b73e5fad619b3b074df5
-account: 腾讯技术工程
+account: 机器之心
 fetched_at: 2026-08-11 17:11:44 CST
 article_id: 84bb499062e9b73e5fad619b3b074df5
 ---

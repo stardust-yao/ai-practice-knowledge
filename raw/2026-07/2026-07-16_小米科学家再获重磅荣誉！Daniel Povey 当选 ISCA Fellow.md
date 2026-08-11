@@ -2,7 +2,7 @@
 title: 小米科学家再获重磅荣誉！Daniel Povey 当选 ISCA Fellow
 date: 2026-07-16
 source: https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520148&amp;idx=2&amp;sn=05b2ac43ad39114acc0e862d77a0b7f5
-account: 腾讯技术工程
+account: 小米技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 05b2ac43ad39114acc0e862d77a0b7f5
 ---

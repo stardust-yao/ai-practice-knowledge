@@ -2,7 +2,7 @@
 title: Storage Agent Family: Agent 时代，重构云存储的“人机交互”
 date: 2026-07-20
 source: https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520980&amp;idx=1&amp;sn=3473de7e69a0d88739c1684a4abfff7e
-account: 腾讯技术工程
+account: 字节跳动技术团队
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 3473de7e69a0d88739c1684a4abfff7e
 ---

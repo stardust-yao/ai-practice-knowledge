@@ -2,7 +2,7 @@
 title: 让Agent学会「如何演化」：清华、华为提出层次化技能元演化框架HiSME
 date: 2026-07-23
 source: https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651046305&amp;idx=3&amp;sn=0d47144d424c092f019369befff39627
-account: 腾讯技术工程
+account: 机器之心
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: 0d47144d424c092f019369befff39627
 ---

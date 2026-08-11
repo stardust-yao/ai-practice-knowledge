@@ -2,7 +2,7 @@
 title: 别让AI瞎猜了：用Harness Engineering 终结无限返工
 date: 2026-05-14
 source: https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&amp;mid=2247499431&amp;idx=1&amp;sn=baa9408cc9502ed7e54ca208d4af0f2b
-account: 腾讯技术工程
+account: 爱奇艺技术产品团队
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: baa9408cc9502ed7e54ca208d4af0f2b
 ---

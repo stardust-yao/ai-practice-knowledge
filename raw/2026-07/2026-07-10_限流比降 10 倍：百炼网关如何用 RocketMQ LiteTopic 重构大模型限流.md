@@ -2,7 +2,7 @@
 title: 限流比降 10 倍：百炼网关如何用 RocketMQ LiteTopic 重构大模型限流
 date: 2026-07-10
 source: https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561434&amp;idx=1&amp;sn=f93af04c3958ccf69d495d3296503a29
-account: 腾讯技术工程
+account: 阿里云开发者
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: f93af04c3958ccf69d495d3296503a29
 ---

@@ -2,7 +2,7 @@
 title: 让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层
 date: 2026-07-23
 source: https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783046&amp;idx=1&amp;sn=a18ff849165bb78a263bdc32c4f55309
-account: 腾讯技术工程
+account: 美团技术团队
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: a18ff849165bb78a263bdc32c4f55309
 ---

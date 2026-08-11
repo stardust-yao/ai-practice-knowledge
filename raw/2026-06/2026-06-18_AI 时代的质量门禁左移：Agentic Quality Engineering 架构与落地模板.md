@@ -2,7 +2,7 @@
 title: AI 时代的质量门禁左移：Agentic Quality Engineering 架构与落地模板
 date: 2026-06-18
 source: https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&amp;mid=2247499500&amp;idx=1&amp;sn=f084fc60050c017252355995afaff7b6
-account: 腾讯技术工程
+account: 爱奇艺技术产品团队
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: f084fc60050c017252355995afaff7b6
 ---

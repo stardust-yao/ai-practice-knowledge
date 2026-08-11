@@ -2,7 +2,7 @@
 title: 从特效 SDK 到 AI 动效平台：Neon Vibe Motion 的技术演进之路
 date: 2026-03-31
 source: https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504130&amp;idx=1&amp;sn=e16047064d35627ab2d3619c1f763890
-account: 腾讯技术工程
+account: 哔哩哔哩技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: e16047064d35627ab2d3619c1f763890
 ---

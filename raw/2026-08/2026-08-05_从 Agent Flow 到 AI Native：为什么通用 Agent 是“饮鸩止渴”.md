@@ -2,7 +2,7 @@
 title: 从 Agent Flow 到 AI Native：为什么通用 Agent 是“饮鸩止渴”
 date: 2026-08-05
 source: https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247510883&amp;idx=1&amp;sn=1988e51340f0d9a22b2e6908fc60eddc
-account: 腾讯技术工程
+account: 阿里技术
 fetched_at: 2026-08-11 17:11:38 CST
 article_id: 1988e51340f0d9a22b2e6908fc60eddc
 ---

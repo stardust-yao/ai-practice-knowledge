@@ -2,7 +2,7 @@
 title: 从“看得见”到“能决策”：Operation Intelligence 重构企业智能运维新范式
 date: 2025-09-25
 source: https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520072&amp;idx=1&amp;sn=676cb5dc732ceaab719cfa8babf3b40e
-account: 腾讯技术工程
+account: 阿里巴巴中间件
 fetched_at: 2026-07-31 12:38:28 CST
 article_id: 676cb5dc732ceaab719cfa8babf3b40e
 ---

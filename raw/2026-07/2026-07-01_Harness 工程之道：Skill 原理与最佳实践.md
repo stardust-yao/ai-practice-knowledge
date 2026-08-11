@@ -2,7 +2,7 @@
 title: Harness 工程之道：Skill 原理与最佳实践
 date: 2026-07-01
 source: https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561307&amp;idx=1&amp;sn=db2094d35c1d7e91bee65acb69a3bbb9
-account: 腾讯技术工程
+account: 阿里云开发者
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: db2094d35c1d7e91bee65acb69a3bbb9
 ---

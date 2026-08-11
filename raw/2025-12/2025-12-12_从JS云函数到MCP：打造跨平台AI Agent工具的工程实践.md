@@ -2,7 +2,7 @@
 title: 从JS云函数到MCP：打造跨平台AI Agent工具的工程实践
 date: 2025-12-12
 source: https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247503836&amp;idx=1&amp;sn=d84b2e1c6ce9330751cd4d58b3ec32ef
-account: 腾讯技术工程
+account: 哔哩哔哩技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: d84b2e1c6ce9330751cd4d58b3ec32ef
 ---

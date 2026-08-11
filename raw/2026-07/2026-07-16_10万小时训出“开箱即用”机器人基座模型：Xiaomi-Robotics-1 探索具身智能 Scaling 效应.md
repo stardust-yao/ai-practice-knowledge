@@ -2,7 +2,7 @@
 title: 10万小时训出“开箱即用”机器人基座模型：Xiaomi-Robotics-1 探索具身智能 Scaling 效应
 date: 2026-07-16
 source: https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520148&amp;idx=1&amp;sn=5a3d53dd0f4152ddbb220690f040a9de
-account: 腾讯技术工程
+account: 小米技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 5a3d53dd0f4152ddbb220690f040a9de
 ---

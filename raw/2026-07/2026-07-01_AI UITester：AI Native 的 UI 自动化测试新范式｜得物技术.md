@@ -2,7 +2,7 @@
 title: AI UITester：AI Native 的 UI 自动化测试新范式｜得物技术
 date: 2026-07-01
 source: https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247545653&amp;idx=1&amp;sn=e7c008cf208a9b5d535349dedc667651
-account: 腾讯技术工程
+account: 得物技术
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: e7c008cf208a9b5d535349dedc667651
 ---

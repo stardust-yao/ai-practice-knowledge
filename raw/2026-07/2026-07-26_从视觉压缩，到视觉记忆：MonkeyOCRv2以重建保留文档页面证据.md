@@ -2,7 +2,7 @@
 title: 从视觉压缩，到视觉记忆：MonkeyOCRv2以重建保留文档页面证据
 date: 2026-07-26
 source: https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651046706&amp;idx=2&amp;sn=e898955a97f8121989a03245d944e18f
-account: 腾讯技术工程
+account: 机器之心
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: e898955a97f8121989a03245d944e18f
 ---

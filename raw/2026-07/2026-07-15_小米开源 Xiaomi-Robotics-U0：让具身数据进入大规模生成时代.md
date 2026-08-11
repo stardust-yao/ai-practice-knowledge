@@ -2,7 +2,7 @@
 title: 小米开源 Xiaomi-Robotics-U0：让具身数据进入大规模生成时代
 date: 2026-07-15
 source: https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520052&amp;idx=1&amp;sn=1f9b67443f733cf2ad60feabf3908948
-account: 腾讯技术工程
+account: 小米技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 1f9b67443f733cf2ad60feabf3908948
 ---

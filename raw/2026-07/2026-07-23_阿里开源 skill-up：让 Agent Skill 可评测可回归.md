@@ -2,7 +2,7 @@
 title: 阿里开源 skill-up：让 Agent Skill 可评测可回归
 date: 2026-07-23
 source: https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247510426&amp;idx=1&amp;sn=77717225ccb946c19752a93e9681d8d1
-account: 腾讯技术工程
+account: 阿里技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 77717225ccb946c19752a93e9681d8d1
 ---

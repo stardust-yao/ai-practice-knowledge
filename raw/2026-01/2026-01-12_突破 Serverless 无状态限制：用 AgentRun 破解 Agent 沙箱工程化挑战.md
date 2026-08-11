@@ -2,7 +2,7 @@
 title: 突破 Serverless 无状态限制：用 AgentRun 破解 Agent 沙箱工程化挑战
 date: 2026-01-12
 source: https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520295&amp;idx=1&amp;sn=fe9f061df7a05a4b92611857c82b5497
-account: 腾讯技术工程
+account: 阿里巴巴中间件
 fetched_at: 2026-07-31 12:38:28 CST
 article_id: fe9f061df7a05a4b92611857c82b5497
 ---

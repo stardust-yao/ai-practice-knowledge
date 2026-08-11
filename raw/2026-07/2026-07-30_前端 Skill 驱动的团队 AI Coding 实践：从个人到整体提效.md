@@ -2,7 +2,7 @@
 title: 前端 Skill 驱动的团队 AI Coding 实践：从个人到整体提效
 date: 2026-07-30
 source: https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247510834&amp;idx=2&amp;sn=5a5b4047a438b8499f36792f06686618
-account: 腾讯技术工程
+account: 阿里技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 5a5b4047a438b8499f36792f06686618
 ---

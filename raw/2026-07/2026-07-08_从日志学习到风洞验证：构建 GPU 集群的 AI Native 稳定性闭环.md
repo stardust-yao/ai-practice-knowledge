@@ -2,7 +2,7 @@
 title: 从日志学习到风洞验证：构建 GPU 集群的 AI Native 稳定性闭环
 date: 2026-07-08
 source: https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561417&amp;idx=1&amp;sn=b4e0570993dfe513713f01b66ac5020c
-account: 腾讯技术工程
+account: 阿里云开发者
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: b4e0570993dfe513713f01b66ac5020c
 ---

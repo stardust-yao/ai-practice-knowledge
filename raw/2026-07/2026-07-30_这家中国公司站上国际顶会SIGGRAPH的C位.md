@@ -2,7 +2,7 @@
 title: 这家中国公司站上国际顶会SIGGRAPH的C位
 date: 2026-07-30
 source: https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651047451&amp;idx=1&amp;sn=274e2733c0b51bffa02aeed28256404c
-account: 腾讯技术工程
+account: 机器之心
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: 274e2733c0b51bffa02aeed28256404c
 ---

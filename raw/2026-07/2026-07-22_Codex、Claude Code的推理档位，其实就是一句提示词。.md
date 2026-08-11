@@ -2,7 +2,7 @@
 title: Codex、Claude Code的推理档位，其实就是一句提示词。
 date: 2026-07-22
 source: https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247724447&amp;idx=1&amp;sn=527132ab1bfd79fa01e247a7fc77b7c1
-account: 腾讯技术工程
+account: Datawhale
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: 527132ab1bfd79fa01e247a7fc77b7c1
 ---

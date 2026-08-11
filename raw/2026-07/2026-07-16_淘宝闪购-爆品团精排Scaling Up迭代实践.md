@@ -2,7 +2,7 @@
 title: 淘宝闪购-爆品团精排Scaling Up迭代实践
 date: 2026-07-16
 source: https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561530&amp;idx=1&amp;sn=27ecc399bc4f778f0eeb5be5f49bac01
-account: 腾讯技术工程
+account: 阿里云开发者
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 27ecc399bc4f778f0eeb5be5f49bac01
 ---

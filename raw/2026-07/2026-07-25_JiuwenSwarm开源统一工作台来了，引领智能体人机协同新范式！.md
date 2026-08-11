@@ -2,7 +2,7 @@
 title: JiuwenSwarm开源统一工作台来了，引领智能体人机协同新范式！
 date: 2026-07-25
 source: https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651046629&amp;idx=2&amp;sn=056802384b9543b84492788733a247ce
-account: 腾讯技术工程
+account: 机器之心
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: 056802384b9543b84492788733a247ce
 ---

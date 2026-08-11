@@ -2,7 +2,7 @@
 title: AutoResearch-LLM：让 Agent 接手 LLM 训练优化
 date: 2026-07-06
 source: https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561366&amp;idx=1&amp;sn=d50229e8d5ebdc40a628493d218f43ab
-account: 腾讯技术工程
+account: 阿里云开发者
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: d50229e8d5ebdc40a628493d218f43ab
 ---

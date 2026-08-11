@@ -2,7 +2,7 @@
 title: 让生成式模型「画」出空间智能，而非强迫LLM输出「坐标」! 浙大提出Agentic空间认知评估框架
 date: 2026-08-08
 source: https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651049201&amp;idx=3&amp;sn=0d392ccc606293b0469161d091a1d940
-account: 腾讯技术工程
+account: 机器之心
 fetched_at: 2026-08-11 17:11:44 CST
 article_id: 0d392ccc606293b0469161d091a1d940
 ---

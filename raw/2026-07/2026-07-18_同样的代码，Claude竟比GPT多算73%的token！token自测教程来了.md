@@ -2,7 +2,7 @@
 title: 同样的代码，Claude竟比GPT多算73%的token！token自测教程来了
 date: 2026-07-18
 source: https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247724293&amp;idx=1&amp;sn=fcca123422738db4eb33744064a87654
-account: 腾讯技术工程
+account: Datawhale
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: fcca123422738db4eb33744064a87654
 ---

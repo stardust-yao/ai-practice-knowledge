@@ -2,7 +2,7 @@
 title: RAG 核心概念与原理：Chunking、Embedding、相似度、HNSW 与多路召回｜得物技术
 date: 2026-07-22
 source: https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247546214&amp;idx=1&amp;sn=1ea66a2621a684b57f05339341dde10f
-account: 腾讯技术工程
+account: 得物技术
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: 1ea66a2621a684b57f05339341dde10f
 ---

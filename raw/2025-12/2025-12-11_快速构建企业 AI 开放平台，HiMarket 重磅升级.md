@@ -2,7 +2,7 @@
 title: 快速构建企业 AI 开放平台，HiMarket 重磅升级
 date: 2025-12-11
 source: https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520228&amp;idx=1&amp;sn=3932db7f0e7a26d8b79145054d7b94b7
-account: 腾讯技术工程
+account: 阿里巴巴中间件
 fetched_at: 2026-07-31 12:38:28 CST
 article_id: 3932db7f0e7a26d8b79145054d7b94b7
 ---

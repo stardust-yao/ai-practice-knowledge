@@ -2,7 +2,7 @@
 title: 美团 LongCat 开源 VitaBench 2.0：长期动态智能体基准新标杆
 date: 2026-06-25
 source: https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651782940&amp;idx=1&amp;sn=cdcc1d5ef4abbde9dcd8db011243127d
-account: 腾讯技术工程
+account: 美团技术团队
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: cdcc1d5ef4abbde9dcd8db011243127d
 ---

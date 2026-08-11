@@ -2,7 +2,7 @@
 title: 让 Claude Code 拥有自我进化和记忆系统｜得物技术
 date: 2026-06-10
 source: https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247544916&amp;idx=1&amp;sn=25d5c20a7a9d2b0dfed78eaf25598717
-account: 腾讯技术工程
+account: 得物技术
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: 25d5c20a7a9d2b0dfed78eaf25598717
 ---

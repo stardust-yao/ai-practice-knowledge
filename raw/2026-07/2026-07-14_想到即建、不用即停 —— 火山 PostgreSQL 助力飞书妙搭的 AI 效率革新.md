@@ -2,7 +2,7 @@
 title: 想到即建、不用即停 —— 火山 PostgreSQL 助力飞书妙搭的 AI 效率革新
 date: 2026-07-14
 source: https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520827&amp;idx=1&amp;sn=543e0e51b78349e2c5f87c4867713da5
-account: 腾讯技术工程
+account: 字节跳动技术团队
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 543e0e51b78349e2c5f87c4867713da5
 ---

@@ -2,7 +2,7 @@
 title: Transformer开始构建三维世界：开源模型几张图片秒级生成可探索3D场景
 date: 2026-08-05
 source: https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651048476&amp;idx=1&amp;sn=127e2a16ce10145381b6136dcd07f414
-account: 腾讯技术工程
+account: 机器之心
 fetched_at: 2026-08-11 17:11:44 CST
 article_id: 127e2a16ce10145381b6136dcd07f414
 ---

@@ -2,7 +2,7 @@
 title: 从Kafka到AutoMQ：爱奇艺实时流数据架构演进
 date: 2026-01-08
 source: https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&amp;mid=2247499197&amp;idx=1&amp;sn=14b7cf77d5fd597fbf1493d3361a7ad9
-account: 腾讯技术工程
+account: 爱奇艺技术产品团队
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: 14b7cf77d5fd597fbf1493d3361a7ad9
 ---

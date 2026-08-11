@@ -2,7 +2,7 @@
 title: 重磅！Graph Engineering 实操手册公开
 date: 2026-08-09
 source: https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725115&amp;idx=1&amp;sn=fb12a61e5ec38ab5c24a5701c6fdcc67
-account: 腾讯技术工程
+account: Datawhale
 fetched_at: 2026-08-11 17:11:45 CST
 article_id: fb12a61e5ec38ab5c24a5701c6fdcc67
 ---

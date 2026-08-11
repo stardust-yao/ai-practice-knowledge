@@ -2,7 +2,7 @@
 title: 人类研发时代结束？XYZ最强Search Agent横扫七大榜单，300个Agent跑通AI4AI全栈闭环
 date: 2026-07-25
 source: https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651046629&amp;idx=1&amp;sn=51f122b258d9557c41edab9c7667affb
-account: 腾讯技术工程
+account: 机器之心
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: 51f122b258d9557c41edab9c7667affb
 ---
