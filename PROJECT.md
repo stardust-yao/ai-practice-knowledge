@@ -4,10 +4,11 @@
 
 ## 当前状态
 
-- 阶段：自动抓取已运行，手动补录进行中
-- 上次更新：2026-07-31
-- raw/ 文章数：20 篇（2026-06-22 ~ 2026-07-17）
-- 已产出 Skill 数：0
+- 阶段：自动抓取已运行（多 feed），筛选规则已完善，等待知识提炼
+- 上次更新：2026-08-11
+- raw/ 文章数：257 篇（2025-09-25 ~ 2026-08-10），来源 9 个公众号（腾讯技术工程/美团/字节/阿里/小米/B站/阿里云开发者/爱奇艺/得物）
+- 8 月文章：32 篇（筛选后）
+- 已产出 Skill 数：0（项目内 skills/ 目录为空，沉淀技能在 ~/.hermes/skills/）
 
 ---
 
@@ -15,10 +16,10 @@
 
 ### 自动抓取（每日定时）
 - 来源：wechat2rss.xlab.app 免费 RSS
-- Feed URL：`https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml`
-- 脚本：`fetch_articles.py`（项目根目录）
-- 触发：阿里云服务器 cron，每天凌晨 2 点（待部署）
-- 服务器：47.85.56.224，Python 3.6.8 + git 2.43.7
+- Feed：`fetch_articles.py` 的 `FEEDS` 列表（9 个公众号）
+- 脚本：`fetch_articles.py`（项目根目录，兼容 Python 3.6：subprocess 用 `stdout/stderr=PIPE + universal_newlines`，勿改回 `capture_output`）
+- 触发：阿里云服务器 cron `0 18 * * *`（北京时间每天 18:00），自动 commit+push
+- 服务器：47.85.56.224，Python 3.6.8 + git（GitHub SSH key：aliyun-cron-fetch）
 
 **已知限制：免费版硬限返回最近 20 篇，无历史分页**
 - `?page=`/`?limit=`/`?count=`/`.json` 等参数均无效
