@@ -186,7 +186,7 @@ def main():
 
         subprocess.run(["git", "add"] + files, check=True)
         subprocess.run(["git", "commit", "-m", f"feat(raw): 手动导入 — {title[:40]}"], check=True)
-        result = subprocess.run(["git", "push"], capture_output=True, text=True)
+        result = subprocess.run(["git", "push"], stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True)
         if result.returncode == 0:
             fa.log("git push 成功")
         else:

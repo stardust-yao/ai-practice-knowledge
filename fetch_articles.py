@@ -36,15 +36,60 @@ from pathlib import Path
 # 每个 feed: {url, name, filter_rules(可选)}
 # filter_rules 为 None 时使用全局筛选规则
 FEEDS = [
+    # ── 大厂工程实践（正文完整，已验证） ──
     {
         "url": "https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml",
         "name": "腾讯技术工程",
     },
     {
+        "url": "https://wechat2rss.xlab.app/feed/eb4d04149424a874693a51c6fdda0dba8673f5e4.xml",
+        "name": "美团技术团队",
+    },
+    {
+        "url": "https://wechat2rss.xlab.app/feed/4025ea55575daf8bfd8227e68b28d9638b073267.xml",
+        "name": "字节跳动技术团队",
+    },
+    {
+        "url": "https://wechat2rss.xlab.app/feed/6e1f9b775f7a5841ac1a94310f0478b45a02ec01.xml",
+        "name": "阿里技术",
+    },
+    {
+        "url": "https://wechat2rss.xlab.app/feed/20bc9c3251b3c4f73d3b53aa1f1ab853d05d4cbc.xml",
+        "name": "小米技术",
+    },
+    {
+        "url": "https://wechat2rss.xlab.app/feed/434235d4815fdb8447ff3127fc053ceb8b3aada6.xml",
+        "name": "哔哩哔哩技术",
+    },
+    {
         "url": "https://wechat2rss.xlab.app/feed/c74ed6db00cfbf16f2a048a165b4453f982681f0.xml",
-        "name": "千问AI平台",
-        # 注意：此 feed 的 RSS 描述为空（微信限制），只能抓到标题和链接
-        # 正文需通过其他方式获取（微信客户端手动复制 或 搜狗微信搜索）
+        "name": "阿里云开发者",
+    },
+    # ── 扩展源（正文状态待验证） ──
+    {
+        "url": "https://wechat2rss.xlab.app/feed/16a4ec12a83a52e1f6e941bce030a4d64ee26c47.xml",
+        "name": "爱奇艺技术产品团队",
+        "_note": "正文状态待验证",
+    },
+    {
+        "url": "https://wechat2rss.xlab.app/feed/f3a42bd249ec6e8834ae761d8d0f85a949950944.xml",
+        "name": "得物技术",
+        "_note": "正文状态待验证",
+    },
+    {
+        "url": "https://wechat2rss.xlab.app/feed/51e92aad2728acdd1fda7314be32b16639353001.xml",
+        "name": "机器之心",
+        "_note": "AI/ML 领域资讯",
+    },
+    {
+        "url": "https://wechat2rss.xlab.app/feed/4d620d988cb21cfeefd2263207221f0dc70df9ff.xml",
+        "name": "Datawhale",
+        "_note": "开源数据科学/AI 学习社区",
+    },
+    {
+        "url": "https://wechat2rss.xlab.app/feed/ede34e7a9aff5e93ad159ebfd27075710a963f54.xml",
+        "name": "阿里巴巴中间件",
+        "_note": "正文状态待验证",
     },
 ]
 
@@ -402,7 +447,7 @@ def git_commit_push(new_articles, dry_run=False):
 
     result = subprocess.run(
         ["git", "add"] + files_to_add,
-        capture_output=True, text=True
+        stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True
     )
     if result.returncode != 0:
         log(f"git add 失败: {result.stderr}", "ERROR")
@@ -415,7 +460,7 @@ def git_commit_push(new_articles, dry_run=False):
 
     result = subprocess.run(
         ["git", "commit", "-m", commit_msg],
-        capture_output=True, text=True
+        stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True
     )
     if result.returncode != 0:
         log(f"git commit 失败: {result.stderr}", "ERROR")
@@ -425,7 +470,7 @@ def git_commit_push(new_articles, dry_run=False):
 
     result = subprocess.run(
         ["git", "push"],
-        capture_output=True, text=True
+        stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True
     )
     if result.returncode != 0:
         log(f"git push 失败: {result.stderr}", "ERROR")
@@ -767,6 +812,8 @@ def main(dry_run=False, review=False, feedback=None, reset=False):
 
         total_new = 0
         total_skipped = 0
+        all_new_articles = []
+        all_skipped_articles = []
         
         for feed_config in FEEDS:
             feed_url = feed_config["url"]
@@ -820,10 +867,14 @@ def main(dry_run=False, review=False, feedback=None, reset=False):
                         f"建议使用 --review 先审核再入库")
                     record_feedback_overrides([], len(new_articles), len(skipped))
 
-            if new_articles:
-                run_result["new_count"] = total_new
-                run_result["new_articles"] = new_articles
-                return _save_and_commit_articles(new_articles, skipped, dry_run)
+            # 累积所有 feed 的 new/skipped，等全部跑完再统一 commit
+            all_new_articles.extend(new_articles)
+            all_skipped_articles.extend(skipped)
+
+        if all_new_articles:
+            run_result["new_count"] = len(all_new_articles)
+            run_result["new_articles"] = all_new_articles
+            return _save_and_commit_articles(all_new_articles, all_skipped_articles, dry_run)
 
         run_result["new_count"] = total_new
         run_result["feed_total"] = total_new + total_skipped
