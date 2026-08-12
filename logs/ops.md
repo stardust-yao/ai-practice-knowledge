@@ -369,3 +369,28 @@
 - [Hello AgentScope Java](https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520182&amp;idx=1&amp;sn=a5a92dd1d74e8aee6b8451c119945150) `2025-11-20`
 - [Apache RocketMQ × AI：面向 Multi-Agent 的事件驱动架构](https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520146&amp;idx=1&amp;sn=10fbcabfeac03fe1aed7fbfedf90f98e) `2025-10-24`
 - [从“看得见”到“能决策”：Operation Intelligence 重构企业智能运维新范式](https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520072&amp;idx=1&amp;sn=676cb5dc732ceaab719cfa8babf3b40e) `2025-09-25`
+
+## 2026-08-11 18:00:01 CST — 抓取运行
+
+- **状态**: success_no_new
+- **新文章**: 0 篇
+- **Feed 总量**: 35 篇
+- **累计已抓**: 0 篇
+
+## 2026-08-12 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 9 篇
+- **Feed 总量**: 43 篇
+- **累计已抓**: 239 篇
+
+**本次新增：**
+- [AI 视频降本的三种做法，只有一种不牺牲画质](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521222&amp;idx=1&amp;sn=27759804c7e3d4d635d31ee9f1f70232) `2026-08-11`
+- [连续五天登上 GitHub Trending 首页的思考](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511052&amp;idx=1&amp;sn=ec738e92d8018fb50fac9fa16e9d54fc) `2026-08-11`
+- [4个月融进1亿美元、建齐3座「数据发电厂」，这家TechBio要造一个生物世界模型](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651049682&amp;idx=1&amp;sn=3812b616a9be51cbdf6da6e589ed9a52) `2026-08-11`
+- [openJiuwen协同昇腾打造智能体「算力亲和」技术，首token时延砍半，推理存储占用下降25%](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651049682&amp;idx=2&amp;sn=d8fbd89f632c9691d0ade2d835614790) `2026-08-11`
+- [VLM会描述视频，却未必用对参考图：RefCaptioner让参考图与视频语义精准对应](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651049682&amp;idx=3&amp;sn=d75ed46815c5084cde7772925b8bdc83) `2026-08-11`
+- [百万卡时代来了！全球最大AI「超级单体」在中国点亮](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651049541&amp;idx=1&amp;sn=10d7635d6749ad986d2eebf5a428545c) `2026-08-10`
+- [RIP：只活了292天的Atlas](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651049541&amp;idx=2&amp;sn=fa8e0ee8367b4380f7e240e8b9da7895) `2026-08-10`
+- [ECCV 2026｜自驾VLA Scaling有戏了，北航清华DriveTeach-VLA：用图像轨迹打通驾驶场景与基模预训练](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651049541&amp;idx=3&amp;sn=53ce414a70d168d1b7f2e13e9c941e7a) `2026-08-10`
+- [用Kimi插件让浏览器干活，保姆教程来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725175&amp;idx=1&amp;sn=e7cc6daff1c528dee2ca5744ca2408e2) `2026-08-11`
