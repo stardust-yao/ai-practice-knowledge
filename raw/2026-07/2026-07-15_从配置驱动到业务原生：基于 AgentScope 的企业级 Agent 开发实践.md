@@ -1,13 +1,13 @@
 ---
 title: 从配置驱动到业务原生：基于 AgentScope 的企业级 Agent 开发实践
 date: 2026-07-15
-source: https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520459&amp;idx=1&amp;sn=999c597569a19005a287a0285d953ad6
-account: 腾讯技术工程
-fetched_at: 2026-07-31 12:38:28 CST
-article_id: 999c597569a19005a287a0285d953ad6
+source: https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516741&amp;idx=1&amp;sn=d00a5afb681a8140eb892e811bddd847
+account: 阿里巴巴中间件
+fetched_at: 2026-08-13 18:00:11 CST
+article_id: d00a5afb681a8140eb892e811bddd847
 ---
 
-原创 丁磊(雷茂) 2026-07-15 20:00 浙江
+原创 丁磊(雷茂) 2026-07-15 20:00
 
   
   
@@ -1591,4 +1591,4 @@ c. SUMMARY block 的 role=SYSTEM，文本以 [Conversation Summary] 开头，
 
 [阅读原文](https://github.com/agentscope-ai/agentscope-java)
 
-[跳转微信打开](https://wechat2rss.xlab.app/link-proxy/?k=0de9a382&r=1&u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzU4NzU0MDIzOQ%3D%3D%26mid%3D2247520459%26idx%3D1%26sn%3D999c597569a19005a287a0285d953ad6)
+[跳转微信打开](https://wechat2rss.xlab.app/link-proxy/?k=96e11715&r=1&u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzcwOTMzMTQyMA%3D%3D%26mid%3D2247516741%26idx%3D1%26sn%3Dd00a5afb681a8140eb892e811bddd847)

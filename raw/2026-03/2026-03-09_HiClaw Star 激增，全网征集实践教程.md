@@ -1,13 +1,13 @@
 ---
 title: HiClaw Star 激增，全网征集实践教程
 date: 2026-03-09
-source: https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520393&amp;idx=2&amp;sn=d5dba825a704947f5de4f8139f4dcfcf
-account: 腾讯技术工程
-fetched_at: 2026-07-31 12:38:28 CST
-article_id: d5dba825a704947f5de4f8139f4dcfcf
+source: https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516737&amp;idx=2&amp;sn=72981ebbe2a31e724f223cf98c595a87
+account: 阿里巴巴中间件
+fetched_at: 2026-08-13 18:00:12 CST
+article_id: 72981ebbe2a31e724f223cf98c595a87
 ---
 
-望宸、澄潭、计缘 2026-03-09 20:02 浙江
+望宸、澄潭、计缘 2026-03-09 20:00
 
   
   
@@ -401,4 +401,4 @@ Manager 的工作目录是宿主机上的 ~/hiclaw-manager，里面的 opencla
 
 [https://docs.openclaw.ai/](https://docs.openclaw.ai/)
 
-[跳转微信打开](https://wechat2rss.xlab.app/link-proxy/?k=70b7c068&r=1&u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzU4NzU0MDIzOQ%3D%3D%26mid%3D2247520393%26idx%3D2%26sn%3Dd5dba825a704947f5de4f8139f4dcfcf)
+[跳转微信打开](https://wechat2rss.xlab.app/link-proxy/?k=f7f2a875&r=1&u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzcwOTMzMTQyMA%3D%3D%26mid%3D2247516737%26idx%3D2%26sn%3D72981ebbe2a31e724f223cf98c595a87)

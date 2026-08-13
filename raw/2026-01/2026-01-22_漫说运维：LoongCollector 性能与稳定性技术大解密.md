@@ -1,13 +1,13 @@
 ---
 title: 漫说运维：LoongCollector 性能与稳定性技术大解密
 date: 2026-01-22
-source: https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520357&amp;idx=1&amp;sn=acd51b314588045a7abbeab47c639e31
-account: 腾讯技术工程
-fetched_at: 2026-07-31 12:38:28 CST
-article_id: acd51b314588045a7abbeab47c639e31
+source: https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516736&amp;idx=1&amp;sn=81900780e314db5ad61ae0597e403493
+account: 阿里巴巴中间件
+fetched_at: 2026-08-13 18:00:12 CST
+article_id: 81900780e314db5ad61ae0597e403493
 ---
 
-原创 徐可甲（烨陌） 2026-01-22 20:02 浙江
+原创 徐可甲（烨陌） 2026-01-22 20:00
 
   
   
@@ -536,6 +536,4 @@ LoongCollector 的“快”不是实验室产物，它是大规模生产的结�
 [2] 阿里云 SLS（Simple Log Service）
 [https://www.alibabacloud.com/en/product/log-service?_p_lc=1](https://www.alibabacloud.com/en/product/log-service?_p_lc=1)
 
-[阅读原文](%27%27)
-
-[跳转微信打开](https://wechat2rss.xlab.app/link-proxy/?k=4e1743f5&r=1&u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzU4NzU0MDIzOQ%3D%3D%26mid%3D2247520357%26idx%3D1%26sn%3Dacd51b314588045a7abbeab47c639e31)
+[跳转微信打开](https://wechat2rss.xlab.app/link-proxy/?k=ad57cbbf&r=1&u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzcwOTMzMTQyMA%3D%3D%26mid%3D2247516736%26idx%3D1%26sn%3D81900780e314db5ad61ae0597e403493)

@@ -394,3 +394,29 @@
 - [RIP：只活了292天的Atlas](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651049541&amp;idx=2&amp;sn=fa8e0ee8367b4380f7e240e8b9da7895) `2026-08-10`
 - [ECCV 2026｜自驾VLA Scaling有戏了，北航清华DriveTeach-VLA：用图像轨迹打通驾驶场景与基模预训练](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651049541&amp;idx=3&amp;sn=53ce414a70d168d1b7f2e13e9c941e7a) `2026-08-10`
 - [用Kimi插件让浏览器干活，保姆教程来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725175&amp;idx=1&amp;sn=e7cc6daff1c528dee2ca5744ca2408e2) `2026-08-11`
+
+## 2026-08-13 18:00:12 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 17 篇
+- **Feed 总量**: 49 篇
+- **累计已抓**: 256 篇
+
+**本次新增：**
+- [3万字长文带你WorkBuddy 从入门到精通](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803569&amp;idx=1&amp;sn=325170a0e2bd7117d51dfabbbd79539b) `2026-08-12`
+- [把 AI 视频的钱花在刀刃上，不是每一刀上](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521239&amp;idx=1&amp;sn=3d1c9e6773e98f7468cf08edd574c940) `2026-08-12`
+- [Qoder CLI 上运行 Qwen3.8-Max：5 个硬核任务实测](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511066&amp;idx=1&amp;sn=2abf64c9e90df880bdf02446965b4a5e) `2026-08-12`
+- [千问AI Arena上线：给Agent一个真实的战场](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561885&amp;idx=1&amp;sn=c2debdbc284ae35755f55e1f301d8376) `2026-08-12`
+- [海外SKILL实践：基于开发事件驱动的自动化协同提效！](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&amp;mid=2247499565&amp;idx=1&amp;sn=e115a6c56274c0cacbbc32d64fe9e576) `2026-08-13`
+- [得物知识问答：复合检索 Agent 的系统设计实践](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247546407&amp;idx=1&amp;sn=bf3d73aab43b7634074d2331a14764f5) `2026-08-12`
+- [2026云程奖启动！我们要给「在校AI本硕博」发奖学金](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651049903&amp;idx=1&amp;sn=e7977d455e32aa07ff58aab165d6e83e) `2026-08-12`
+- [终于！Linux用户等来了官方ChatGPT桌面版](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651049903&amp;idx=2&amp;sn=990f91c4c42502ed58aa303d7ceff9c5) `2026-08-12`
+- [Agentic RL 后训练资源怎么分？港中文、恒生大学提出 Libra，吞吐最高提升 3 倍](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651049903&amp;idx=3&amp;sn=385804c391d89b89271e15906eee7e9d) `2026-08-12`
+- [首次生产级Agent开课了！八月最丰富组队学习来了🥳（多达13个课程）](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725203&amp;idx=1&amp;sn=78267616d96240a675b3e1cf05ff3cc1) `2026-08-12`
+- [STAROps 面向未知异常发现的日志智能巡检架构实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516751&amp;idx=1&amp;sn=16be1d2087960fb5e8baaa63b91a400a) `2026-08-12`
+- [从配置驱动到业务原生：基于 AgentScope 的企业级 Agent 开发实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516741&amp;idx=1&amp;sn=d00a5afb681a8140eb892e811bddd847) `2026-07-15`
+- [【重磅】 Blade AI 自主韧性测试智能体正式开源](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516740&amp;idx=1&amp;sn=49d3f78211a6d349e33926c34c93f609) `2026-05-27`
+- [构建 SkillHub，如何赢取用户，还能获得口碑](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516738&amp;idx=1&amp;sn=d7125161ed171128438a2892668dad1e) `2026-03-14`
+- [HiClaw Star 激增，全网征集实践教程](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516737&amp;idx=2&amp;sn=72981ebbe2a31e724f223cf98c595a87) `2026-03-09`
+- [漫说运维：LoongCollector 性能与稳定性技术大解密](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516736&amp;idx=1&amp;sn=81900780e314db5ad61ae0597e403493) `2026-01-22`
+- [突破 Serverless 无状态限制：用 AgentRun 破解 Agent 沙箱工程化挑战](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516734&amp;idx=1&amp;sn=b2c183506fce3327fa8a60690a1f9111) `2026-01-12`

@@ -1,13 +1,13 @@
 ---
 title: 突破 Serverless 无状态限制：用 AgentRun 破解 Agent 沙箱工程化挑战
 date: 2026-01-12
-source: https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520295&amp;idx=1&amp;sn=fe9f061df7a05a4b92611857c82b5497
-account: 腾讯技术工程
-fetched_at: 2026-07-31 12:38:28 CST
-article_id: fe9f061df7a05a4b92611857c82b5497
+source: https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516734&amp;idx=1&amp;sn=b2c183506fce3327fa8a60690a1f9111
+account: 阿里巴巴中间件
+fetched_at: 2026-08-13 18:00:12 CST
+article_id: b2c183506fce3327fa8a60690a1f9111
 ---
 
-原创 千风 2026-01-12 18:04 浙江
+原创 千风 2026-01-12 18:04
 
   
   
@@ -231,4 +231,4 @@ AgentRun 运行时基于阿里云函数计算 FC 构建，继承了 Serverless �
 
 [阅读原文](https://www.aliyun.com/product/fc/agentrun)
 
-[跳转微信打开](https://wechat2rss.xlab.app/link-proxy/?k=92e7d616&r=1&u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzU4NzU0MDIzOQ%3D%3D%26mid%3D2247520295%26idx%3D1%26sn%3Dfe9f061df7a05a4b92611857c82b5497)
+[跳转微信打开](https://wechat2rss.xlab.app/link-proxy/?k=567ec310&r=1&u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzcwOTMzMTQyMA%3D%3D%26mid%3D2247516734%26idx%3D1%26sn%3Db2c183506fce3327fa8a60690a1f9111)
