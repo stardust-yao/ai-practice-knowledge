@@ -420,3 +420,16 @@
 - [HiClaw Star 激增，全网征集实践教程](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516737&amp;idx=2&amp;sn=72981ebbe2a31e724f223cf98c595a87) `2026-03-09`
 - [漫说运维：LoongCollector 性能与稳定性技术大解密](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516736&amp;idx=1&amp;sn=81900780e314db5ad61ae0597e403493) `2026-01-22`
 - [突破 Serverless 无状态限制：用 AgentRun 破解 Agent 沙箱工程化挑战](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516734&amp;idx=1&amp;sn=b2c183506fce3327fa8a60690a1f9111) `2026-01-12`
+
+## 2026-08-14 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 4 篇
+- **Feed 总量**: 35 篇
+- **累计已抓**: 260 篇
+
+**本次新增：**
+- [KDD&#39;26 美团学术论文精选及KDD Cup&#39;26 DataAgents赛道冠军思路解读](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783138&amp;idx=1&amp;sn=31ddcb07ef2bf6c73c2415934ab288dc) `2026-08-13`
+- [Agent 越改越乱之后，我用评测和轨迹把它拉回来了](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511106&amp;idx=1&amp;sn=e3e481953f140ab1a9afb73f7c40221f) `2026-08-13`
+- [一气呵成看懂小米澎湃OS 4](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520178&amp;idx=1&amp;sn=d3c91ad8c97b807830f8e933a2b02483) `2026-08-13`
+- [腾讯 2027 AI 产品经理培训生正式开招！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725233&amp;idx=1&amp;sn=57c2541c62138e1f923e755f4b792353) `2026-08-13`
