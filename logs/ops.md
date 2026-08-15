@@ -433,3 +433,23 @@
 - [Agent 越改越乱之后，我用评测和轨迹把它拉回来了](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511106&amp;idx=1&amp;sn=e3e481953f140ab1a9afb73f7c40221f) `2026-08-13`
 - [一气呵成看懂小米澎湃OS 4](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520178&amp;idx=1&amp;sn=d3c91ad8c97b807830f8e933a2b02483) `2026-08-13`
 - [腾讯 2027 AI 产品经理培训生正式开招！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725233&amp;idx=1&amp;sn=57c2541c62138e1f923e755f4b792353) `2026-08-13`
+
+## 2026-08-15 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 11 篇
+- **Feed 总量**: 42 篇
+- **累计已抓**: 271 篇
+
+**本次新增：**
+- [DeepSeek Harness 拆解：一套能拼装的 Agent 架构](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803587&amp;idx=1&amp;sn=a5ac30af9c015db111b60f947eb4e240) `2026-08-14`
+- [CEO还是「教主」？Anthropic正遭受「信仰」反噬](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050521&amp;idx=1&amp;sn=442c1c98b60f7864118caa79a7e6c74e) `2026-08-15`
+- [Stack Overflow快死了！新提问竟比内测时还少](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050521&amp;idx=2&amp;sn=f6c334e02d3c80c1cd3f04b9be02e377) `2026-08-15`
+- [浙大团队开源AI科研智能体Polaris：让AI与你一起做研究](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050521&amp;idx=3&amp;sn=612140875963be7e77d7e1e0754cebce) `2026-08-15`
+- [Agent走向长线协作的关键一战：AML首期揭榜，谁将引领下一代记忆范式革命](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050318&amp;idx=1&amp;sn=07ab7baa68c9e6f7fd617751830c9ddf) `2026-08-14`
+- [最有意思的AI音乐模型，让创作不再差点意思](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050318&amp;idx=2&amp;sn=38f2fcda11cb83826f8cddccc8e532e8) `2026-08-14`
+- [面对对齐研究者，Claude会心虚](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050318&amp;idx=3&amp;sn=646235c43b02191b026359b92131c5a0) `2026-08-14`
+- [财报里的AI医生「大为」，撬动京东健康价值重估](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050282&amp;idx=1&amp;sn=344c6b95e38bb73478bdbee066232740) `2026-08-13`
+- [谢尔盖・布林再次进入「创始人模式」？Google押注「AI自我进化」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050282&amp;idx=2&amp;sn=7c67af3d15d9a0e34c5e85c250daa303) `2026-08-13`
+- [「AI生成的内容全部加水印」OpenAI、Anthropic、Google都签了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050282&amp;idx=3&amp;sn=17a067854335a842585a04f2fc89d5a1) `2026-08-13`
+- [最新！DeepSeek Harness 插件的安装教程来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725257&amp;idx=1&amp;sn=d99b69e95f2f90e641c60727c8e4f884) `2026-08-14`
