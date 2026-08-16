@@ -453,3 +453,15 @@
 - [谢尔盖・布林再次进入「创始人模式」？Google押注「AI自我进化」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050282&amp;idx=2&amp;sn=7c67af3d15d9a0e34c5e85c250daa303) `2026-08-13`
 - [「AI生成的内容全部加水印」OpenAI、Anthropic、Google都签了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050282&amp;idx=3&amp;sn=17a067854335a842585a04f2fc89d5a1) `2026-08-13`
 - [最新！DeepSeek Harness 插件的安装教程来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725257&amp;idx=1&amp;sn=d99b69e95f2f90e641c60727c8e4f884) `2026-08-14`
+
+## 2026-08-16 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 3 篇
+- **Feed 总量**: 33 篇
+- **累计已抓**: 274 篇
+
+**本次新增：**
+- [DeepSeek Harness 实测｜模型之外的那一半，到底带来了什么](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803588&amp;idx=1&amp;sn=36499841c1cc38ba9ccae6380a90aec9) `2026-08-15`
+- [Qwen3.8，正式开源](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511110&amp;idx=1&amp;sn=6c53830215ef70752c8abdb8982b297d) `2026-08-14`
+- [国产之光！GLM 5.3 + DeepSeek Harness 实测来了](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725283&amp;idx=1&amp;sn=45458c66f3c5b2a162fdcb1e2d7401cf) `2026-08-15`
