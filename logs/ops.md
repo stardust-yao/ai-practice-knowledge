@@ -465,3 +465,14 @@
 - [DeepSeek Harness 实测｜模型之外的那一半，到底带来了什么](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803588&amp;idx=1&amp;sn=36499841c1cc38ba9ccae6380a90aec9) `2026-08-15`
 - [Qwen3.8，正式开源](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511110&amp;idx=1&amp;sn=6c53830215ef70752c8abdb8982b297d) `2026-08-14`
 - [国产之光！GLM 5.3 + DeepSeek Harness 实测来了](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725283&amp;idx=1&amp;sn=45458c66f3c5b2a162fdcb1e2d7401cf) `2026-08-15`
+
+## 2026-08-17 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 2 篇
+- **Feed 总量**: 32 篇
+- **累计已抓**: 276 篇
+
+**本次新增：**
+- [AI宣布森多夫猜想告破！陶哲轩发现它隐藏的更强结果](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050586&amp;idx=1&amp;sn=7c829000904745c2a8fff2dc0825e881) `2026-08-16`
+- [「有些模型就是不想学？」循环模型为什么越想越错？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050586&amp;idx=3&amp;sn=b65c272d97e8e5262062ba3076fc6fb7) `2026-08-16`
