@@ -476,3 +476,19 @@
 **本次新增：**
 - [AI宣布森多夫猜想告破！陶哲轩发现它隐藏的更强结果](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050586&amp;idx=1&amp;sn=7c829000904745c2a8fff2dc0825e881) `2026-08-16`
 - [「有些模型就是不想学？」循环模型为什么越想越错？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050586&amp;idx=3&amp;sn=b65c272d97e8e5262062ba3076fc6fb7) `2026-08-16`
+
+## 2026-08-18 18:00:05 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 7 篇
+- **Feed 总量**: 34 篇
+- **累计已抓**: 283 篇
+
+**本次新增：**
+- [Agent的上限，可能不在模型，而在团队知识](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803612&amp;idx=1&amp;sn=13be122cb61484933486e146d5724e37) `2026-08-17`
+- [Harness 工程之道：Skill 原理与最佳实践](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511112&amp;idx=1&amp;sn=279ba391d62489b0226d94570388ac8d) `2026-08-17`
+- [从模型能力到业务可用：小米零售 AI 问数实践](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520198&amp;idx=1&amp;sn=080a86b89d0bc24a9157913cb3839bd3) `2026-08-17`
+- [IndexTTS 2.5  让声音跨越语言](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504396&amp;idx=1&amp;sn=566c8a97a7ce765cac6b2df5d2f515e4) `2026-08-17`
+- [Qwen-Audio-3.0系列语音模型正式上线千问AI平台](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561890&amp;idx=1&amp;sn=9ef07932c013aa647d11056b74bf52a6) `2026-08-17`
+- [重磅！一文读懂 DeepSeek Harness 插件！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725326&amp;idx=1&amp;sn=83f71af70806d679b72b480ed1e24691) `2026-08-17`
+- [最新！DeepSeek Harness桌面版和CLI来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725298&amp;idx=1&amp;sn=9c3dbe38ad3434b1798bea5e0501ff52) `2026-08-16`
