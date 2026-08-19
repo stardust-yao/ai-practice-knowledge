@@ -60,14 +60,14 @@
   - `raw/` 目录下已放入至少 2 篇新公众号文章（Markdown 格式）
   - `logs/filter_rules.md` 已定义筛选规则
   - `specs/concept-template.md` 已定义 Concept 格式契约
-  - `specs/concept-spec.md` 已定义 Gate 校验规则 F1-F7
+  - `specs/concept-spec.md` 已定义 Gate 校验规则 F1-F11
 - **测试步骤（WHEN）**
   1. 执行内容加工流水线（触发筛选 → 提炼为 OKF Concept）
   2. 对产出的 Concept 文件运行 Gate 校验
 - **预期结果（THEN）**
   - 仅通过 `filter_rules.md` 筛选的文章被提炼为 Concept
   - 产出的 Concept 文件字段结构完全符合 `specs/concept-template.md`
-  - Gate 校验 F1-F7 全部 PASS
+  - Gate 校验 F1-F11 全部 PASS
 - **验证方式**：可脚本化
   - 筛选结果：对比 raw/ 文章列表与产出 Concept 数量，检查被过滤掉的文章是否命中 filter_rules
   - 格式校验：编写脚本逐字段对比 Concept 文件与 concept-template.md 的必填字段

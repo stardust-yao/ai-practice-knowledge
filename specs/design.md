@@ -135,7 +135,7 @@ flowchart TD
 | 输入 | raw/ 文章路径 |
 | 输出 | entries/{slug}.md |
 | 中间产物 | entries/.{slug}.draft.md |
-| Gate 校验 | F1/F3/F4 FAIL, F2/F5/F6/F7 WARN |
+| Gate 校验 | 按 `specs/concept-spec.md` F1-F11 规则。FAIL 级别（F1/F2/F4/F5/F6/F7/F8）缺失或格式错误→拒绝入库。WARN 级别（F3/F9/F10/F11）缺失→可入库但标记 TODO |
 | 超时 | 10 分钟，自动回退 pending |
 
 ### 管线 3：服务（消费方）
@@ -177,8 +177,7 @@ sequenceDiagram
 | 去重 | 脚本 | JSON 比对 |
 | 筛选 | 脚本 | 关键词精确匹配 |
 | raw/ → Concept 提炼 | AI | 需要理解、归纳、翻译 |
-| Gate 校验 F1/F3/F4 | 脚本 | 格式检查，确定性 |
-| Gate 校验 F2/F5/F6/F7 | 脚本 | 规则检查，WARN 不阻断 |
+| Gate 校验 F1-F11 | 脚本 | 按 concept-spec.md，F1/F2/F4/F5/F6/F7/F8 FAIL，F3/F9/F10/F11 WARN |
 | .backlinks.json 重建 | 脚本 | 扫描 Markdown 链接 |
 | .embeddings.json 更新 | 脚本 | 调 embedding API |
 | 嵌入匹配 | 脚本 | 向量相似度计算 |

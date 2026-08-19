@@ -38,7 +38,7 @@
 
 > WHEN 新文章被抓取到 raw/ 且通过筛选规则  
 > THEN 系统 SHALL 将其提炼为 Concept  
-> AND 新 Concept SHALL 通过 Gate 校验（F1-F7）
+> AND 新 Concept SHALL 通过 Gate 校验（F1-F11，见 `specs/concept-spec.md`）
 
 ### AC-5: 内容维护
 
