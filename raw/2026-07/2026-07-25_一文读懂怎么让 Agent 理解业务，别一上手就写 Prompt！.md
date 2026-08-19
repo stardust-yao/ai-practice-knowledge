@@ -2,7 +2,7 @@
 title: 一文读懂怎么让 Agent 理解业务，别一上手就写 Prompt！
 date: 2026-07-25
 source: https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247724548&amp;idx=1&amp;sn=4eb8584f8d87d3e6b02cabd02435d0de
-account: 腾讯技术工程
+account: Datawhale
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: 4eb8584f8d87d3e6b02cabd02435d0de
 ---

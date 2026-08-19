@@ -2,7 +2,7 @@
 title: Agent评测漫谈 —— 由浅入深讲解Agent评测
 date: 2026-08-06
 source: https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783112&amp;idx=1&amp;sn=785b0bc4b98c0324a528cb87717f3032
-account: 腾讯技术工程
+account: 美团技术团队
 fetched_at: 2026-08-11 17:11:28 CST
 article_id: 785b0bc4b98c0324a528cb87717f3032
 ---

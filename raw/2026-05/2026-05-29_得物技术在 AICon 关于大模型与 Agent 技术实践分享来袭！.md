@@ -2,7 +2,7 @@
 title: 得物技术在 AICon 关于大模型与 Agent 技术实践分享来袭！
 date: 2026-05-29
 source: https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247544742&amp;idx=1&amp;sn=95a1c9a7738bbda6f89f887df7767534
-account: 腾讯技术工程
+account: 得物技术
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: 95a1c9a7738bbda6f89f887df7767534
 ---

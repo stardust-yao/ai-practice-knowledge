@@ -2,7 +2,7 @@
 title: 刚刚，Claude Code的重大更新来了！
 date: 2026-08-08
 source: https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725083&amp;idx=1&amp;sn=72e37b4dd5ce3106a989f6707e7debb6
-account: 腾讯技术工程
+account: Datawhale
 fetched_at: 2026-08-11 17:11:45 CST
 article_id: 72e37b4dd5ce3106a989f6707e7debb6
 ---

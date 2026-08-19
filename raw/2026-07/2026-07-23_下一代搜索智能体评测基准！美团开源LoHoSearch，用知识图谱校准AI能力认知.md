@@ -2,7 +2,7 @@
 title: 下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知
 date: 2026-07-23
 source: https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783046&amp;idx=2&amp;sn=847f703c3c0e53c6323fb4a06185b473
-account: 腾讯技术工程
+account: 美团技术团队
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 847f703c3c0e53c6323fb4a06185b473
 ---

@@ -2,7 +2,7 @@
 title: 腾讯把 Agent 记忆系统开源了，TencentDB Agent Memory 实测！
 date: 2026-08-03
 source: https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247724975&amp;idx=1&amp;sn=ff8c1085d016cd694d425a6e8aeec59b
-account: 腾讯技术工程
+account: Datawhale
 fetched_at: 2026-08-11 17:11:45 CST
 article_id: ff8c1085d016cd694d425a6e8aeec59b
 ---

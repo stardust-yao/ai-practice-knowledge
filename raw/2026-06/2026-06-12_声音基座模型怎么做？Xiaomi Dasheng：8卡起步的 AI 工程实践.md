@@ -2,7 +2,7 @@
 title: 声音基座模型怎么做？Xiaomi Dasheng：8卡起步的 AI 工程实践
 date: 2026-06-12
 source: https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247519648&amp;idx=1&amp;sn=de29b8fa8b44d941a6fbe6b45fb00156
-account: 腾讯技术工程
+account: 小米技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: de29b8fa8b44d941a6fbe6b45fb00156
 ---

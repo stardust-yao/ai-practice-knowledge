@@ -2,7 +2,7 @@
 title: HorizonVault 技术深潜：如何在 HDD 上做出 100GB/s+ 级大吞吐分布式存储｜得物技术
 date: 2026-05-27
 source: https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247544708&amp;idx=1&amp;sn=cc8d064185a5bdc27fd7748f0958182d
-account: 腾讯技术工程
+account: 得物技术
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: cc8d064185a5bdc27fd7748f0958182d
 ---

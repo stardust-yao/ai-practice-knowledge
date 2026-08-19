@@ -2,7 +2,7 @@
 title: Loop Engineering 实战：实现从日志扫描到预发部署的全自主闭环
 date: 2026-07-07
 source: https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561365&amp;idx=1&amp;sn=dc15df2935aac46f3c1369a7d10bb95a
-account: 腾讯技术工程
+account: 阿里云开发者
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: dc15df2935aac46f3c1369a7d10bb95a
 ---

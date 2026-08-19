@@ -2,7 +2,7 @@
 title: 提示词是建议，Harness让规则落地：AI Coding 从个人实践到团队标准
 date: 2026-07-29
 source: https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520172&amp;idx=1&amp;sn=fc4d2d0ff9cf90f6c4ac0a109333950f
-account: 腾讯技术工程
+account: 小米技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: fc4d2d0ff9cf90f6c4ac0a109333950f
 ---

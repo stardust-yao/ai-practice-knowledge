@@ -2,7 +2,7 @@
 title: 使用Compose Navigation3进行屏幕适配
 date: 2026-04-03
 source: https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504142&amp;idx=1&amp;sn=305433f230b634c8b3d3215cd4b962d1
-account: 腾讯技术工程
+account: 哔哩哔哩技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 305433f230b634c8b3d3215cd4b962d1
 ---

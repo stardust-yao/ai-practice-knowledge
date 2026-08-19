@@ -2,7 +2,7 @@
 title: Apache RocketMQ × AI：面向 Multi-Agent 的事件驱动架构
 date: 2025-10-24
 source: https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520146&amp;idx=1&amp;sn=10fbcabfeac03fe1aed7fbfedf90f98e
-account: 腾讯技术工程
+account: 阿里巴巴中间件
 fetched_at: 2026-07-31 12:38:28 CST
 article_id: 10fbcabfeac03fe1aed7fbfedf90f98e
 ---

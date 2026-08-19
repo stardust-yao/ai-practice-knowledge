@@ -2,7 +2,7 @@
 title: 从埋点需求到规则资产：Hermes Agent 重构得物数仓工作流
 date: 2026-06-17
 source: https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247545376&amp;idx=1&amp;sn=62f5170e2075ef7beaf095de749fec51
-account: 腾讯技术工程
+account: 得物技术
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: 62f5170e2075ef7beaf095de749fec51
 ---

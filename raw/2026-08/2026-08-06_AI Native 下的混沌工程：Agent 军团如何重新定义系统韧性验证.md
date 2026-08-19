@@ -2,7 +2,7 @@
 title: AI Native 下的混沌工程：Agent 军团如何重新定义系统韧性验证
 date: 2026-08-06
 source: https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561873&amp;idx=1&amp;sn=0233d0ba23aad4cc225a712963826343
-account: 腾讯技术工程
+account: 阿里云开发者
 fetched_at: 2026-08-11 17:11:40 CST
 article_id: 0233d0ba23aad4cc225a712963826343
 ---

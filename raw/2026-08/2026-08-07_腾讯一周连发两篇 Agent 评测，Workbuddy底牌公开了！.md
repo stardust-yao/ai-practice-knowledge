@@ -2,7 +2,7 @@
 title: 腾讯一周连发两篇 Agent 评测，Workbuddy底牌公开了！
 date: 2026-08-07
 source: https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725069&amp;idx=1&amp;sn=404f746a3560d7032cd0d91259da2ec7
-account: 腾讯技术工程
+account: Datawhale
 fetched_at: 2026-08-11 17:11:45 CST
 article_id: 404f746a3560d7032cd0d91259da2ec7
 ---

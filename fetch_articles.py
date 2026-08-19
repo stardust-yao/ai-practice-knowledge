@@ -356,7 +356,7 @@ def save_article(article, dry_run=False):
 title: {article['title']}
 date: {article['pub_date_str']}
 source: {article['link']}
-account: {ACCOUNT_NAME}
+account: {article.get('account') or ACCOUNT_NAME}
 fetched_at: {now_str()}
 article_id: {article['id']}
 ---

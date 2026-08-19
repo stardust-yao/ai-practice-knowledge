@@ -2,7 +2,7 @@
 title: CVPR 2026 Workshops &amp; ICRA 2026 WBC：小米机器人团队问鼎双料冠军
 date: 2026-06-05
 source: https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247519572&amp;idx=1&amp;sn=6b1fd9fa63f34ea26407f9841555be8e
-account: 腾讯技术工程
+account: 小米技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 6b1fd9fa63f34ea26407f9841555be8e
 ---

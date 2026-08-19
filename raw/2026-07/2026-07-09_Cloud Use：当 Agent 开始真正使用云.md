@@ -2,7 +2,7 @@
 title: Cloud Use：当 Agent 开始真正使用云
 date: 2026-07-09
 source: https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247510000&amp;idx=1&amp;sn=f055ab32a27f479101b8c0f65c79dde9
-account: 腾讯技术工程
+account: 阿里技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: f055ab32a27f479101b8c0f65c79dde9
 ---

@@ -2,7 +2,7 @@
 title: CVPR 2026 Highlight 丨 用“几何感知”把扩散 Transformer 采样做成免训练加速器
 date: 2026-07-24
 source: https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504344&amp;idx=1&amp;sn=4deb91cf0de578e325800e05b3c6944c
-account: 腾讯技术工程
+account: 哔哩哔哩技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 4deb91cf0de578e325800e05b3c6944c
 ---

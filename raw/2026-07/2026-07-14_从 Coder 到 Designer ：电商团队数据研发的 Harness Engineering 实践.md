@@ -2,7 +2,7 @@
 title: 从 Coder 到 Designer ：电商团队数据研发的 Harness Engineering 实践
 date: 2026-07-14
 source: https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247510241&amp;idx=1&amp;sn=04d54633f1d91d27be6580eda8b503b2
-account: 腾讯技术工程
+account: 阿里技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 04d54633f1d91d27be6580eda8b503b2
 ---

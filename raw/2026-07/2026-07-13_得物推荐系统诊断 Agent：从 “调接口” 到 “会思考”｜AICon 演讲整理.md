@@ -2,7 +2,7 @@
 title: 得物推荐系统诊断 Agent：从 “调接口” 到 “会思考”｜AICon 演讲整理
 date: 2026-07-13
 source: https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247545826&amp;idx=1&amp;sn=ebb5f57a0094dafcb1c43ac135f1a48b
-account: 腾讯技术工程
+account: 得物技术
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: ebb5f57a0094dafcb1c43ac135f1a48b
 ---

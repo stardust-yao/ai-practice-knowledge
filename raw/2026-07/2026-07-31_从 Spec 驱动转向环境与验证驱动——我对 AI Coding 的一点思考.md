@@ -2,7 +2,7 @@
 title: 从 Spec 驱动转向环境与验证驱动——我对 AI Coding 的一点思考
 date: 2026-07-31
 source: https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247510868&amp;idx=1&amp;sn=42f0a3414a57983b491bca0c68f3d171
-account: 腾讯技术工程
+account: 阿里技术
 fetched_at: 2026-08-11 17:11:38 CST
 article_id: 42f0a3414a57983b491bca0c68f3d171
 ---

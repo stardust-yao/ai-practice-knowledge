@@ -2,7 +2,7 @@
 title: WAIC 2026 完整议程！Datawhale亮相世界人工智能大会！
 date: 2026-07-13
 source: https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247724198&amp;idx=1&amp;sn=c26bc828b9f07c3095b1ce5999e3773b
-account: 腾讯技术工程
+account: Datawhale
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: c26bc828b9f07c3095b1ce5999e3773b
 ---

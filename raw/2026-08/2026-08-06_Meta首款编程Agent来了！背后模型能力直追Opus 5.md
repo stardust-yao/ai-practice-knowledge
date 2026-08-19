@@ -2,7 +2,7 @@
 title: Meta首款编程Agent来了！背后模型能力直追Opus 5
 date: 2026-08-06
 source: https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651048783&amp;idx=3&amp;sn=5b6e1d931ace267aa578908218188315
-account: 腾讯技术工程
+account: 机器之心
 fetched_at: 2026-08-11 17:11:44 CST
 article_id: 5b6e1d931ace267aa578908218188315
 ---

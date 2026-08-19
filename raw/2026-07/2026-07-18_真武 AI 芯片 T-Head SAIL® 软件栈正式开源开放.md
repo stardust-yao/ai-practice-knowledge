@@ -2,7 +2,7 @@
 title: 真武 AI 芯片 T-Head SAIL® 软件栈正式开源开放
 date: 2026-07-18
 source: https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247510380&amp;idx=1&amp;sn=f7d2327132fef5bdb38d1639cb652337
-account: 腾讯技术工程
+account: 阿里技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: f7d2327132fef5bdb38d1639cb652337
 ---

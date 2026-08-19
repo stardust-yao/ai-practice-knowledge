@@ -1,10 +1,17 @@
 ---
 title: 漫说运维：LoongCollector 性能与稳定性技术大解密
 date: 2026-01-22
+<<<<<<< HEAD
 source: https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516736&amp;idx=1&amp;sn=81900780e314db5ad61ae0597e403493
 account: 阿里巴巴中间件
 fetched_at: 2026-08-13 18:00:12 CST
 article_id: 81900780e314db5ad61ae0597e403493
+=======
+source: https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520357&amp;idx=1&amp;sn=acd51b314588045a7abbeab47c639e31
+account: 阿里巴巴中间件
+fetched_at: 2026-07-31 12:38:28 CST
+article_id: acd51b314588045a7abbeab47c639e31
+>>>>>>> origin/main
 ---
 
 原创 徐可甲（烨陌） 2026-01-22 20:00

@@ -2,7 +2,7 @@
 title: 小米承办 WPC Qi Plugfest &amp; SRT Event，推动国产无线充电方案融入全球标准体系
 date: 2026-06-26
 source: https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247519748&amp;idx=1&amp;sn=a8d2212d743bdb6622fd5c0fd5d15709
-account: 腾讯技术工程
+account: 小米技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: a8d2212d743bdb6622fd5c0fd5d15709
 ---

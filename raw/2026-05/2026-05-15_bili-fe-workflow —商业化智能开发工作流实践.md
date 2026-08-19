@@ -2,7 +2,7 @@
 title: bili-fe-workflow —商业化智能开发工作流实践
 date: 2026-05-15
 source: https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504231&amp;idx=1&amp;sn=bea903410681034074d405e4c8ac6aa2
-account: 腾讯技术工程
+account: 哔哩哔哩技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: bea903410681034074d405e4c8ac6aa2
 ---

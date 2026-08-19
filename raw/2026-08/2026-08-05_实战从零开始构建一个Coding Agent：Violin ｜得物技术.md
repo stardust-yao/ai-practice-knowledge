@@ -2,7 +2,7 @@
 title: 实战从零开始构建一个Coding Agent：Violin ｜得物技术
 date: 2026-08-05
 source: https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247546363&amp;idx=1&amp;sn=e497e41b6f529e7efb771672bc6864a0
-account: 腾讯技术工程
+account: 得物技术
 fetched_at: 2026-08-11 17:11:44 CST
 article_id: e497e41b6f529e7efb771672bc6864a0
 ---

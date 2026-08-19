@@ -2,7 +2,7 @@
 title: 从高拟真到真可用，LongCat-Video-Avatar 1.5 正式开源
 date: 2026-05-22
 source: https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651782661&amp;idx=1&amp;sn=db604b1c300d7dccb71d445baefdd23c
-account: 腾讯技术工程
+account: 美团技术团队
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: db604b1c300d7dccb71d445baefdd23c
 ---

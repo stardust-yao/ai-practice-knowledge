@@ -2,7 +2,7 @@
 title: B站 Index LLM 团队论文开源：170亿次真实用户交互背后的UGC视频评估新范式
 date: 2026-06-12
 source: https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504280&amp;idx=1&amp;sn=27cef92a9cd83718b2783adb3a025236
-account: 腾讯技术工程
+account: 哔哩哔哩技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 27cef92a9cd83718b2783adb3a025236
 ---

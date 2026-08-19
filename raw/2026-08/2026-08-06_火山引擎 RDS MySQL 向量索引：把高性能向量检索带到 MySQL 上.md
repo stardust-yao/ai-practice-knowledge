@@ -2,7 +2,7 @@
 title: 火山引擎 RDS MySQL 向量索引：把高性能向量检索带到 MySQL 上
 date: 2026-08-06
 source: https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521161&amp;idx=1&amp;sn=205af0499a556576a9543c04ec64b93d
-account: 腾讯技术工程
+account: 字节跳动技术团队
 fetched_at: 2026-08-11 17:11:28 CST
 article_id: 205af0499a556576a9543c04ec64b93d
 ---

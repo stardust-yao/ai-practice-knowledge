@@ -2,7 +2,7 @@
 title: 从 Data Lake 到 State Lake：面向 Agent 时代的存储基础设施重构
 date: 2026-07-16
 source: https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520930&amp;idx=1&amp;sn=bd7a4aa7ed7ce2d4ca65e807f53392f6
-account: 腾讯技术工程
+account: 字节跳动技术团队
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: bd7a4aa7ed7ce2d4ca65e807f53392f6
 ---

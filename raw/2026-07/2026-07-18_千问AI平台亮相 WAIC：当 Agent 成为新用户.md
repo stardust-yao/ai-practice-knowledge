@@ -2,7 +2,7 @@
 title: 千问AI平台亮相 WAIC：当 Agent 成为新用户
 date: 2026-07-18
 source: https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561678&amp;idx=1&amp;sn=5f218385d1d12edfca4b8715b315631b
-account: 腾讯技术工程
+account: 阿里云开发者
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 5f218385d1d12edfca4b8715b315631b
 ---

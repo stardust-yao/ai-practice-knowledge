@@ -2,7 +2,7 @@
 title: PagePilot — PC端AI测试Skill设计与实战
 date: 2026-07-17
 source: https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561535&amp;idx=1&amp;sn=49b536f842ef9b433f56cb0d8c2c5bac
-account: 腾讯技术工程
+account: 阿里云开发者
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 49b536f842ef9b433f56cb0d8c2c5bac
 ---

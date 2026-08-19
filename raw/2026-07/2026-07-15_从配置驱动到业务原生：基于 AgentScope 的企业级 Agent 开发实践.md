@@ -1,10 +1,17 @@
 ---
 title: 从配置驱动到业务原生：基于 AgentScope 的企业级 Agent 开发实践
 date: 2026-07-15
+<<<<<<< HEAD
 source: https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516741&amp;idx=1&amp;sn=d00a5afb681a8140eb892e811bddd847
 account: 阿里巴巴中间件
 fetched_at: 2026-08-13 18:00:11 CST
 article_id: d00a5afb681a8140eb892e811bddd847
+=======
+source: https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520459&amp;idx=1&amp;sn=999c597569a19005a287a0285d953ad6
+account: 阿里巴巴中间件
+fetched_at: 2026-07-31 12:38:28 CST
+article_id: 999c597569a19005a287a0285d953ad6
+>>>>>>> origin/main
 ---
 
 原创 丁磊(雷茂) 2026-07-15 20:00

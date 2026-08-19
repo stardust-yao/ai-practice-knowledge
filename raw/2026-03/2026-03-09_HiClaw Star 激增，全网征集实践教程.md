@@ -1,10 +1,17 @@
 ---
 title: HiClaw Star 激增，全网征集实践教程
 date: 2026-03-09
+<<<<<<< HEAD
 source: https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516737&amp;idx=2&amp;sn=72981ebbe2a31e724f223cf98c595a87
 account: 阿里巴巴中间件
 fetched_at: 2026-08-13 18:00:12 CST
 article_id: 72981ebbe2a31e724f223cf98c595a87
+=======
+source: https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520393&amp;idx=2&amp;sn=d5dba825a704947f5de4f8139f4dcfcf
+account: 阿里巴巴中间件
+fetched_at: 2026-07-31 12:38:28 CST
+article_id: d5dba825a704947f5de4f8139f4dcfcf
+>>>>>>> origin/main
 ---
 
 望宸、澄潭、计缘 2026-03-09 20:00

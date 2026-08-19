@@ -2,7 +2,7 @@
 title: 答网友问 | 关于Xiaomi Miloco 2.0，你想知道的都在这里
 date: 2026-06-18
 source: https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247519698&amp;idx=1&amp;sn=9013f90b0257ef4c734d80630b89a7c7
-account: 腾讯技术工程
+account: 小米技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 9013f90b0257ef4c734d80630b89a7c7
 ---

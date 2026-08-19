@@ -2,7 +2,7 @@
 title: 数据研发Multi-Agent架构的Harness工程实践
 date: 2026-07-15
 source: https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561511&amp;idx=1&amp;sn=0561f27f340cd19d280dc5543780965b
-account: 腾讯技术工程
+account: 阿里云开发者
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 0561f27f340cd19d280dc5543780965b
 ---

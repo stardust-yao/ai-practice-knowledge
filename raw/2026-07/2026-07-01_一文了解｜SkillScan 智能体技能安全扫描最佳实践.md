@@ -2,7 +2,7 @@
 title: 一文了解｜SkillScan 智能体技能安全扫描最佳实践
 date: 2026-07-01
 source: https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520623&amp;idx=1&amp;sn=aa90e07b9cd476f64938f0ae935909f0
-account: 腾讯技术工程
+account: 字节跳动技术团队
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: aa90e07b9cd476f64938f0ae935909f0
 ---

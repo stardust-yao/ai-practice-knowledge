@@ -2,7 +2,7 @@
 title: 拿到DeepMind、Meta等多家Offer后，她把机器学习求职面试的真相写了出来
 date: 2026-07-27
 source: https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651046849&amp;idx=2&amp;sn=3f00a958155975765e5ced2d9a4e5f3c
-account: 腾讯技术工程
+account: 机器之心
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: 3f00a958155975765e5ced2d9a4e5f3c
 ---

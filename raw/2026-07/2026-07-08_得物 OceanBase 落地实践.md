@@ -2,7 +2,7 @@
 title: 得物 OceanBase 落地实践
 date: 2026-07-08
 source: https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247545821&amp;idx=1&amp;sn=3234c5ee286b9efa19c14ef3b9a2fb1c
-account: 腾讯技术工程
+account: 得物技术
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: 3234c5ee286b9efa19c14ef3b9a2fb1c
 ---

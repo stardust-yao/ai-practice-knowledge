@@ -2,7 +2,7 @@
 title: 火山引擎 AI 搜索千万级 Agent 架构演进与实践：从 ReAct 三节点到 Unified Policy
 date: 2026-06-26
 source: https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520575&amp;idx=1&amp;sn=6d3a2d35f06bf57d763e1a41c5e00a6f
-account: 腾讯技术工程
+account: 字节跳动技术团队
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 6d3a2d35f06bf57d763e1a41c5e00a6f
 ---

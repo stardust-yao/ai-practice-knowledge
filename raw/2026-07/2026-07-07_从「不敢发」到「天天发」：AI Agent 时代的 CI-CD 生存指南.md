@@ -2,7 +2,7 @@
 title: 从「不敢发」到「天天发」：AI Agent 时代的 CI/CD 生存指南
 date: 2026-07-07
 source: https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509947&amp;idx=1&amp;sn=7d2cc8a374fb1454aeab9ca90ef28f5d
-account: 腾讯技术工程
+account: 阿里技术
 fetched_at: 2026-07-31 12:38:25 CST
 article_id: 7d2cc8a374fb1454aeab9ca90ef28f5d
 ---

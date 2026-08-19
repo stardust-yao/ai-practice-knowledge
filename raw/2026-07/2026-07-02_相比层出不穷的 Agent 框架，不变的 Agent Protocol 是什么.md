@@ -2,7 +2,7 @@
 title: 相比层出不穷的 Agent 框架，不变的 Agent Protocol 是什么
 date: 2026-07-02
 source: https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561317&amp;idx=1&amp;sn=cfeecd649d2312d5331e2b5ffb03a8d0
-account: 腾讯技术工程
+account: 阿里云开发者
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: cfeecd649d2312d5331e2b5ffb03a8d0
 ---

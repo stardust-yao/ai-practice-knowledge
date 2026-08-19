@@ -2,7 +2,7 @@
 title: 从狂野代码到按目标生产：得物推荐 AI Harness 的工程化实践｜AICon 演讲整理
 date: 2026-06-29
 source: https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247545565&amp;idx=1&amp;sn=2408887769f776089b6421e7bea8657e
-account: 腾讯技术工程
+account: 得物技术
 fetched_at: 2026-07-31 12:38:26 CST
 article_id: 2408887769f776089b6421e7bea8657e
 ---
