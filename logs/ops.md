@@ -370,7 +370,14 @@
 - [Apache RocketMQ × AI：面向 Multi-Agent 的事件驱动架构](https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520146&amp;idx=1&amp;sn=10fbcabfeac03fe1aed7fbfedf90f98e) `2025-10-24`
 - [从“看得见”到“能决策”：Operation Intelligence 重构企业智能运维新范式](https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520072&amp;idx=1&amp;sn=676cb5dc732ceaab719cfa8babf3b40e) `2025-09-25`
 
-<<<<<<< HEAD
+## 2026-08-11 — 筛选清理（人工复核）
+
+- 原因：多 feed 首轮补录 48 篇后，发现校招/大赛/夏令营/产品上线/行业新闻类文章漏过筛选
+- 动作：删除 19 篇（校招×2、夏令营/大赛×3、Qwen上线×3、分享图片×1、行业新闻八卦×7、边缘技术新闻×4）
+- 补充规则：filter_rules.md 排除词增加 `校招`、`招聘`、`夏令营`、`大赛`、`比赛`、`竞赛`、`奖金`、`倒计时`；规则 4 扩展为「娱乐/八卦/行业新闻」
+- 去重状态：fetch_state.json 的 article_id 保留（防回潮，不重复抓取）
+
+
 ## 2026-08-11 18:00:01 CST — 抓取运行
 
 - **状态**: success_no_new
@@ -493,11 +500,3 @@
 - [Qwen-Audio-3.0系列语音模型正式上线千问AI平台](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561890&amp;idx=1&amp;sn=9ef07932c013aa647d11056b74bf52a6) `2026-08-17`
 - [重磅！一文读懂 DeepSeek Harness 插件！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725326&amp;idx=1&amp;sn=83f71af70806d679b72b480ed1e24691) `2026-08-17`
 - [最新！DeepSeek Harness桌面版和CLI来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725298&amp;idx=1&amp;sn=9c3dbe38ad3434b1798bea5e0501ff52) `2026-08-16`
-=======
-## 2026-08-11 — 筛选清理（人工复核）
-
-- 原因：多 feed 首轮补录 48 篇后，发现校招/大赛/夏令营/产品上线/行业新闻类文章漏过筛选
-- 动作：删除 19 篇（校招×2、夏令营/大赛×3、Qwen上线×3、分享图片×1、行业新闻八卦×7、边缘技术新闻×4）
-- 补充规则：filter_rules.md 排除词增加 `校招`、`招聘`、`夏令营`、`大赛`、`比赛`、`竞赛`、`奖金`、`倒计时`；规则 4 扩展为「娱乐/八卦/行业新闻」
-- 去重状态：fetch_state.json 的 article_id 保留（防回潮，不重复抓取）
->>>>>>> origin/main
