@@ -500,3 +500,20 @@
 - [Qwen-Audio-3.0系列语音模型正式上线千问AI平台](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561890&amp;idx=1&amp;sn=9ef07932c013aa647d11056b74bf52a6) `2026-08-17`
 - [重磅！一文读懂 DeepSeek Harness 插件！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725326&amp;idx=1&amp;sn=83f71af70806d679b72b480ed1e24691) `2026-08-17`
 - [最新！DeepSeek Harness桌面版和CLI来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725298&amp;idx=1&amp;sn=9c3dbe38ad3434b1798bea5e0501ff52) `2026-08-16`
+
+## 2026-08-19 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 8 篇
+- **Feed 总量**: 36 篇
+- **累计已抓**: 291 篇
+
+**本次新增：**
+- [任何错误只犯一次：TencentDB Agent Memory 的团队记忆实践](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803679&amp;idx=1&amp;sn=910b29493df93cadf43078846d630cef) `2026-08-18`
+- [对比与生成：抖音SOTA多模态表征模型DME](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521321&amp;idx=1&amp;sn=4881e96023fe955d32daac031479bc92) `2026-08-18`
+- [让 Coding Agent 开始「记住过去」：MemoraX Code 的长期记忆系统](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050939&amp;idx=1&amp;sn=048d1d6f8e05e0ae4bd944928e5d2171) `2026-08-18`
+- [一个「流浪」数学家的遗产，正在被AI公司疯抢](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050939&amp;idx=2&amp;sn=ec43544ef0d7564d37952ae8f0f7a3f5) `2026-08-18`
+- [起猛了，机器人开上卡丁车了！](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050789&amp;idx=1&amp;sn=24d0089b094af36e6e81d18a30d3ba89) `2026-08-17`
+- [全球首个跨本体、多视角、多模态物理世界模型，CurrentWorld-0 来了！](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050789&amp;idx=2&amp;sn=ad80098f33a57c6e63e5ea2fd0971bda) `2026-08-17`
+- [OpenAI有个神秘邮箱，多大点事都能惊动奥特曼](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050789&amp;idx=3&amp;sn=9e66e0531f994153d531042b8615ac7b) `2026-08-17`
+- [仅面向企业老板！上海、杭州、南京FDE 企业AI落地班来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725373&amp;idx=1&amp;sn=255df62b9ae2f22a9e93e97a90bb60c9) `2026-08-18`
