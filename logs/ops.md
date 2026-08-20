@@ -517,3 +517,20 @@
 - [全球首个跨本体、多视角、多模态物理世界模型，CurrentWorld-0 来了！](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050789&amp;idx=2&amp;sn=ad80098f33a57c6e63e5ea2fd0971bda) `2026-08-17`
 - [OpenAI有个神秘邮箱，多大点事都能惊动奥特曼](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651050789&amp;idx=3&amp;sn=9e66e0531f994153d531042b8615ac7b) `2026-08-17`
 - [仅面向企业老板！上海、杭州、南京FDE 企业AI落地班来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725373&amp;idx=1&amp;sn=255df62b9ae2f22a9e93e97a90bb60c9) `2026-08-18`
+
+## 2026-08-20 18:00:03 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 8 篇
+- **Feed 总量**: 34 篇
+- **累计已抓**: 299 篇
+
+**本次新增：**
+- [微信AI来了？又有这13个新变化！](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803711&amp;idx=1&amp;sn=769cdeea7696c94fe4488827a6a41211) `2026-08-19`
+- [Agent Plan x DeepSeek Harness 实践指南](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521375&amp;idx=1&amp;sn=e11bc1ebfc05563e0d0ab2d5d47835b5) `2026-08-19`
+- [ADrive 智能网盘：让 ArkClaw 的每一份产物，从「临时文件」变成「长期资产」](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521375&amp;idx=2&amp;sn=0f9e1f1fc0b9613c809dd6014c82e3ca) `2026-08-19`
+- [阿里巴巴 12 篇论文入选全球网络顶会 SIGCOMM 2026（内附下载）](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511193&amp;idx=1&amp;sn=985ceca884ea702ec12963d8041ef80d) `2026-08-19`
+- [EP-Harness：从个人 AI Coding 到团队级 Agent 工作流｜得物技术](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247546472&amp;idx=1&amp;sn=f81736e344109ae41c6f78127d847519) `2026-08-19`
+- [600万奖池尘埃落定，有人靠DeepSeek网页版拿下冠军](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651051113&amp;idx=1&amp;sn=a9c3abcde2dc29a8ed52dd44e30cb6f5) `2026-08-19`
+- [一个Skill让DeepSeek V4 Pro超越Fable 5？热门插件被锤了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651051113&amp;idx=2&amp;sn=4170b4c6d918755486250701628d8bc6) `2026-08-19`
+- [重磅！国际大厂Arm大会免费门票来了](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725483&amp;idx=1&amp;sn=a6337db4a13ef457a2e4e2d133ce3978) `2026-08-19`
