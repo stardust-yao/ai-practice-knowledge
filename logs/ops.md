@@ -534,3 +534,22 @@
 - [600万奖池尘埃落定，有人靠DeepSeek网页版拿下冠军](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651051113&amp;idx=1&amp;sn=a9c3abcde2dc29a8ed52dd44e30cb6f5) `2026-08-19`
 - [一个Skill让DeepSeek V4 Pro超越Fable 5？热门插件被锤了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651051113&amp;idx=2&amp;sn=4170b4c6d918755486250701628d8bc6) `2026-08-19`
 - [重磅！国际大厂Arm大会免费门票来了](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725483&amp;idx=1&amp;sn=a6337db4a13ef457a2e4e2d133ce3978) `2026-08-19`
+
+## 2026-08-21 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 10 篇
+- **Feed 总量**: 35 篇
+- **累计已抓**: 309 篇
+
+**本次新增：**
+- [腾讯大数据 SuperSQL 刷新 TPC-DS 世界纪录，性能、性价比双料第一](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803712&amp;idx=1&amp;sn=515b0c05169da477cb32db81d692715b) `2026-08-20`
+- [美团搜索3.0：LLM 语义表征在排序模型的探索与应用](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783185&amp;idx=1&amp;sn=0aab6d93f04e2c543903d6d6a4a98f88) `2026-08-20`
+- [豆包视频通话升级，火山引擎多模态传输系统提供技术支撑](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521377&amp;idx=1&amp;sn=3d2f9e30616aa074c8d574c568903ba8) `2026-08-20`
+- [再上新！GLM-5.3、Deepseek-V4-Pro等多款模型上线千问AI平台](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561963&amp;idx=1&amp;sn=bfd5c60400266b10df52920cfb3001d0) `2026-08-21`
+- [WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651051506&amp;idx=1&amp;sn=d1eb5c88e5a7ebfb2d81c68804684eed) `2026-08-21`
+- [把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651051506&amp;idx=2&amp;sn=7492c796da65176af0bf9bcce332eae7) `2026-08-21`
+- [端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651051506&amp;idx=3&amp;sn=aa2e1f4dd425cf0a52631efb49e2f182) `2026-08-21`
+- [工业具身智能走进工厂，为什么还需要一层「底座」？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651051423&amp;idx=1&amp;sn=0df5f18ad20453e706a6962853d4ab1c) `2026-08-20`
+- [WorkSwarm让Agent组队干活，JiuwenBox安全沙箱守护每一步执行](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651051423&amp;idx=2&amp;sn=16e8c6178a4da711642607cf5323766b) `2026-08-20`
+- [信息量太大！Datawhale对谈Google高管最新实录](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725503&amp;idx=1&amp;sn=eb2c07040d0e91a7d7932b69c5268bbb) `2026-08-20`
