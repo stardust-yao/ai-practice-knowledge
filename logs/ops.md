@@ -553,3 +553,14 @@
 - [工业具身智能走进工厂，为什么还需要一层「底座」？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651051423&amp;idx=1&amp;sn=0df5f18ad20453e706a6962853d4ab1c) `2026-08-20`
 - [WorkSwarm让Agent组队干活，JiuwenBox安全沙箱守护每一步执行](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651051423&amp;idx=2&amp;sn=16e8c6178a4da711642607cf5323766b) `2026-08-20`
 - [信息量太大！Datawhale对谈Google高管最新实录](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725503&amp;idx=1&amp;sn=eb2c07040d0e91a7d7932b69c5268bbb) `2026-08-20`
+
+## 2026-08-22 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 2 篇
+- **Feed 总量**: 29 篇
+- **累计已抓**: 311 篇
+
+**本次新增：**
+- [靠这10个优化点，我们把Multi-Agent工作流成本降了50%以上](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803728&amp;idx=1&amp;sn=e5958d1c5d52e82bbe693b932d07492f) `2026-08-21`
+- [Agent 终章（Harness 成本篇）：一次百炼账单降低 88% 实战](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511201&amp;idx=1&amp;sn=4af859e8a065ac8c1fa687ace0ea5feb) `2026-08-21`
