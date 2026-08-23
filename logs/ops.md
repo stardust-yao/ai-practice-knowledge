@@ -564,3 +564,16 @@
 **本次新增：**
 - [靠这10个优化点，我们把Multi-Agent工作流成本降了50%以上](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803728&amp;idx=1&amp;sn=e5958d1c5d52e82bbe693b932d07492f) `2026-08-21`
 - [Agent 终章（Harness 成本篇）：一次百炼账单降低 88% 实战](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511201&amp;idx=1&amp;sn=4af859e8a065ac8c1fa687ace0ea5feb) `2026-08-21`
+
+## 2026-08-23 18:00:03 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 4 篇
+- **Feed 总量**: 31 篇
+- **累计已抓**: 315 篇
+
+**本次新增：**
+- [对话维他动力秦海龙：具身智能真正难题不是让机器人「学会」，而是跨本体「继承」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651051744&amp;idx=1&amp;sn=22c2857fcc9f3c5976d2bca19c597075) `2026-08-22`
+- [谷歌TPU创始负责人加入Anthropic](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651051744&amp;idx=2&amp;sn=953e88352552dfb0214f61c96b3258d9) `2026-08-22`
+- [ECCV 2026｜光照改了，人却变了？美图影像研究院提出一致特征传输重打光新方案CFT](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651051744&amp;idx=3&amp;sn=2adfa49d951362117407be4da2b67d22) `2026-08-22`
+- [Claude Code，省Token费用的教程来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725554&amp;idx=1&amp;sn=28b5abdee03e820457230ab8e5daae7d) `2026-08-22`
