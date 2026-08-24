@@ -577,3 +577,14 @@
 - [谷歌TPU创始负责人加入Anthropic](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651051744&amp;idx=2&amp;sn=953e88352552dfb0214f61c96b3258d9) `2026-08-22`
 - [ECCV 2026｜光照改了，人却变了？美图影像研究院提出一致特征传输重打光新方案CFT](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651051744&amp;idx=3&amp;sn=2adfa49d951362117407be4da2b67d22) `2026-08-22`
 - [Claude Code，省Token费用的教程来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725554&amp;idx=1&amp;sn=28b5abdee03e820457230ab8e5daae7d) `2026-08-22`
+
+## 2026-08-24 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 2 篇
+- **Feed 总量**: 29 篇
+- **累计已抓**: 317 篇
+
+**本次新增：**
+- [Wan3.0正式上线千问AI平台：稳定、真实、有质感](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561968&amp;idx=1&amp;sn=187673f3940572472498763db7a31d09) `2026-08-24`
+- [重磅！Codex省钱教程来了](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725601&amp;idx=1&amp;sn=13dbf3c4f1ea2f7c664cea6dad0fd258) `2026-08-23`
