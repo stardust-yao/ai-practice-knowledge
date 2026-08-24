@@ -2,4 +2,4 @@
 __pycache__/
 *.bak_*
 .worktrees/
-task-prompt.md
+/task-prompt.md
