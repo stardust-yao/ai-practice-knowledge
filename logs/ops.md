@@ -588,3 +588,19 @@
 **本次新增：**
 - [Wan3.0正式上线千问AI平台：稳定、真实、有质感](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561968&amp;idx=1&amp;sn=187673f3940572472498763db7a31d09) `2026-08-24`
 - [重磅！Codex省钱教程来了](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725601&amp;idx=1&amp;sn=13dbf3c4f1ea2f7c664cea6dad0fd258) `2026-08-23`
+
+## 2026-08-25 18:00:09 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 7 篇
+- **Feed 总量**: 32 篇
+- **累计已抓**: 324 篇
+
+**本次新增：**
+- [DeepSeek Harness规模化踩坑实录：耗时、成本、失败到底该怎么查](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803822&amp;idx=1&amp;sn=82b4c1b6735d5757e5e0a3288312c73e) `2026-08-24`
+- [都在问世界模型怎么落地，PixVerse把答案做成了「好玩」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651052153&amp;idx=1&amp;sn=3ab5c5cea400b3dfc8db924322e04aa3) `2026-08-24`
+- [一个大脑，多种本体：江行智能详解物理AI工业落地的系统解法](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651052153&amp;idx=2&amp;sn=5897d8c549935688b6db8a5f32e04d80) `2026-08-24`
+- [把事实核查嵌入诊疗流程：MedGuard给「诊疗安全」当守门人](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651052153&amp;idx=3&amp;sn=73608f6d8689d58e5b250a2cf643d66c) `2026-08-24`
+- [2026 WRC：人形机器人告别跳舞炫技，进入「真干活」，谁跑通了落地？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651051875&amp;idx=1&amp;sn=0771779c9b47e5b24b73db4885865c9c) `2026-08-23`
+- [小狗Rosie走了三个月后，她的病历变成了一家AI医疗公司](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651051875&amp;idx=2&amp;sn=a3089cb5cdb85cb8347e0e9cba0c8e31) `2026-08-23`
+- [一文读懂Physical AI六种主流实现思路！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725607&amp;idx=1&amp;sn=eb11aac7bfa9b5f114c40d118e0beb25) `2026-08-24`
