@@ -604,3 +604,13 @@
 - [2026 WRC：人形机器人告别跳舞炫技，进入「真干活」，谁跑通了落地？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651051875&amp;idx=1&amp;sn=0771779c9b47e5b24b73db4885865c9c) `2026-08-23`
 - [小狗Rosie走了三个月后，她的病历变成了一家AI医疗公司](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651051875&amp;idx=2&amp;sn=a3089cb5cdb85cb8347e0e9cba0c8e31) `2026-08-23`
 - [一文读懂Physical AI六种主流实现思路！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725607&amp;idx=1&amp;sn=eb11aac7bfa9b5f114c40d118e0beb25) `2026-08-24`
+
+## 2026-08-26 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 1 篇
+- **Feed 总量**: 28 篇
+- **累计已抓**: 325 篇
+
+**本次新增：**
+- [用 AgentKit，5 分钟搭建云端安全隔离的 DeepSeek Harness](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521412&amp;idx=1&amp;sn=b79fcd45e0a22de4d6476280555b6354) `2026-08-25`
