@@ -614,3 +614,20 @@
 
 **本次新增：**
 - [用 AgentKit，5 分钟搭建云端安全隔离的 DeepSeek Harness](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521412&amp;idx=1&amp;sn=b79fcd45e0a22de4d6476280555b6354) `2026-08-25`
+
+## 2026-08-27 18:00:05 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 8 篇
+- **Feed 总量**: 37 篇
+- **累计已抓**: 333 篇
+
+**本次新增：**
+- [一篇讲透Agent自进化飞轮怎么搭：评测→记忆→落地→控制](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803847&amp;idx=1&amp;sn=abe5cab137aac47cb042b6baa1a24191) `2026-08-26`
+- [字节实践 | Agent 提示词注入攻击：一场需要长期应对的安全挑战](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521453&amp;idx=1&amp;sn=a43b95ca00458d532f29d70e80f0d118) `2026-08-26`
+- [企业级 MultiAgent 的记忆系统：短期上下文与四层记忆架构实现｜得物技术](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247546577&amp;idx=1&amp;sn=e958fbb5a7701d92612f0da1549ad0ad) `2026-08-26`
+- [Shopify CEO考虑禁用Claude Code，因其不兼容AGENTS.md](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651052471&amp;idx=2&amp;sn=e243403e1ae25a94cb0822e80332c0fc) `2026-08-26`
+- [启发学习：让大模型认知从外化到内生](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651052471&amp;idx=3&amp;sn=3620ae20330d3e78adc45de5ca500ab5) `2026-08-26`
+- [给优秀实习生期权！刚刚，一项面向AI顶级人才的「面壁计划」启动了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651052342&amp;idx=1&amp;sn=29c021d6d90b574c34721547864d1e3a) `2026-08-25`
+- [Agentic AI的第三种范式来了，16家机构提出「伴身智能体」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651052342&amp;idx=3&amp;sn=8ca0f9b59ccb036b217729b75fa4596b) `2026-08-25`
+- [重磅！Anthropic内部AI Native经验公开了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725668&amp;idx=1&amp;sn=fbfc2f8aeb8663035dcdd769aa088184) `2026-08-26`
