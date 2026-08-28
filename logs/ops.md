@@ -631,3 +631,20 @@
 - [给优秀实习生期权！刚刚，一项面向AI顶级人才的「面壁计划」启动了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651052342&amp;idx=1&amp;sn=29c021d6d90b574c34721547864d1e3a) `2026-08-25`
 - [Agentic AI的第三种范式来了，16家机构提出「伴身智能体」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651052342&amp;idx=3&amp;sn=8ca0f9b59ccb036b217729b75fa4596b) `2026-08-25`
 - [重磅！Anthropic内部AI Native经验公开了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725668&amp;idx=1&amp;sn=fbfc2f8aeb8663035dcdd769aa088184) `2026-08-26`
+
+## 2026-08-28 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 8 篇
+- **Feed 总量**: 40 篇
+- **累计已抓**: 341 篇
+
+**本次新增：**
+- [两万字长文｜手把手带你趟过 AI Coding 深水区：编码让位，人退到哪里](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803848&amp;idx=1&amp;sn=d61f1e7642a93c81c86fba2cf799f4b3) `2026-08-27`
+- [校招｜美团无人机2027届北斗计划热招中](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783211&amp;idx=2&amp;sn=68dc28cbb4d361a2d3fffc92ff03dcf3) `2026-08-27`
+- [ADrive 跨产品协作实践：文件通了，Agent 就通了](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521712&amp;idx=1&amp;sn=584ee46d8b9021b56004a8a7e318e2d0) `2026-08-27`
+- [AI 创新实践｜「架构师 Agent」系统化落地](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511307&amp;idx=1&amp;sn=a61beaf9d8ec073581a91674d90649f0) `2026-08-27`
+- [极致性价比！Qwen3.8-Flash上线千问AI平台](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562051&amp;idx=1&amp;sn=47ea31d72039e043bae7c0a79add001e) `2026-08-27`
+- [AI患者管理驶入深水区：如何让「管得住」变成「管出疗效」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651052598&amp;idx=1&amp;sn=bbfc659cb66078285cbb3753c3095ab8) `2026-08-27`
+- [刚刚，Claude Code又进化了，替用户起草「反馈报告」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651052598&amp;idx=2&amp;sn=c248e65c9354ba2d754dd3915cb37507) `2026-08-27`
+- [ECCV 2026｜OmniColor：统一多模态线稿上色框架](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651052598&amp;idx=3&amp;sn=873659bf287878445abeba2f7dd7c9ae) `2026-08-27`
