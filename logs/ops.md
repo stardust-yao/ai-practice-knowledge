@@ -648,3 +648,18 @@
 - [AI患者管理驶入深水区：如何让「管得住」变成「管出疗效」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651052598&amp;idx=1&amp;sn=bbfc659cb66078285cbb3753c3095ab8) `2026-08-27`
 - [刚刚，Claude Code又进化了，替用户起草「反馈报告」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651052598&amp;idx=2&amp;sn=c248e65c9354ba2d754dd3915cb37507) `2026-08-27`
 - [ECCV 2026｜OmniColor：统一多模态线稿上色框架](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651052598&amp;idx=3&amp;sn=873659bf287878445abeba2f7dd7c9ae) `2026-08-27`
+
+## 2026-08-29 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 6 篇
+- **Feed 总量**: 38 篇
+- **累计已抓**: 347 篇
+
+**本次新增：**
+- [多篇论文入选国际顶会 EMNLP 2026！小米 AI 大模型技术实现创新突破](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520239&amp;idx=1&amp;sn=50eea3959aa577e677bebb2d0e83081f) `2026-08-28`
+- [得物技术er又又又发「顶会论文」了？](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247546598&amp;idx=1&amp;sn=63a547596cb1df4f1062b1aca0e16863) `2026-08-28`
+- [刚刚，腾讯姚顺雨再交卷，开源Hy4 preview](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053243&amp;idx=1&amp;sn=ee63c3e0daa3f81ef213c566ed9872bf) `2026-08-28`
+- [智元把「上班用」的机器人拉去比赛，拿了双榜第一](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053054&amp;idx=1&amp;sn=3a775c1579fb39b60f3e55cc114fc2d8) `2026-08-28`
+- [2026年最被低估的具身赛道：让机器人先到得了现场](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053054&amp;idx=2&amp;sn=6bcfaa04a1963cec0b322f228c1adc38) `2026-08-28`
+- [我用 Obsidian 搭了一套 Agent 知识系统，保姆教程来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725759&amp;idx=1&amp;sn=1fb3582e4c9c700e240666a18543f0c4) `2026-08-28`
