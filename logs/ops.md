@@ -663,3 +663,18 @@
 - [智元把「上班用」的机器人拉去比赛，拿了双榜第一](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053054&amp;idx=1&amp;sn=3a775c1579fb39b60f3e55cc114fc2d8) `2026-08-28`
 - [2026年最被低估的具身赛道：让机器人先到得了现场](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053054&amp;idx=2&amp;sn=6bcfaa04a1963cec0b322f228c1adc38) `2026-08-28`
 - [我用 Obsidian 搭了一套 Agent 知识系统，保姆教程来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725759&amp;idx=1&amp;sn=1fb3582e4c9c700e240666a18543f0c4) `2026-08-28`
+
+## 2026-08-30 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 6 篇
+- **Feed 总量**: 38 篇
+- **累计已抓**: 353 篇
+
+**本次新增：**
+- [场景营销互动&amp;体验 AI Coding— AI Native 视觉还原的两个支点：上下文工程与循环工程](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562152&amp;idx=1&amp;sn=45c3da2ca63c5dfea6e76f2d95d18c4f) `2026-08-28`
+- [Claude安全机制大翻车！AI怒删开发者700GB主目录](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053526&amp;idx=1&amp;sn=e40820f4e96546b56a2a6419432b31cc) `2026-08-30`
+- [端侧模型专用Harness，用Qwen3.8-27B实现「零成本推理」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053526&amp;idx=2&amp;sn=c487c62ae639a7fd386b186820419f70) `2026-08-30`
+- [当 AI 开始为 AI 造“认知外骨骼”：不训模型，也能让小 AI 能力翻倍？AI4AI 正从这里开始](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053526&amp;idx=3&amp;sn=86488a72c65463f7a70e5fcbf92681d5) `2026-08-30`
+- [突发！OpenAI宣布断供Cursor](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053471&amp;idx=1&amp;sn=eb718841cd7d53921a32e5ecd15bbff5) `2026-08-29`
+- [Anthropic盯上「训练芯片」？被爆曾想70亿美元收购AI芯片公司MatX](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053471&amp;idx=2&amp;sn=e6f7b2881329a55cfb6a1f71cbb861fb) `2026-08-29`
