@@ -678,3 +678,15 @@
 - [当 AI 开始为 AI 造“认知外骨骼”：不训模型，也能让小 AI 能力翻倍？AI4AI 正从这里开始](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053526&amp;idx=3&amp;sn=86488a72c65463f7a70e5fcbf92681d5) `2026-08-30`
 - [突发！OpenAI宣布断供Cursor](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053471&amp;idx=1&amp;sn=eb718841cd7d53921a32e5ecd15bbff5) `2026-08-29`
 - [Anthropic盯上「训练芯片」？被爆曾想70亿美元收购AI芯片公司MatX](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053471&amp;idx=2&amp;sn=e6f7b2881329a55cfb6a1f71cbb861fb) `2026-08-29`
+
+## 2026-08-31 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 3 篇
+- **Feed 总量**: 37 篇
+- **累计已抓**: 356 篇
+
+**本次新增：**
+- [从 ReAct 到 Agent Teams：一个工程师视角的 Agent 协作机制思考](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562213&amp;idx=1&amp;sn=b5d701423e4bcb9c5775a7c6af19e234) `2026-08-31`
+- [Mac mini缺货原因找到了！OpenAI、Anthropic都在抢](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053642&amp;idx=2&amp;sn=4b05490be78424c57d2d1d2f7b3215ed) `2026-08-31`
+- [Anthropic最新多智能体研究来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725784&amp;idx=1&amp;sn=77606a34c93895e125f7233ba86d0247) `2026-08-29`
