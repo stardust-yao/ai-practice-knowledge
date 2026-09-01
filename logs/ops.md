@@ -690,3 +690,19 @@
 - [从 ReAct 到 Agent Teams：一个工程师视角的 Agent 协作机制思考](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562213&amp;idx=1&amp;sn=b5d701423e4bcb9c5775a7c6af19e234) `2026-08-31`
 - [Mac mini缺货原因找到了！OpenAI、Anthropic都在抢](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053642&amp;idx=2&amp;sn=4b05490be78424c57d2d1d2f7b3215ed) `2026-08-31`
 - [Anthropic最新多智能体研究来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725784&amp;idx=1&amp;sn=77606a34c93895e125f7233ba86d0247) `2026-08-29`
+
+## 2026-09-01 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 7 篇
+- **Feed 总量**: 42 篇
+- **累计已抓**: 363 篇
+
+**本次新增：**
+- [从Vibe Coding到Vibe Worlding：AI开始自己“造世界”了](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803909&amp;idx=1&amp;sn=86e196bd070ef323abc0b62f99bd4cac) `2026-08-31`
+- [CloudLens for TOS：打通日志分析与数据透视，让对象存储可见、可查、可治理](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521877&amp;idx=1&amp;sn=0a0633b5daac6e93db59009212cb3e93) `2026-08-31`
+- [zg 正式开源：本地检索，不止于关键词](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511367&amp;idx=1&amp;sn=7a7ea589cdf19b68dc5eb8b9f04e8030) `2026-08-31`
+- [小米大家电再添三项「国际领先」技术成果](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520254&amp;idx=1&amp;sn=a079e3015078fb645bf65c2843583a58) `2026-08-31`
+- [从 Loop 到 Graph Engineering 的演进思考与实战](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562254&amp;idx=1&amp;sn=77b80c213b5e45ae40cdb09a0a6c15dd) `2026-09-01`
+- [入职得物五年后](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247546614&amp;idx=1&amp;sn=76de4b4d18e26eedc3c6d1dfb49a6675) `2026-08-31`
+- [Warp CEO的Claude实战教程，两个Skill让Agent进化！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725873&amp;idx=1&amp;sn=0cdc741a73325e737e32d0dca203375a) `2026-08-31`
