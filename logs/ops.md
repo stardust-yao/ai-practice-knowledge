@@ -706,3 +706,17 @@
 - [从 Loop 到 Graph Engineering 的演进思考与实战](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562254&amp;idx=1&amp;sn=77b80c213b5e45ae40cdb09a0a6c15dd) `2026-09-01`
 - [入职得物五年后](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247546614&amp;idx=1&amp;sn=76de4b4d18e26eedc3c6d1dfb49a6675) `2026-08-31`
 - [Warp CEO的Claude实战教程，两个Skill让Agent进化！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247725873&amp;idx=1&amp;sn=0cdc741a73325e737e32d0dca203375a) `2026-08-31`
+
+## 2026-09-02 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 5 篇
+- **Feed 总量**: 40 篇
+- **累计已抓**: 368 篇
+
+**本次新增：**
+- [VLDB 2026｜字节数据库 5 篇论文入选，附现场分享安排](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521958&amp;idx=1&amp;sn=c7c173ceb0fbf6827a6cf448e4380d0f) `2026-09-01`
+- [Qwen3.8-Max更强了！](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562297&amp;idx=1&amp;sn=420b67c29646788c40605bb9445947b5) `2026-09-02`
+- [Kimi、WorkBuddy、MiniMax能力包，招行这张信用卡全包了，AI办公新入口来了！](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053856&amp;idx=1&amp;sn=1b2bc040c2c0efa863c958efa8f45f62) `2026-09-01`
+- [Runway把世界模型做成了操作系统！不用代码直接生成界面](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053856&amp;idx=2&amp;sn=b9dde7ac8cc75c5fa074342175d40fca) `2026-09-01`
+- [当AI从工具到认知主体，我们需要警惕哪些新风险？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053856&amp;idx=3&amp;sn=1501153f2e5e680af043e9f7878b96de) `2026-09-01`
