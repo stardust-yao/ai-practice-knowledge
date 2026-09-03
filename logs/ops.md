@@ -720,3 +720,17 @@
 - [Kimi、WorkBuddy、MiniMax能力包，招行这张信用卡全包了，AI办公新入口来了！](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053856&amp;idx=1&amp;sn=1b2bc040c2c0efa863c958efa8f45f62) `2026-09-01`
 - [Runway把世界模型做成了操作系统！不用代码直接生成界面](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053856&amp;idx=2&amp;sn=b9dde7ac8cc75c5fa074342175d40fca) `2026-09-01`
 - [当AI从工具到认知主体，我们需要警惕哪些新风险？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651053856&amp;idx=3&amp;sn=1501153f2e5e680af043e9f7878b96de) `2026-09-01`
+
+## 2026-09-03 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 5 篇
+- **Feed 总量**: 41 篇
+- **累计已抓**: 373 篇
+
+**本次新增：**
+- [鹅厂员工都是怎么被AI“糊弄”的？](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803958&amp;idx=1&amp;sn=9ffde51b32770be812fd7d9743ae7f7f) `2026-09-02`
+- [换工具、换 Agent，不换上下文：OpenViking 让研发 Context 始终在线](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522116&amp;idx=1&amp;sn=12549be2892dea3b03f75bb06b9d61c8) `2026-09-02`
+- [AI Agent 应用精细化评测：评测体系设计与工程实践](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511370&amp;idx=1&amp;sn=c9f4ff1d054cb229ac2f8c1462fcb05e) `2026-09-02`
+- [得物小摊 AI Native 演进实录：用 Harness 构建可控 AI 交付](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247546690&amp;idx=1&amp;sn=8387c3c66eb9c1ebb2d9842a3bae9348) `2026-09-02`
+- [Vibe Coding杀进3D领域！OpenAI总裁都在围观这种新玩法](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651054212&amp;idx=1&amp;sn=abd00272952a72de2c50ee625e2a5bc2) `2026-09-02`
