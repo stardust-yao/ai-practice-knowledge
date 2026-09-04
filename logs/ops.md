@@ -734,3 +734,17 @@
 - [AI Agent 应用精细化评测：评测体系设计与工程实践](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511370&amp;idx=1&amp;sn=c9f4ff1d054cb229ac2f8c1462fcb05e) `2026-09-02`
 - [得物小摊 AI Native 演进实录：用 Harness 构建可控 AI 交付](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247546690&amp;idx=1&amp;sn=8387c3c66eb9c1ebb2d9842a3bae9348) `2026-09-02`
 - [Vibe Coding杀进3D领域！OpenAI总裁都在围观这种新玩法](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651054212&amp;idx=1&amp;sn=abd00272952a72de2c50ee625e2a5bc2) `2026-09-02`
+
+## 2026-09-04 18:00:05 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 5 篇
+- **Feed 总量**: 42 篇
+- **累计已抓**: 378 篇
+
+**本次新增：**
+- [美团智播——数字人直播技术创新与实践](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783277&amp;idx=1&amp;sn=69b406db34fc05f4a17b0310dcf3a7f5) `2026-09-03`
+- [【CIKM&#39;2026】CQ-SID：LLM生成式检索在手猫搜索召回中的探索与应用](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562306&amp;idx=1&amp;sn=7377e0911a66a68752c933ed3f01f247) `2026-09-04`
+- [RSI离我们有多远？这家中国团队给出了第一梯队的工程解](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651054414&amp;idx=1&amp;sn=8b059e8c7025fd12ef2262632d066f8d) `2026-09-03`
+- [OpenAI Astra被曝引入「循环深度」能力飙升！安全专家坐不住了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651054414&amp;idx=2&amp;sn=e29b7c12fc5056bc5c62410551d98e82) `2026-09-03`
+- [Anthropic访谈了15家明星公司，整理的AI编程教程公开了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247726052&amp;idx=1&amp;sn=bfd5913d7da21a72619cea31f814e46e) `2026-09-02`
