@@ -748,3 +748,18 @@
 - [RSI离我们有多远？这家中国团队给出了第一梯队的工程解](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651054414&amp;idx=1&amp;sn=8b059e8c7025fd12ef2262632d066f8d) `2026-09-03`
 - [OpenAI Astra被曝引入「循环深度」能力飙升！安全专家坐不住了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651054414&amp;idx=2&amp;sn=e29b7c12fc5056bc5c62410551d98e82) `2026-09-03`
 - [Anthropic访谈了15家明星公司，整理的AI编程教程公开了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247726052&amp;idx=1&amp;sn=bfd5913d7da21a72619cea31f814e46e) `2026-09-02`
+
+## 2026-09-05 18:00:05 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 6 篇
+- **Feed 总量**: 43 篇
+- **累计已抓**: 384 篇
+
+**本次新增：**
+- [DeepSeek Harness背后的“心脏”：Cordis 到底是什么](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803959&amp;idx=1&amp;sn=9d18ecc2139e8ab90a44515ca64b0db5) `2026-09-04`
+- [5 人 7 天干完 20 人数周的活：Spec-Driven Development 如何重新定义 AI 编程](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511376&amp;idx=1&amp;sn=24f1d3ed57ccb6b4faad4a1aaac091bd) `2026-09-04`
+- [喜报 | 小米联合高校团队获 IJCAI-ECAI 2026 官方竞赛开放赛道冠军，并斩获双奖](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520283&amp;idx=1&amp;sn=afdbe295a43432a449feafb0b6a4064c) `2026-09-04`
+- [Alaya Lab：为AGI构建下一代游戏工程](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651054875&amp;idx=1&amp;sn=bd7220b369e98d5cec498a5dbb31d56f) `2026-09-05`
+- [走两步，就忘了路｜UrbanGround：上交、NUS 等团队把大模型放进「真实三维香港」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651054875&amp;idx=2&amp;sn=1e1d8ecfa5c2e67b26122d4fb2fd9b9e) `2026-09-05`
+- [Codex悄悄大改了记忆系统！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247726158&amp;idx=1&amp;sn=9e31142f87f62815808d9ad4bb85d469) `2026-09-04`
