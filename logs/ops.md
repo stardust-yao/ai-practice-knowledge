@@ -763,3 +763,13 @@
 - [Alaya Lab：为AGI构建下一代游戏工程](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651054875&amp;idx=1&amp;sn=bd7220b369e98d5cec498a5dbb31d56f) `2026-09-05`
 - [走两步，就忘了路｜UrbanGround：上交、NUS 等团队把大模型放进「真实三维香港」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651054875&amp;idx=2&amp;sn=1e1d8ecfa5c2e67b26122d4fb2fd9b9e) `2026-09-05`
 - [Codex悄悄大改了记忆系统！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247726158&amp;idx=1&amp;sn=9e31142f87f62815808d9ad4bb85d469) `2026-09-04`
+
+## 2026-09-06 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 1 篇
+- **Feed 总量**: 38 篇
+- **累计已抓**: 385 篇
+
+**本次新增：**
+- [游戏生成工程化！北大开源：AI游戏工厂来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247726218&amp;idx=1&amp;sn=78686e58efd8bb4a266524705f994ffb) `2026-09-05`
