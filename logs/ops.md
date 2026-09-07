@@ -773,3 +773,14 @@
 
 **本次新增：**
 - [游戏生成工程化！北大开源：AI游戏工厂来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247726218&amp;idx=1&amp;sn=78686e58efd8bb4a266524705f994ffb) `2026-09-05`
+
+## 2026-09-07 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 2 篇
+- **Feed 总量**: 41 篇
+- **累计已抓**: 387 篇
+
+**本次新增：**
+- [大模型企业「跨界」具身即登顶榜首！智象HiDream具身世界模型来了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651055242&amp;idx=2&amp;sn=7375edb00481a6a1b8f731f82a779489) `2026-09-07`
+- [不会写代码的人，在B站造出了百万用户产品](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651054934&amp;idx=1&amp;sn=f6f7b37e1aaf36452eb4d09ab8b51695) `2026-09-06`
