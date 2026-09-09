@@ -795,3 +795,18 @@
 **本次新增：**
 - [从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803963&amp;idx=1&amp;sn=ec0730b1274a0b52382df956d8583215) `2026-09-07`
 - [Agent Plan 「Agent云电脑」工具： 让 AI 在云电脑上完成股市深度研究](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522149&amp;idx=1&amp;sn=383a089a1ed8658ac6742851ca4d4325) `2026-09-07`
+
+## 2026-09-09 18:00:05 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 6 篇
+- **Feed 总量**: 48 篇
+- **累计已抓**: 395 篇
+
+**本次新增：**
+- [字节跳动质量保障团队｜让 QA 真正用起来：测试用例生成 Agent 落地，我们做对了什么](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522261&amp;idx=1&amp;sn=e52d6b6f0d3c73d103f5e3ebc2e744ae) `2026-09-08`
+- [Xiaomi MiMo 桌面客户端开放邀测](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520308&amp;idx=1&amp;sn=4218479a12e39044a26d648eabe9b50c) `2026-09-08`
+- [雷军：小米澎程四款车型正式上市，还有小米18 Fold、小米平板9 Pro Max，首发搭载玄戒O3 AI 旗舰处理器](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520306&amp;idx=1&amp;sn=bc21fdcac1483cc462afa86393e55d95) `2026-09-07`
+- [【AI 创新实践】“架构师 Agent” 系统化落地](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562372&amp;idx=1&amp;sn=3e8ea44766d7900fd4e55777cf24610b) `2026-09-09`
+- [端侧模型太夯了！面壁智能开源2B「小钢炮」，通用Agent杀到端侧](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651055602&amp;idx=1&amp;sn=c26a061b944f571aabbcf2ae440fc96f) `2026-09-08`
+- [Agent长时工作如何不跑偏？WorkSwarm用「永续会话」给出解法](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651055602&amp;idx=2&amp;sn=da7bb74bb874248ea6466b4ba920b2d7) `2026-09-08`
