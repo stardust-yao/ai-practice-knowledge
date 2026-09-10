@@ -810,3 +810,18 @@
 - [【AI 创新实践】“架构师 Agent” 系统化落地](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562372&amp;idx=1&amp;sn=3e8ea44766d7900fd4e55777cf24610b) `2026-09-09`
 - [端侧模型太夯了！面壁智能开源2B「小钢炮」，通用Agent杀到端侧](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651055602&amp;idx=1&amp;sn=c26a061b944f571aabbcf2ae440fc96f) `2026-09-08`
 - [Agent长时工作如何不跑偏？WorkSwarm用「永续会话」给出解法](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651055602&amp;idx=2&amp;sn=da7bb74bb874248ea6466b4ba920b2d7) `2026-09-08`
+
+## 2026-09-10 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 6 篇
+- **Feed 总量**: 48 篇
+- **累计已抓**: 401 篇
+
+**本次新增：**
+- [10个技巧，让你的Workbuddy比别人好用！](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804002&amp;idx=1&amp;sn=87e1bb073eab81af45c12f054b430b17) `2026-09-09`
+- [TLS 全链路可观测体系：破解 LLM 应用黑盒，实现会话透明复盘](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522374&amp;idx=1&amp;sn=33c26eab48cc34d99c8e25423a715489) `2026-09-09`
+- [火山引擎 AI MediaKit X 懂车帝，探索汽车内容智能创作新方式](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522374&amp;idx=2&amp;sn=eb309174c350b07a904cdc890f771b43) `2026-09-09`
+- [Apache Paimon C++ ：从阿里数据湖走向开源社区](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511420&amp;idx=1&amp;sn=c2f443c3f1b8fd5d034671cc8de2c0f8) `2026-09-09`
+- [企业级 MultiAgent 落地：Plan 模式与主子 Agent 协作｜得物技术](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247546765&amp;idx=1&amp;sn=2089591cd6fb7dafeb246e40c4d18e63) `2026-09-09`
+- [生产级Agent又开课了！九月最丰富组队学习来了🥳（多达11个课程）](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727089&amp;idx=1&amp;sn=d7a79b87976df6b733e403ff3c2c313b) `2026-09-09`
