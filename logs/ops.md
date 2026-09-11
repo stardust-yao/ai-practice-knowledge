@@ -825,3 +825,22 @@
 - [Apache Paimon C++ ：从阿里数据湖走向开源社区](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511420&amp;idx=1&amp;sn=c2f443c3f1b8fd5d034671cc8de2c0f8) `2026-09-09`
 - [企业级 MultiAgent 落地：Plan 模式与主子 Agent 协作｜得物技术](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247546765&amp;idx=1&amp;sn=2089591cd6fb7dafeb246e40c4d18e63) `2026-09-09`
 - [生产级Agent又开课了！九月最丰富组队学习来了🥳（多达11个课程）](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727089&amp;idx=1&amp;sn=d7a79b87976df6b733e403ff3c2c313b) `2026-09-09`
+
+## 2026-09-11 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 10 篇
+- **Feed 总量**: 52 篇
+- **累计已抓**: 411 篇
+
+**本次新增：**
+- [《Agent 评测白皮书》系列01：Agent 评测全览](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783390&amp;idx=1&amp;sn=0cddf09e2bb8edf61ba5e712ca63ddfd) `2026-09-10`
+- [对话更流畅，控车更懂你——超级小爱背后技术解读](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520323&amp;idx=1&amp;sn=8296fe6b213d9ac8d00a899bbbd6ca86) `2026-09-10`
+- [Agent如何自己变强？从Skill到模型权重的进化全景图](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562373&amp;idx=1&amp;sn=b2afbd481dd9cbddc533641633f4bbe3) `2026-09-10`
+- [大数据技术专家是如何练成的：大数据助手 Agent Team 实践](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&amp;mid=2247499602&amp;idx=1&amp;sn=c31ea947ab9b01d6b2a0b7ba8196de79) `2026-09-10`
+- [90后发Nature，高中生进ICML，我在这场蚂蚁InTech论坛看见被AI折叠的科研](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651056535&amp;idx=1&amp;sn=47e5a4b05b756ef8fee5ffaf95439c00) `2026-09-11`
+- [openJiuwen首发双维度RSI框架，AI自修改，落地办公智能体，算力亲和助力又快又省](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651056535&amp;idx=2&amp;sn=7a573bbe843cc0de6ae15d11528d7417) `2026-09-11`
+- [实测央企出品数字员工，它的强大远超预期！](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651056207&amp;idx=1&amp;sn=2bca999e11a19f3961b71354c4fa2e02) `2026-09-10`
+- [RoboPapers专访光轮智能谢晨：具身Scaling Law的两座金字塔](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651055972&amp;idx=1&amp;sn=ebceced211d1f072be55cbd05c0c397e) `2026-09-09`
+- [快去提问！沐神空降小红书，在线答疑](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651055972&amp;idx=2&amp;sn=79a359d1bffb0e42556f185751aedd38) `2026-09-09`
+- [Datawhale进入全球前20名！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727127&amp;idx=1&amp;sn=4574e7349a667be856cde590e0f3f73a) `2026-09-10`
