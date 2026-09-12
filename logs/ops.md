@@ -844,3 +844,17 @@
 - [RoboPapers专访光轮智能谢晨：具身Scaling Law的两座金字塔](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651055972&amp;idx=1&amp;sn=ebceced211d1f072be55cbd05c0c397e) `2026-09-09`
 - [快去提问！沐神空降小红书，在线答疑](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651055972&amp;idx=2&amp;sn=79a359d1bffb0e42556f185751aedd38) `2026-09-09`
 - [Datawhale进入全球前20名！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727127&amp;idx=1&amp;sn=4574e7349a667be856cde590e0f3f73a) `2026-09-10`
+
+## 2026-09-12 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 5 篇
+- **Feed 总量**: 48 篇
+- **累计已抓**: 416 篇
+
+**本次新增：**
+- [阿里云Token Plan个人版升级：加量不加价，新增12类Agent Harness工具](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562377&amp;idx=1&amp;sn=b255ee28969ca20c56c41eb262a0e976) `2026-09-11`
+- [2026得物中秋礼盒，把&#34;露营&#34;打包发你了～](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247546874&amp;idx=1&amp;sn=f2d798bab7afc66d1265086b40c5bef0) `2026-09-11`
+- [淘天自研编码器斩获MSU 6项冠军，视频编码技术支撑内容体验升级](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651056768&amp;idx=1&amp;sn=12328292ebfa03f4d8373e374df5bf9b) `2026-09-12`
+- [从认路到「跌倒再战」，机器人也在重走大模型的Scaling之路？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651056768&amp;idx=2&amp;sn=4654e82cec450b3529f97ef07f1aa2a4) `2026-09-12`
+- [从「Disable」到「Able」，爱博智能在康复里寻找答案](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651056768&amp;idx=3&amp;sn=9e2722e35a74a5363db0f41f212241ab) `2026-09-12`
