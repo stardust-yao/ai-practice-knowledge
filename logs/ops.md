@@ -858,3 +858,15 @@
 - [淘天自研编码器斩获MSU 6项冠军，视频编码技术支撑内容体验升级](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651056768&amp;idx=1&amp;sn=12328292ebfa03f4d8373e374df5bf9b) `2026-09-12`
 - [从认路到「跌倒再战」，机器人也在重走大模型的Scaling之路？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651056768&amp;idx=2&amp;sn=4654e82cec450b3529f97ef07f1aa2a4) `2026-09-12`
 - [从「Disable」到「Able」，爱博智能在康复里寻找答案](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651056768&amp;idx=3&amp;sn=9e2722e35a74a5363db0f41f212241ab) `2026-09-12`
+
+## 2026-09-13 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 3 篇
+- **Feed 总量**: 45 篇
+- **累计已抓**: 419 篇
+
+**本次新增：**
+- [左手推理成本暴降96%，右手性能反超大模型！当小模型学会了何时求助](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651056885&amp;idx=1&amp;sn=41944a973ec96b3a392598b4e3c349cf) `2026-09-13`
+- [算法工程师要失业了？阿里和浙大联手提出Astar，用AI指导AI系统进化](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651056885&amp;idx=2&amp;sn=44f99018c4f0e3bed9770da929cc3aed) `2026-09-13`
+- [OpenAI有多少工作交给AI？内部RSI进展公开！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727177&amp;idx=1&amp;sn=81df81c907f5e2629db9573cfb2e6b5a) `2026-09-12`
