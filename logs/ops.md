@@ -870,3 +870,15 @@
 - [左手推理成本暴降96%，右手性能反超大模型！当小模型学会了何时求助](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651056885&amp;idx=1&amp;sn=41944a973ec96b3a392598b4e3c349cf) `2026-09-13`
 - [算法工程师要失业了？阿里和浙大联手提出Astar，用AI指导AI系统进化](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651056885&amp;idx=2&amp;sn=44f99018c4f0e3bed9770da929cc3aed) `2026-09-13`
 - [OpenAI有多少工作交给AI？内部RSI进展公开！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727177&amp;idx=1&amp;sn=81df81c907f5e2629db9573cfb2e6b5a) `2026-09-12`
+
+## 2026-09-14 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 3 篇
+- **Feed 总量**: 45 篇
+- **累计已抓**: 422 篇
+
+**本次新增：**
+- [DeepSeek-V4.1-Flash上线千问AI平台，API与Token Plan同步开放](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562398&amp;idx=1&amp;sn=34f5c3b7d6d20e44e6bd31a12738bcea) `2026-09-14`
+- [让企业拥有自己的模型！PyTRIO定义TaaS新范式：大模型训练进入API时代](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651056978&amp;idx=1&amp;sn=3f375ee86e8f98ec325bdb7c84fdf2b9) `2026-09-14`
+- [告别「只会相似度检索」：腾讯最新T-Mem让AI学会「联想回忆」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651056978&amp;idx=2&amp;sn=901b4973ad6d9c8cae04509443643876) `2026-09-14`
