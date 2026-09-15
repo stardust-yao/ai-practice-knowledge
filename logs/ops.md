@@ -882,3 +882,14 @@
 - [DeepSeek-V4.1-Flash上线千问AI平台，API与Token Plan同步开放](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562398&amp;idx=1&amp;sn=34f5c3b7d6d20e44e6bd31a12738bcea) `2026-09-14`
 - [让企业拥有自己的模型！PyTRIO定义TaaS新范式：大模型训练进入API时代](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651056978&amp;idx=1&amp;sn=3f375ee86e8f98ec325bdb7c84fdf2b9) `2026-09-14`
 - [告别「只会相似度检索」：腾讯最新T-Mem让AI学会「联想回忆」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651056978&amp;idx=2&amp;sn=901b4973ad6d9c8cae04509443643876) `2026-09-14`
+
+## 2026-09-15 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 2 篇
+- **Feed 总量**: 44 篇
+- **累计已抓**: 424 篇
+
+**本次新增：**
+- [别再只卷Prompt 了，真正拉开Agent差距的是Context Engineering](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804088&amp;idx=1&amp;sn=bbe53279f2c8fe79fea751faca5a264f) `2026-09-14`
+- [云栖大会，千问AI平台与你一起开造！](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562407&amp;idx=1&amp;sn=4fc562a268ac8103d4e99a3e3025bc52) `2026-09-15`
