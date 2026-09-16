@@ -893,3 +893,17 @@
 **本次新增：**
 - [别再只卷Prompt 了，真正拉开Agent差距的是Context Engineering](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804088&amp;idx=1&amp;sn=bbe53279f2c8fe79fea751faca5a264f) `2026-09-14`
 - [云栖大会，千问AI平台与你一起开造！](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562407&amp;idx=1&amp;sn=4fc562a268ac8103d4e99a3e3025bc52) `2026-09-15`
+
+## 2026-09-16 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 5 篇
+- **Feed 总量**: 44 篇
+- **累计已抓**: 429 篇
+
+**本次新增：**
+- [飞连，让豆包工作更安全办公](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522397&amp;idx=1&amp;sn=c787c3b15a18e9d64fcf1280f127b958) `2026-09-15`
+- [在多项高难度Benchmark超越GPT-6 Astra，RSIAgent让开源模型自主探索新环境](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651057178&amp;idx=1&amp;sn=3ee4d896a3d3ed5a39c7773752d61d30) `2026-09-15`
+- [全奖读AI！人工智能排名前十的MBZUAI本硕博招生启动](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651057178&amp;idx=2&amp;sn=e69916867dd74b9a1c0609176b8d4107) `2026-09-15`
+- [重磅！FDE服务海外大客户的一线实录](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727342&amp;idx=1&amp;sn=fea071428f5302e8711e8dee23f9fd3a) `2026-09-15`
+- [9月20 杭州见！国内首个人工智能开源生态运营班来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727265&amp;idx=1&amp;sn=47a6b7ae57da2c9e2f593082d1b7def6) `2026-09-14`
