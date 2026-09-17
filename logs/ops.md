@@ -907,3 +907,21 @@
 - [全奖读AI！人工智能排名前十的MBZUAI本硕博招生启动](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651057178&amp;idx=2&amp;sn=e69916867dd74b9a1c0609176b8d4107) `2026-09-15`
 - [重磅！FDE服务海外大客户的一线实录](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727342&amp;idx=1&amp;sn=fea071428f5302e8711e8dee23f9fd3a) `2026-09-15`
 - [9月20 杭州见！国内首个人工智能开源生态运营班来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727265&amp;idx=1&amp;sn=47a6b7ae57da2c9e2f593082d1b7def6) `2026-09-14`
+
+## 2026-09-17 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 9 篇
+- **Feed 总量**: 48 篇
+- **累计已抓**: 438 篇
+
+**本次新增：**
+- [看完我的AGENTS.md，你将看到我和不说人话且over-engineering的模型搏斗的这一生](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804100&amp;idx=1&amp;sn=bce397be1020053865a4ec471848e589) `2026-09-16`
+- [从“做过”到“会做”：用 OpenViking 经验记忆构建 Agent 的进化闭环](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522604&amp;idx=1&amp;sn=6ea201d826647e12047227cd3d386ba4) `2026-09-16`
+- [Agent 写稿突然“断片”？OpenViking 治好了我的内容创作焦虑](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522604&amp;idx=2&amp;sn=38a6922a7fb8711c9851a44e15582b31) `2026-09-16`
+- [垂类业务如何落地生产级 Agent](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511474&amp;idx=1&amp;sn=6f3f3e26c57b0796571649939b295123) `2026-09-16`
+- [指标平台：从语义底座到智能消费的实践路径｜得物技术](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247546990&amp;idx=1&amp;sn=61ae0282f44bc57a3cdb343399019cf6) `2026-09-16`
+- [本地该怎么做RSI？我们与StartLux CTO聊了聊](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651057510&amp;idx=1&amp;sn=fe3bfc52fa67e6e43f869228e202f996) `2026-09-16`
+- [复杂的Harness Evolution，甚至不如多跑几遍](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651057510&amp;idx=2&amp;sn=8e1bea2b097f6ec4c012b75cf0ccfacb) `2026-09-16`
+- [Datawhale招人OPEN DAY来了，联合浙大系、云谷系企业！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727414&amp;idx=1&amp;sn=2aad91266dca35eb32b0b6d1354263d7) `2026-09-16`
+- [李沐: 首次Ask me anything来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727388&amp;idx=1&amp;sn=2a0dd6075d1579934e24aaa82bdb0181) `2026-09-16`
