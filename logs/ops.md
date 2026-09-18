@@ -925,3 +925,16 @@
 - [复杂的Harness Evolution，甚至不如多跑几遍](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651057510&amp;idx=2&amp;sn=8e1bea2b097f6ec4c012b75cf0ccfacb) `2026-09-16`
 - [Datawhale招人OPEN DAY来了，联合浙大系、云谷系企业！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727414&amp;idx=1&amp;sn=2aad91266dca35eb32b0b6d1354263d7) `2026-09-16`
 - [李沐: 首次Ask me anything来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727388&amp;idx=1&amp;sn=2a0dd6075d1579934e24aaa82bdb0181) `2026-09-16`
+
+## 2026-09-18 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 4 篇
+- **Feed 总量**: 41 篇
+- **累计已抓**: 442 篇
+
+**本次新增：**
+- [WorkBuddy资料库：从三大场景开始，让多人多Agent轻松协作](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804152&amp;idx=1&amp;sn=1308322cdbdff9930ff39d2108099ece) `2026-09-17`
+- [日志服务 TLS AgentLoop：让多模态调用清晰可见](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522649&amp;idx=1&amp;sn=bf5be5b2b912342f3263ee49c0c5728c) `2026-09-17`
+- [把「达标判定」从大模型手里收回来：Graph Engineering实践](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511523&amp;idx=1&amp;sn=a78781dc2ab31142b71033d962b257a9) `2026-09-17`
+- [Agentic native的具身端侧推理引擎，最新实测来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727575&amp;idx=1&amp;sn=1fa34443081cd2fba45b0707e49a334a) `2026-09-17`
