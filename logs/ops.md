@@ -938,3 +938,20 @@
 - [日志服务 TLS AgentLoop：让多模态调用清晰可见](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522649&amp;idx=1&amp;sn=bf5be5b2b912342f3263ee49c0c5728c) `2026-09-17`
 - [把「达标判定」从大模型手里收回来：Graph Engineering实践](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511523&amp;idx=1&amp;sn=a78781dc2ab31142b71033d962b257a9) `2026-09-17`
 - [Agentic native的具身端侧推理引擎，最新实测来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727575&amp;idx=1&amp;sn=1fa34443081cd2fba45b0707e49a334a) `2026-09-17`
+
+## 2026-09-19 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 8 篇
+- **Feed 总量**: 44 篇
+- **累计已抓**: 450 篇
+
+**本次新增：**
+- [25 天，791 个作品，美团人如何 Make AI Real](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783408&amp;idx=2&amp;sn=bedd074c958cc587845873bb6d3d16c8) `2026-09-17`
+- [云栖大会 Skill 上线：带着你的Agent来参会](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562423&amp;idx=1&amp;sn=fd4d5fc3fa8fd7e370403839473f2bcf) `2026-09-19`
+- [刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651058476&amp;idx=1&amp;sn=866ebd2b67118cdf580eba94a824a12a) `2026-09-18`
+- [Claude，黑进了OpenAI](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651058476&amp;idx=2&amp;sn=5420ed184501bc1d9f450971a41792c3) `2026-09-18`
+- [火山引擎×AMD助力砹脉营销（A.M.A）以Seedance重塑汽车营销新范式](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651058476&amp;idx=3&amp;sn=6e51d9c00b95e967a0bcda3f9100cdeb) `2026-09-18`
+- [OpenAI把AI推向物理世界，这家公司已造好引擎，下一站1000万小时人类经验](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651057816&amp;idx=1&amp;sn=37c2b36c2f98b06bde72e1cf6299537c) `2026-09-17`
+- [2400万人围观，前OpenAI研究员做了个「闭嘴」模型](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651057816&amp;idx=2&amp;sn=e499ee2bea5824b0d433e5978ebe0b36) `2026-09-17`
+- [突发！Gemini 4 Pro 提前泄露了...](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727587&amp;idx=1&amp;sn=e5ce0b70f990277cb721a0e299641c86) `2026-09-18`
