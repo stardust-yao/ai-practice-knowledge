@@ -955,3 +955,15 @@
 - [OpenAI把AI推向物理世界，这家公司已造好引擎，下一站1000万小时人类经验](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651057816&amp;idx=1&amp;sn=37c2b36c2f98b06bde72e1cf6299537c) `2026-09-17`
 - [2400万人围观，前OpenAI研究员做了个「闭嘴」模型](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651057816&amp;idx=2&amp;sn=e499ee2bea5824b0d433e5978ebe0b36) `2026-09-17`
 - [突发！Gemini 4 Pro 提前泄露了...](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727587&amp;idx=1&amp;sn=e5ce0b70f990277cb721a0e299641c86) `2026-09-18`
+
+## 2026-09-20 18:00:03 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 3 篇
+- **Feed 总量**: 40 篇
+- **累计已抓**: 453 篇
+
+**本次新增：**
+- [机器人领域的OpenAI，竟然是OpenAI自己？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651058614&amp;idx=2&amp;sn=933b7f30fb9bd39899edb2eb0c4b493a) `2026-09-20`
+- [Astra两周抢走13%份额，Anthropic或提前发新模型](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651058555&amp;idx=2&amp;sn=c26cc08b9e7a470e7ccb3ebb828b67ce) `2026-09-19`
+- [这是一篇把&#34;RSI&#34;讲明白的科普级综述！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727603&amp;idx=1&amp;sn=13ba3492f438873686baa66eddb989f7) `2026-09-19`
