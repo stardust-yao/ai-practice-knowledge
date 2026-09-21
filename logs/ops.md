@@ -967,3 +967,14 @@
 - [机器人领域的OpenAI，竟然是OpenAI自己？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651058614&amp;idx=2&amp;sn=933b7f30fb9bd39899edb2eb0c4b493a) `2026-09-20`
 - [Astra两周抢走13%份额，Anthropic或提前发新模型](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651058555&amp;idx=2&amp;sn=c26cc08b9e7a470e7ccb3ebb828b67ce) `2026-09-19`
 - [这是一篇把&#34;RSI&#34;讲明白的科普级综述！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727603&amp;idx=1&amp;sn=13ba3492f438873686baa66eddb989f7) `2026-09-19`
+
+## 2026-09-21 18:00:03 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 2 篇
+- **Feed 总量**: 39 篇
+- **累计已抓**: 455 篇
+
+**本次新增：**
+- [这次，Token要直接发给学生，每人30万元](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651058785&amp;idx=1&amp;sn=482f99f84654f03f318b3241eb0c1f7d) `2026-09-21`
+- [清华初创&amp;UIUC学者用7B模型在预测市场上自我蒸馏，跑赢GPT-5.6和Opus 5](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651058785&amp;idx=2&amp;sn=dd0de5cc2b7eab979a707886efaf53c6) `2026-09-21`
