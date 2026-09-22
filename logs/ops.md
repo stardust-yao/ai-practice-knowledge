@@ -978,3 +978,20 @@
 **本次新增：**
 - [这次，Token要直接发给学生，每人30万元](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651058785&amp;idx=1&amp;sn=482f99f84654f03f318b3241eb0c1f7d) `2026-09-21`
 - [清华初创&amp;UIUC学者用7B模型在预测市场上自我蒸馏，跑赢GPT-5.6和Opus 5](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651058785&amp;idx=2&amp;sn=dd0de5cc2b7eab979a707886efaf53c6) `2026-09-21`
+
+## 2026-09-22 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 8 篇
+- **Feed 总量**: 45 篇
+- **累计已抓**: 463 篇
+
+**本次新增：**
+- [聊聊最近爆火的Jev 模型，到底是个啥？](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804208&amp;idx=1&amp;sn=42392abb524c9a6d137042a4adbc903b) `2026-09-21`
+- [从“看见文字”到“读懂画面”：AI MediaKit 如何实现视频字幕无痕擦除](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522686&amp;idx=1&amp;sn=d051710a5d9f2c1e062ee6bf953be330) `2026-09-21`
+- [倒计时 2 天！阿里巴巴集团 AI Native 研发实践论坛诚邀开发者共话未来](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511534&amp;idx=1&amp;sn=cae842ca326feb5109605684838628c3) `2026-09-21`
+- [从开源出发，让 AI 走进日常生活：小米 AI 硬创团队的四个探索](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520354&amp;idx=1&amp;sn=a08f02776f5a16d0d25476e987d30141) `2026-09-21`
+- [2026 云栖大会技术主论坛·Maas &amp; Agent 等你来看！](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562427&amp;idx=1&amp;sn=87f2896f3ebaa633e48dc8d595cb2ad4) `2026-09-21`
+- [用GPT-6 Astra就能直接控制机器人？可具身真机没那么简单](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651059152&amp;idx=1&amp;sn=81dd2274b1d881df85d42dd3c710d1d2) `2026-09-22`
+- [Datawhale联合启元机器人首发白皮书](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727651&amp;idx=1&amp;sn=62986d600d6c21af6e24468ffaa740d2) `2026-09-20`
+- [整理了最新Jev模型的全网22个爆火玩法！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727650&amp;idx=1&amp;sn=99dcbc947d0872b45c78e70423d1bd14) `2026-09-20`
