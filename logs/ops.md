@@ -995,3 +995,22 @@
 - [用GPT-6 Astra就能直接控制机器人？可具身真机没那么简单](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651059152&amp;idx=1&amp;sn=81dd2274b1d881df85d42dd3c710d1d2) `2026-09-22`
 - [Datawhale联合启元机器人首发白皮书](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727651&amp;idx=1&amp;sn=62986d600d6c21af6e24468ffaa740d2) `2026-09-20`
 - [整理了最新Jev模型的全网22个爆火玩法！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727650&amp;idx=1&amp;sn=99dcbc947d0872b45c78e70423d1bd14) `2026-09-20`
+
+## 2026-09-23 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 10 篇
+- **Feed 总量**: 47 篇
+- **累计已抓**: 473 篇
+
+**本次新增：**
+- [腾讯15年资深后台工程师，转战大模型推理的抉择](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804238&amp;idx=1&amp;sn=5071d1c07d4c99fac83cbfe0a3860344) `2026-09-22`
+- [MTFM：美团统一推荐基座大模型在外卖多业务场景的落地实践 | 送中秋礼盒](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783470&amp;idx=1&amp;sn=da5e4ae285f534a2687fce77543806b0) `2026-09-22`
+- [Agent 已经进入工作流，文件还要靠人传来传去？](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522794&amp;idx=1&amp;sn=f78bb16a0448933da06fcc4d353de927) `2026-09-22`
+- [一图看懂 ADrive 跨产品协作实践：文件通了，Agent 就通了](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522794&amp;idx=2&amp;sn=50a39d3e2016757e656d911c1b6fffff) `2026-09-22`
+- [当 AI 开始真正“做事”，基础设施准备好了吗？](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511554&amp;idx=1&amp;sn=709aafe1436bfd58a283b058a8949248) `2026-09-22`
+- [云栖首发｜Logics-Parsing-V3 重磅升级：贯通全文，长文无界](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511554&amp;idx=2&amp;sn=bb63ca216e344e7ab783a06ef3dacd39) `2026-09-22`
+- [第七届小米黑客马拉松收官，AI 加速走进真实生活](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520378&amp;idx=1&amp;sn=755a50eccc2f4438c49e84d52a9a7126) `2026-09-22`
+- [Xiaomi MiMo-V2.6：扩展强化学习规模，迈向自我提升](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520378&amp;idx=2&amp;sn=a6d824c9c91ef9f0b03b4c9cb953bda4) `2026-09-22`
+- [阿里文征：面向Agent全面升级模型服务、Agent服务、AI应用](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562437&amp;idx=1&amp;sn=a97c04361677ea8b140e891fff08e79e) `2026-09-23`
+- [重磅！从 Agent 开发到 Agent 算法，进阶指南来了](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727736&amp;idx=1&amp;sn=6663328233ced5336917f3f7e05286d2) `2026-09-21`
