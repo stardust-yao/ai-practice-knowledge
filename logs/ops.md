@@ -1014,3 +1014,22 @@
 - [Xiaomi MiMo-V2.6：扩展强化学习规模，迈向自我提升](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520378&amp;idx=2&amp;sn=a6d824c9c91ef9f0b03b4c9cb953bda4) `2026-09-22`
 - [阿里文征：面向Agent全面升级模型服务、Agent服务、AI应用](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562437&amp;idx=1&amp;sn=a97c04361677ea8b140e891fff08e79e) `2026-09-23`
 - [重磅！从 Agent 开发到 Agent 算法，进阶指南来了](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727736&amp;idx=1&amp;sn=6663328233ced5336917f3f7e05286d2) `2026-09-21`
+
+## 2026-09-24 18:00:05 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 10 篇
+- **Feed 总量**: 46 篇
+- **累计已抓**: 483 篇
+
+**本次新增：**
+- [错误码排查从 3～8 小时到分钟级，Agent怎么做到的？](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804239&amp;idx=1&amp;sn=877bddfed68e73a327c4c25e836d8258) `2026-09-23`
+- [TWIST 入选 ACM CCS 2026：面向云上大模型服务的隐私保护新方案](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522837&amp;idx=1&amp;sn=9a517deecee420b33ef098ae4fc00802) `2026-09-23`
+- [OpenViking × LLM-Wiki：让团队文档不再“各说各话”](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522837&amp;idx=2&amp;sn=bad9384fcc463a40aca07d4a442c7121) `2026-09-23`
+- [从听懂指令到理解意图： Sensaro OS 的 48 小时黑客松实践](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520395&amp;idx=1&amp;sn=92c3417802939c717951f7678c96a510) `2026-09-23`
+- [别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247547180&amp;idx=1&amp;sn=1be41ce06da3f1f46d435b7fbbbd04a9) `2026-09-23`
+- [代码生成越来越快，软件交付真正的瓶颈转向了哪里？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651059607&amp;idx=1&amp;sn=e82d0c8ad4f6032a92ecc71508f95fe7) `2026-09-24`
+- [智能终端变成token工厂，这家公司要让AI真正被深度使用](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651059607&amp;idx=2&amp;sn=b6cb536301242f5ac3868e83e420ab9a) `2026-09-24`
+- [4亿副耳机，正在等待一次AI改造](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651059402&amp;idx=1&amp;sn=113b8d8deb7a9692205f6ea9dd648171) `2026-09-23`
+- [从训练数据到科研验证，沐晨科技押注AI时代的新基础设施](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651059402&amp;idx=2&amp;sn=1923e294db29d4255fd2fef6989163be) `2026-09-23`
+- [这是一篇把&#34;Jev模型&#34;讲明白的科普级解读！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727778&amp;idx=1&amp;sn=267b0cc3e539e917970b9fcf13b3e8a4) `2026-09-22`
