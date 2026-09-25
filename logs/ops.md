@@ -1033,3 +1033,17 @@
 - [4亿副耳机，正在等待一次AI改造](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651059402&amp;idx=1&amp;sn=113b8d8deb7a9692205f6ea9dd648171) `2026-09-23`
 - [从训练数据到科研验证，沐晨科技押注AI时代的新基础设施](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651059402&amp;idx=2&amp;sn=1923e294db29d4255fd2fef6989163be) `2026-09-23`
 - [这是一篇把&#34;Jev模型&#34;讲明白的科普级解读！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727778&amp;idx=1&amp;sn=267b0cc3e539e917970b9fcf13b3e8a4) `2026-09-22`
+
+## 2026-09-25 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 5 篇
+- **Feed 总量**: 42 篇
+- **累计已抓**: 488 篇
+
+**本次新增：**
+- [好看的2026中秋红包封面来抢！！](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804240&amp;idx=1&amp;sn=6cf94a9aedf58c1e90ad2b630e00f009) `2026-09-24`
+- [代码生成越来越快，软件交付真正的瓶颈转向了哪里？](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511569&amp;idx=1&amp;sn=ca79c9f4d04fde0b3d550d8cb46c8d90) `2026-09-24`
+- [百万级仿真资产，正在重构机器人训练场：阿里巴巴RoboFlywheel首发](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511569&amp;idx=2&amp;sn=2572283725cf86c25f42f32a134cfb71) `2026-09-24`
+- [HySparse2：Xiaomi MiMo-V3 新架构预览](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520397&amp;idx=1&amp;sn=586bffd5f97e396711c400816f7d1262) `2026-09-24`
+- [重磅！开源版Jev本地部署教程来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727804&amp;idx=1&amp;sn=bbdd79d8cd5eaae229764bf87a1fb882) `2026-09-23`
