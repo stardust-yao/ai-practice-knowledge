@@ -1047,3 +1047,16 @@
 - [百万级仿真资产，正在重构机器人训练场：阿里巴巴RoboFlywheel首发](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511569&amp;idx=2&amp;sn=2572283725cf86c25f42f32a134cfb71) `2026-09-24`
 - [HySparse2：Xiaomi MiMo-V3 新架构预览](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520397&amp;idx=1&amp;sn=586bffd5f97e396711c400816f7d1262) `2026-09-24`
 - [重磅！开源版Jev本地部署教程来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727804&amp;idx=1&amp;sn=bbdd79d8cd5eaae229764bf87a1fb882) `2026-09-23`
+
+## 2026-09-26 18:00:03 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 4 篇
+- **Feed 总量**: 41 篇
+- **累计已抓**: 492 篇
+
+**本次新增：**
+- [从机器鸭乐高、宜家说明书到《塞尔达》，Opus 5.5正在重新定义vibe coding](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651059729&amp;idx=1&amp;sn=1a034baaa05f079fb9665c6cfaef6f5b) `2026-09-25`
+- [Jev刷屏之后，竟然有人12个月前就提出了概率并行生成？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651059729&amp;idx=2&amp;sn=06e4002d14feae27e3bd282166d7742e) `2026-09-25`
+- [耗时1h！打造属于你自己的Jev，喂饭级教程来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727850&amp;idx=1&amp;sn=4469776714f63c9b2c0e6df77796aa9b) `2026-09-25`
+- [给项目建Agent知识库，一套完整方法来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727813&amp;idx=1&amp;sn=6bba5d8dd716bc92859ceba9fd7b3d3f) `2026-09-24`
