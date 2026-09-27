@@ -1060,3 +1060,14 @@
 - [Jev刷屏之后，竟然有人12个月前就提出了概率并行生成？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651059729&amp;idx=2&amp;sn=06e4002d14feae27e3bd282166d7742e) `2026-09-25`
 - [耗时1h！打造属于你自己的Jev，喂饭级教程来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727850&amp;idx=1&amp;sn=4469776714f63c9b2c0e6df77796aa9b) `2026-09-25`
 - [给项目建Agent知识库，一套完整方法来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727813&amp;idx=1&amp;sn=6bba5d8dd716bc92859ceba9fd7b3d3f) `2026-09-24`
+
+## 2026-09-27 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 2 篇
+- **Feed 总量**: 39 篇
+- **累计已抓**: 494 篇
+
+**本次新增：**
+- [离谱！OpenAI智能体攻击Hugging Face时，竟想叫DeepSeek、Kimi和Qwen来帮忙](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651059787&amp;idx=1&amp;sn=652433a570f3cd166060c61a07ed7128) `2026-09-26`
+- [AI代写论文露馅？顶刊主编一问，作者啥都答不上来](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651059787&amp;idx=2&amp;sn=c92c11eacdfd5e86243db8af844bf862) `2026-09-26`
