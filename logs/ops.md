@@ -1071,3 +1071,14 @@
 **本次新增：**
 - [离谱！OpenAI智能体攻击Hugging Face时，竟想叫DeepSeek、Kimi和Qwen来帮忙](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651059787&amp;idx=1&amp;sn=652433a570f3cd166060c61a07ed7128) `2026-09-26`
 - [AI代写论文露馅？顶刊主编一问，作者啥都答不上来](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651059787&amp;idx=2&amp;sn=c92c11eacdfd5e86243db8af844bf862) `2026-09-26`
+
+## 2026-09-28 18:00:03 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 2 篇
+- **Feed 总量**: 40 篇
+- **累计已抓**: 496 篇
+
+**本次新增：**
+- [模型越来越强，企业AI为什么还卡在「最后一公里」？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651059866&amp;idx=1&amp;sn=0667d2dabd6da2203e35582fe4d7c5d9) `2026-09-27`
+- [OpenAI横扫100多道世界难题，他却说：数学才刚开始](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651059866&amp;idx=2&amp;sn=017f51be630551f07bbe8fdf7d818eda) `2026-09-27`
