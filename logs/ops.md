@@ -1082,3 +1082,16 @@
 **本次新增：**
 - [模型越来越强，企业AI为什么还卡在「最后一公里」？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651059866&amp;idx=1&amp;sn=0667d2dabd6da2203e35582fe4d7c5d9) `2026-09-27`
 - [OpenAI横扫100多道世界难题，他却说：数学才刚开始](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651059866&amp;idx=2&amp;sn=017f51be630551f07bbe8fdf7d818eda) `2026-09-27`
+
+## 2026-09-29 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 4 篇
+- **Feed 总量**: 42 篇
+- **累计已抓**: 500 篇
+
+**本次新增：**
+- [从榜单走向真实业务负载：Kernel Agent 刷新 Qwen3.8-Max 核心推理算子性能](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511604&amp;idx=1&amp;sn=a0132c351d49f0508db1e20e3952d4dd) `2026-09-28`
+- [实现高质量数据闭环，RoboFlywheel驱动具身智能自衍进](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511604&amp;idx=2&amp;sn=e86e3982aecd1e77775c6759f38c5a17) `2026-09-28`
+- [LLM For Algorithm Design，华为联合团队斩获SAT 2026大赛AI赛道冠军](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651060125&amp;idx=1&amp;sn=a38e546e1abd8fefef5ec42d4929deca) `2026-09-28`
+- [AI 6小时干过28名研究员！Anthropic公开：自动化对齐神器AAR！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727878&amp;idx=1&amp;sn=98ecaf592e9a9814553d2222b0825821) `2026-09-27`
