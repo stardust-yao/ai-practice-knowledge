@@ -1095,3 +1095,67 @@
 - [实现高质量数据闭环，RoboFlywheel驱动具身智能自衍进](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511604&amp;idx=2&amp;sn=e86e3982aecd1e77775c6759f38c5a17) `2026-09-28`
 - [LLM For Algorithm Design，华为联合团队斩获SAT 2026大赛AI赛道冠军](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651060125&amp;idx=1&amp;sn=a38e546e1abd8fefef5ec42d4929deca) `2026-09-28`
 - [AI 6小时干过28名研究员！Anthropic公开：自动化对齐神器AAR！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727878&amp;idx=1&amp;sn=98ecaf592e9a9814553d2222b0825821) `2026-09-27`
+
+## 2026-09-30 18:00:01 CST — 抓取运行
+
+- **状态**: success_no_new
+- **新文章**: 0 篇
+- **Feed 总量**: 38 篇
+- **累计已抓**: 0 篇
+
+## 2026-10-01 18:00:01 CST — 抓取运行
+
+- **状态**: success_no_new
+- **新文章**: 0 篇
+- **Feed 总量**: 38 篇
+- **累计已抓**: 0 篇
+
+## 2026-10-02 18:00:01 CST — 抓取运行
+
+- **状态**: success_no_new
+- **新文章**: 0 篇
+- **Feed 总量**: 38 篇
+- **累计已抓**: 0 篇
+
+## 2026-10-03 18:00:02 CST — 抓取运行
+
+- **状态**: success_no_new
+- **新文章**: 0 篇
+- **Feed 总量**: 38 篇
+- **累计已抓**: 0 篇
+
+## 2026-10-04 18:00:02 CST — 抓取运行
+
+- **状态**: success_no_new
+- **新文章**: 0 篇
+- **Feed 总量**: 38 篇
+- **累计已抓**: 0 篇
+
+## 2026-10-05 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 20 篇
+- **Feed 总量**: 58 篇
+- **累计已抓**: 520 篇
+
+**本次新增：**
+- [高德本地生活分析 Agent 的 AI Native 实践全景（万字长文回顾）](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511846&amp;idx=1&amp;sn=e281c6ff590a8209e7d6e2719ee4e58a) `2026-09-30`
+- [AI Native 回忆录：稳定性前端 S1 实践复盘](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511817&amp;idx=1&amp;sn=5284ab741c2a5ccd9520c86e9261770d) `2026-09-29`
+- [发一张图，它居然&#34;跃&#34;出屏幕了？一文读懂得物 3D 空间图片技术实践](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247547232&amp;idx=1&amp;sn=b1464a8f98c4c1d6726e4ffbd4b331b6) `2026-09-30`
+- [入职才4个月，宋晓冬团队被曝与Meta分道扬镳，理由：工作风格不合](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651061111&amp;idx=1&amp;sn=c47484991b1f2846b19161a84a5044d7) `2026-10-05`
+- [看懂不等于做对：VA-Bench测出大模型空间智能的执行断层](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651061111&amp;idx=2&amp;sn=cad2d261764e3894f685585728ae08b6) `2026-10-05`
+- [终于有人管管屎山代码了！Tibo预告，Astra 6.1要来了？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651061081&amp;idx=1&amp;sn=85bbbe66a12a0ff58c3188c154546137) `2026-10-04`
+- [Agent Harness到底怎么选？南洋理工大学安波团队最新研究给出答案](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651061081&amp;idx=2&amp;sn=cb11670b3a6aae956f8e44f4cdfa08e9) `2026-10-04`
+- [Jev被请下王座，StartLux中国开源决策模型冲上第一](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651060998&amp;idx=1&amp;sn=5e2496eb644e86fdf2d880a258074514) `2026-10-03`
+- [万分之一——大模型后训练中的极端稀疏监督](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651060998&amp;idx=2&amp;sn=6e1b1eee268b769acca49b04819c6fd3) `2026-10-03`
+- [比李飞飞World Labs早两年押注原生4D，影身智能这次是真走在前面了？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651060898&amp;idx=1&amp;sn=dcd5a6cee64e86b4b40b03c9b9d3f675) `2026-10-02`
+- [LegoFlow：让智能体自主跑完代码数据构建+训练测评全流程](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651060898&amp;idx=2&amp;sn=7c342e5f7de860d0e928dab50043d6b5) `2026-10-02`
+- [OpenAI们被嫌死贵，美国大厂转向开源模型，中国成最大赢家](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651060871&amp;idx=1&amp;sn=97c7644875a4ba12ac962fc49172e0cb) `2026-10-01`
+- [首发！openJiuwen WorkSwarm全双工多模态 ，像聊天一样与Agent交互，昇腾算力原生亲和](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651060871&amp;idx=2&amp;sn=f8bdc8bd6f0ed7280678d85a54beb567) `2026-10-01`
+- [提速10.7倍！这个端侧推理引擎一开源，机器人本体跑大模型终于不卡了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651060477&amp;idx=1&amp;sn=0159b4d84b80436e4be1be8f3e139155) `2026-09-29`
+- [刚刚，Muse迎来了一次大更新！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728071&amp;idx=1&amp;sn=b0cd757a574c246ee57b405788b06e12) `2026-10-03`
+- [Datawhale近期动态：五件大事圆满收官！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728033&amp;idx=1&amp;sn=f5182069fef1b12f1594aaee0a1d5a9c) `2026-10-02`
+- [突发！特朗普签署行政令：美国政府全面禁用“AI”！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727993&amp;idx=1&amp;sn=86b2de41c3b2261e0785f902e7146400) `2026-10-01`
+- [李飞飞加入AMD，出任首席科学家！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727975&amp;idx=1&amp;sn=08172bce7192cc5c53639d996126b8a6) `2026-09-30`
+- [一封来自浪潮信息的感谢信❗️](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727917&amp;idx=1&amp;sn=fc1de03227550f079ae4ad4215707058) `2026-09-29`
+- [把一群Agent丢在游戏里组队，会发生什么？](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727907&amp;idx=1&amp;sn=1da3760989b393179f1e96457d2c1e66) `2026-09-28`
