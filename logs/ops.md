@@ -1159,3 +1159,15 @@
 - [李飞飞加入AMD，出任首席科学家！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727975&amp;idx=1&amp;sn=08172bce7192cc5c53639d996126b8a6) `2026-09-30`
 - [一封来自浪潮信息的感谢信❗️](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727917&amp;idx=1&amp;sn=fc1de03227550f079ae4ad4215707058) `2026-09-29`
 - [把一群Agent丢在游戏里组队，会发生什么？](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247727907&amp;idx=1&amp;sn=1da3760989b393179f1e96457d2c1e66) `2026-09-28`
+
+## 2026-10-06 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 3 篇
+- **Feed 总量**: 41 篇
+- **累计已抓**: 523 篇
+
+**本次新增：**
+- [一家影视公司为什么能做出全球第二的视频模型？答案藏在「生产系统」里](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651061195&amp;idx=1&amp;sn=fd895d3e2b61a55684270981b166bf2b) `2026-10-06`
+- [Token账单扛不住了，Meta、微软开始猛砍Claude使用](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651061195&amp;idx=2&amp;sn=f2860f3e1727c676240e35c732f0706e) `2026-10-06`
+- [刚刚，今年首个诺贝尔奖揭晓！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728091&amp;idx=1&amp;sn=0a777f8f724a6646261aa780e5042e2a) `2026-10-05`
