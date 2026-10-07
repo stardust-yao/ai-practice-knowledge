@@ -1171,3 +1171,14 @@
 - [一家影视公司为什么能做出全球第二的视频模型？答案藏在「生产系统」里](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651061195&amp;idx=1&amp;sn=fd895d3e2b61a55684270981b166bf2b) `2026-10-06`
 - [Token账单扛不住了，Meta、微软开始猛砍Claude使用](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651061195&amp;idx=2&amp;sn=f2860f3e1727c676240e35c732f0706e) `2026-10-06`
 - [刚刚，今年首个诺贝尔奖揭晓！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728091&amp;idx=1&amp;sn=0a777f8f724a6646261aa780e5042e2a) `2026-10-05`
+
+## 2026-10-07 18:00:11 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 2 篇
+- **Feed 总量**: 40 篇
+- **累计已抓**: 525 篇
+
+**本次新增：**
+- [突发！OpenAI一次放出722篇数学成果，准黎曼猜想、4D挂谷都在列](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651061320&amp;idx=1&amp;sn=9ccf3204921b2620923ef26380fb3bb6) `2026-10-07`
+- [量化后画面闪烁？时序稳定的视频世界模型2-bit KV Cache压缩方案诞生](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651061320&amp;idx=2&amp;sn=da665a8e02881b7e48eea58bf8431ec1) `2026-10-07`
