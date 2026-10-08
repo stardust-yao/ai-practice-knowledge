@@ -1182,3 +1182,13 @@
 **本次新增：**
 - [突发！OpenAI一次放出722篇数学成果，准黎曼猜想、4D挂谷都在列](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651061320&amp;idx=1&amp;sn=9ccf3204921b2620923ef26380fb3bb6) `2026-10-07`
 - [量化后画面闪烁？时序稳定的视频世界模型2-bit KV Cache压缩方案诞生](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651061320&amp;idx=2&amp;sn=da665a8e02881b7e48eea58bf8431ec1) `2026-10-07`
+
+## 2026-10-08 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 1 篇
+- **Feed 总量**: 39 篇
+- **累计已抓**: 526 篇
+
+**本次新增：**
+- [首次Jev开课了！十月最丰富组队学习来了🥳（多达11个课程）](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728131&amp;idx=1&amp;sn=db9bbaab6b7944350855e61a67bc3dbf) `2026-10-07`
