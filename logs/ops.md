@@ -1192,3 +1192,19 @@
 
 **本次新增：**
 - [首次Jev开课了！十月最丰富组队学习来了🥳（多达11个课程）](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728131&amp;idx=1&amp;sn=db9bbaab6b7944350855e61a67bc3dbf) `2026-10-07`
+
+## 2026-10-09 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 7 篇
+- **Feed 总量**: 42 篇
+- **累计已抓**: 533 篇
+
+**本次新增：**
+- [用Agent Plan解锁AI导演体验：通过CUA搭Blender白模指导武侠视频生成](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522909&amp;idx=1&amp;sn=82ca1c732c0de74e3530284c6c4df3f1) `2026-10-08`
+- [给具身智能换个「因果」内核，Aether AI的愿景终于走进物理世界](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651061909&amp;idx=1&amp;sn=0d5705aa4454485a08091266765fc426) `2026-10-09`
+- [被OpenAI解雇后，三名安全研究员联名公开信曝光内幕](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651061909&amp;idx=2&amp;sn=30027e00d2ab8a751577e8907620402a) `2026-10-09`
+- [视频DeepSeek时刻？Vidu Q4 Preview背后的效率账与世界模型底气](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651061834&amp;idx=1&amp;sn=06f5e347c34942b91a375bfdfb98eb2c) `2026-10-08`
+- [李飞飞团队造了个世界动作模型：换个底座，机器人成功率直接飙升](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651061834&amp;idx=2&amp;sn=6f2ba9bec78ffc3e25e49294ec828bce) `2026-10-08`
+- [这是一篇把&#34;Token&#34;讲明白的科普级综述！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728190&amp;idx=1&amp;sn=605013c07f56c04d7cc51da204299d7c) `2026-10-08`
+- [OpenAI一夜放出700多道数学证明！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728150&amp;idx=1&amp;sn=f1d207d9d68c5fc02d8d03afcb422e9f) `2026-10-08`
