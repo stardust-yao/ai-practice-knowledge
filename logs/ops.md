@@ -1208,3 +1208,17 @@
 - [李飞飞团队造了个世界动作模型：换个底座，机器人成功率直接飙升](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651061834&amp;idx=2&amp;sn=6f2ba9bec78ffc3e25e49294ec828bce) `2026-10-08`
 - [这是一篇把&#34;Token&#34;讲明白的科普级综述！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728190&amp;idx=1&amp;sn=605013c07f56c04d7cc51da204299d7c) `2026-10-08`
 - [OpenAI一夜放出700多道数学证明！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728150&amp;idx=1&amp;sn=f1d207d9d68c5fc02d8d03afcb422e9f) `2026-10-08`
+
+## 2026-10-10 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 5 篇
+- **Feed 总量**: 41 篇
+- **累计已抓**: 538 篇
+
+**本次新增：**
+- [别只盯着AI Coding，真正的变化发生在整个研发流程](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804241&amp;idx=1&amp;sn=9938f93cb8517ac9dafb033f20535936) `2026-10-09`
+- [三篇重磅论文，拆解 OpenViking 核心技术](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523063&amp;idx=1&amp;sn=70910f0ca4b9f5fb519c7d4d94f481f6) `2026-10-09`
+- [Codex 额度用完之后，如何用 OpenViking 接着把活干完](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523063&amp;idx=2&amp;sn=bb1142c4825757cfa1032af451b2b242) `2026-10-09`
+- [EMNLP 2026 Oral｜HOMURA：面向时间受限场景的 LLM 翻译强化学习优化](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504425&amp;idx=1&amp;sn=00e091f6f49d042e070bfb345f4369f6) `2026-10-10`
+- [刚刚，TRAE全面升级！Work、Code合体，一手实测来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728385&amp;idx=1&amp;sn=ea9c7fe615ef46ba80bfe107059bd143) `2026-10-09`
