@@ -1222,3 +1222,19 @@
 - [Codex 额度用完之后，如何用 OpenViking 接着把活干完](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523063&amp;idx=2&amp;sn=bb1142c4825757cfa1032af451b2b242) `2026-10-09`
 - [EMNLP 2026 Oral｜HOMURA：面向时间受限场景的 LLM 翻译强化学习优化](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504425&amp;idx=1&amp;sn=00e091f6f49d042e070bfb345f4369f6) `2026-10-10`
 - [刚刚，TRAE全面升级！Work、Code合体，一手实测来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728385&amp;idx=1&amp;sn=ea9c7fe615ef46ba80bfe107059bd143) `2026-10-09`
+
+## 2026-10-11 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 7 篇
+- **Feed 总量**: 41 篇
+- **累计已抓**: 545 篇
+
+**本次新增：**
+- [从看日志猜问题到基于证据链调试：Agentic AI 如何重塑 OpenBMC 软件诊断](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523100&amp;idx=1&amp;sn=b5ad83d4997a6f503ff106af2d9cae2f) `2026-10-10`
+- [ChatGPT共同创造者Liam Fedus：数学之后，AI该去实验室了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062101&amp;idx=1&amp;sn=4fa34c4604540b68c52a577eec0cead7) `2026-10-11`
+- [从「刷榜」到「做科研」：研究员还有多久被 AI超越？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062101&amp;idx=2&amp;sn=ddd637c88b87e377fe89256311381c12) `2026-10-11`
+- [中科大团队把会「倒推」的世界模型塞进了机器人，成立三个月拿下数千万融资！](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062101&amp;idx=3&amp;sn=450dc47681e0de359cd4675203b3e3ee) `2026-10-11`
+- [从记忆到自进化：Agent 走向 RSI 的关键一步](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062063&amp;idx=1&amp;sn=f91d6b290b4a38685b85a47415870873) `2026-10-10`
+- [田渊栋：与GPT-5合写最后一篇论文后，我意识到自己5年内会失业](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062063&amp;idx=2&amp;sn=d05cd2ef38f56306a4226374f53a7aca) `2026-10-10`
+- [和面壁智能面对面聊AI硬件的机会，来了](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728476&amp;idx=1&amp;sn=d1ce22748fbb0e1b75e06b6b74922411) `2026-10-10`
