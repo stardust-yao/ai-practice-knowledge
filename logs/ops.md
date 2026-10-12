@@ -1238,3 +1238,18 @@
 - [从记忆到自进化：Agent 走向 RSI 的关键一步](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062063&amp;idx=1&amp;sn=f91d6b290b4a38685b85a47415870873) `2026-10-10`
 - [田渊栋：与GPT-5合写最后一篇论文后，我意识到自己5年内会失业](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062063&amp;idx=2&amp;sn=d05cd2ef38f56306a4226374f53a7aca) `2026-10-10`
 - [和面壁智能面对面聊AI硬件的机会，来了](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728476&amp;idx=1&amp;sn=d1ce22748fbb0e1b75e06b6b74922411) `2026-10-10`
+
+## 2026-10-12 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 6 篇
+- **Feed 总量**: 40 篇
+- **累计已抓**: 551 篇
+
+**本次新增：**
+- [Qwen-Image-2.1 Pro、Turbo API 正式上线，让图像生成与编辑走进你的应用](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562479&amp;idx=1&amp;sn=98a5d92db5270a9cabb048cb8a99f0e0) `2026-10-11`
+- [从预测万物到自我进化：PhAI Labs提出RSI-Anything，探索通用RSI新路径](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062250&amp;idx=1&amp;sn=01ec89d0007a47eba2bc2918aab03ecf) `2026-10-12`
+- [OpenClaw大更新！Skills、MCP Apps齐升级，用户却喊累了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062250&amp;idx=2&amp;sn=4b583b388014abfa98ed7da7e2e36570) `2026-10-12`
+- [具身智能开始卷系统了：RoboFoundry让机器人自主进化](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062250&amp;idx=3&amp;sn=0bf24d2253fc8b154cf8a6852eb1c6b8) `2026-10-12`
+- [今年最火00后诞生！Instinct创始人深度专访来了](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728480&amp;idx=1&amp;sn=f4a8355abddfc270117cc7c9b5bf6680) `2026-10-10`
+- [阿里云 AgentCore 产品负责人解读产品全景](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516815&amp;idx=1&amp;sn=09c0ac6a30ee43b7089ef177caf66a41) `2026-10-11`
