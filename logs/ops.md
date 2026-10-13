@@ -1253,3 +1253,18 @@
 - [具身智能开始卷系统了：RoboFoundry让机器人自主进化](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062250&amp;idx=3&amp;sn=0bf24d2253fc8b154cf8a6852eb1c6b8) `2026-10-12`
 - [今年最火00后诞生！Instinct创始人深度专访来了](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728480&amp;idx=1&amp;sn=f4a8355abddfc270117cc7c9b5bf6680) `2026-10-10`
 - [阿里云 AgentCore 产品负责人解读产品全景](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516815&amp;idx=1&amp;sn=09c0ac6a30ee43b7089ef177caf66a41) `2026-10-11`
+
+## 2026-10-13 18:00:05 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 6 篇
+- **Feed 总量**: 39 篇
+- **累计已抓**: 557 篇
+
+**本次新增：**
+- [Agent、MCP、Skill、Cli、Model 一次讲透：老系统接入 AI 的概念地图与三条路径](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804252&amp;idx=1&amp;sn=073e0806e5a950fae374c9e5f7a2a8b6) `2026-10-12`
+- [九章云极问鼎陶哲轩数学挑战赛！让强化学习成为AI4S新基建](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062445&amp;idx=1&amp;sn=608c7ccba2cb0bcd1a34da07084d6cd1) `2026-10-13`
+- [申报倒计时7天！2026云程奖，要给「在校AI本硕博」发奖学金](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062445&amp;idx=2&amp;sn=09d3ae148779c3bd1a544b44f72c02ea) `2026-10-13`
+- [生成的世界也能交互！牛津大学&amp;莫纳什大学&amp;布里斯托大学等团队提出交互式视频世界模型Oneira](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062445&amp;idx=3&amp;sn=c93fe78ae034dea794c3760e35192930) `2026-10-13`
+- [5000个Agent一起工作！拆解企业级Agent项目Octo！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728553&amp;idx=1&amp;sn=8363478f39c0c1b8cb7afc6bff05ddf4) `2026-10-12`
+- [15 个 Agent 组成研发小队：多智能体协作的端到端研发体系](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516829&amp;idx=1&amp;sn=db5630bb630f87021cad88ad635e51c6) `2026-10-12`
