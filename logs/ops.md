@@ -1268,3 +1268,18 @@
 - [生成的世界也能交互！牛津大学&amp;莫纳什大学&amp;布里斯托大学等团队提出交互式视频世界模型Oneira](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062445&amp;idx=3&amp;sn=c93fe78ae034dea794c3760e35192930) `2026-10-13`
 - [5000个Agent一起工作！拆解企业级Agent项目Octo！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728553&amp;idx=1&amp;sn=8363478f39c0c1b8cb7afc6bff05ddf4) `2026-10-12`
 - [15 个 Agent 组成研发小队：多智能体协作的端到端研发体系](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516829&amp;idx=1&amp;sn=db5630bb630f87021cad88ad635e51c6) `2026-10-12`
+
+## 2026-10-14 18:00:06 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 6 篇
+- **Feed 总量**: 39 篇
+- **累计已抓**: 563 篇
+
+**本次新增：**
+- [三万字长文：大语言模型从零入门](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804278&amp;idx=1&amp;sn=9e9c88b84f8188503c9862f9b226839b) `2026-10-13`
+- [深度解析 RSI：当 AI 开始实现自我迭代提升](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511873&amp;idx=1&amp;sn=8f45da7e2e5dc1513a6fb0ebc0490553) `2026-10-13`
+- [今年最全面的AI行业报告来了](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728614&amp;idx=1&amp;sn=a0339840bc3ba25a7e64f462786ce26c) `2026-10-13`
+- [沉浸式开箱NVIDIA RTX Spark！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728606&amp;idx=1&amp;sn=f8fa0007e51cc17ee5d9287fccf5de62) `2026-10-13`
+- [Datawhale 邀你一起「观猹」AI 新世界](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728562&amp;idx=1&amp;sn=10852495b9b391ad7bfe31a281a7303b) `2026-10-13`
+- [深度解析 Jev 模型：如何快速做结构化决策](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516849&amp;idx=1&amp;sn=8b51bd5098c6a4dc95344110d6161094) `2026-10-13`
