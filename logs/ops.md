@@ -1283,3 +1283,23 @@
 - [沉浸式开箱NVIDIA RTX Spark！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728606&amp;idx=1&amp;sn=f8fa0007e51cc17ee5d9287fccf5de62) `2026-10-13`
 - [Datawhale 邀你一起「观猹」AI 新世界](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728562&amp;idx=1&amp;sn=10852495b9b391ad7bfe31a281a7303b) `2026-10-13`
 - [深度解析 Jev 模型：如何快速做结构化决策](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516849&amp;idx=1&amp;sn=8b51bd5098c6a4dc95344110d6161094) `2026-10-13`
+
+## 2026-10-15 18:00:20 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 11 篇
+- **Feed 总量**: 44 篇
+- **累计已抓**: 574 篇
+
+**本次新增：**
+- [豆包手机、AI音乐、3D数字人......这些技术博士在字节都做了什么？](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523147&amp;idx=1&amp;sn=cdd3922ef19efa1a4b502aa3351d6de4) `2026-10-14`
+- [手把手带工程同学从零实现一个完整的 LLM（CS336）——Transformer 篇](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512119&amp;idx=1&amp;sn=a4ac67dac7423d561fae8beb1cb626e4) `2026-10-14`
+- [Xiaomi MiMo-V2.6-Pro 如何提升新材料研发的生产力](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520417&amp;idx=1&amp;sn=779371929df75364116984228d05e42c) `2026-10-14`
+- [动态规则的 Agent 实践：用确定性工程驾驭 LLM 的资产智能验收](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247547373&amp;idx=1&amp;sn=55dad3441454852aa5c3f57d97874d62) `2026-10-14`
+- [独立建制、招10名顶尖安全人才：字节Seed对AGI的目标可能被低估了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062870&amp;idx=1&amp;sn=a16c85f0a054c2e0fffdcb7f6a38b4ee) `2026-10-15`
+- [通用大模型要「降维打击」具身智能？首个AA-Robotics榜单来了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062870&amp;idx=2&amp;sn=bfccde7c324d1dcba2e68b1684ebbff9) `2026-10-15`
+- [EMNLP 2026 | 大模型推理如何再快一步？SpecTr-GBV统一多草稿与块验证，加速推测解码](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062870&amp;idx=3&amp;sn=d54670961b32ab464a6856529d7a8a8a) `2026-10-15`
+- [7个人、5个月！Anthropic造出了Git替代品](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062756&amp;idx=2&amp;sn=d303e463a1408dbefefecd7ebb10fe8f) `2026-10-14`
+- [苹果LensVLM：长上下文压缩成图片，模型边看边「放大」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062756&amp;idx=3&amp;sn=7b77525c43945b4e5a775f0d78cb4cbd) `2026-10-14`
+- [重磅！OpenAI 官方 Prompt 指南升级](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728639&amp;idx=1&amp;sn=c47d1c2735eb23d58c214ad698efd624) `2026-10-14`
+- [HiRoute：Jev 模型智能路由实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516905&amp;idx=1&amp;sn=2db0c8cd6b1385c12bb94bafed243635) `2026-10-14`
