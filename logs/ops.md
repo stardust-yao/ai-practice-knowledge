@@ -1303,3 +1303,22 @@
 - [苹果LensVLM：长上下文压缩成图片，模型边看边「放大」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651062756&amp;idx=3&amp;sn=7b77525c43945b4e5a775f0d78cb4cbd) `2026-10-14`
 - [重磅！OpenAI 官方 Prompt 指南升级](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728639&amp;idx=1&amp;sn=c47d1c2735eb23d58c214ad698efd624) `2026-10-14`
 - [HiRoute：Jev 模型智能路由实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516905&amp;idx=1&amp;sn=2db0c8cd6b1385c12bb94bafed243635) `2026-10-14`
+
+## 2026-10-16 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 10 篇
+- **Feed 总量**: 45 篇
+- **累计已抓**: 584 篇
+
+**本次新增：**
+- [把逆向工程交给 Agent：一文拆解爆火的 REA 技术原理](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804299&amp;idx=1&amp;sn=e1808d10ae74ddad4c3b38a9e77d2c54) `2026-10-15`
+- [SLM 生成式高并发推理引擎：延迟约束下的有效吞吐优化](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783496&amp;idx=1&amp;sn=53d56d7b5e384442b13fbba8f7e57ae2) `2026-10-15`
+- [基于火山引擎 Managed Agents 搭建你的第一个主动式个人 Agent](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523422&amp;idx=1&amp;sn=8c031df41bdc0037b7451282eb430edc) `2026-10-15`
+- [连接企业知识、业务系统，让 AI 真正能在企业里工作](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523422&amp;idx=2&amp;sn=16ea3585a193fd9a8166f077b50f7c6b) `2026-10-15`
+- [给大模型装上“一双耳朵”：小米开源空间音频理解大模型 MiDashengLM-Spatial](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520446&amp;idx=1&amp;sn=766c9b45d7302f1fa994f36adeda3943) `2026-10-15`
+- [卡加了，吞吐为何没跟上？大模型推理中的等待，有了新解法](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651063125&amp;idx=1&amp;sn=f5030e5f29a40a6c8d742d2485efcb5b) `2026-10-16`
+- [算力、算法、数据之外：这家南大系公司，押注智能增长的第四要素](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651063125&amp;idx=2&amp;sn=4de0bf62f1f1a4e67105ef9d663dced8) `2026-10-16`
+- [Agent推理快10倍是怎么做到的？苹果×CMU：把「生成」改成「做选择题」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651063125&amp;idx=3&amp;sn=ea4caa15e65862454b786586bfcce177) `2026-10-16`
+- [首次全球第三，国内排名第一！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728688&amp;idx=1&amp;sn=29eda4d78f716b3fa60fb59934ed3720) `2026-10-15`
+- [从单点探索到规模化运营：滔搏体育的企业级多智能体实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516926&amp;idx=1&amp;sn=3bc71a4ad1c04abd5db842c322685bb2) `2026-10-15`
