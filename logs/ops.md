@@ -1322,3 +1322,19 @@
 - [Agent推理快10倍是怎么做到的？苹果×CMU：把「生成」改成「做选择题」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651063125&amp;idx=3&amp;sn=ea4caa15e65862454b786586bfcce177) `2026-10-16`
 - [首次全球第三，国内排名第一！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728688&amp;idx=1&amp;sn=29eda4d78f716b3fa60fb59934ed3720) `2026-10-15`
 - [从单点探索到规模化运营：滔搏体育的企业级多智能体实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516926&amp;idx=1&amp;sn=3bc71a4ad1c04abd5db842c322685bb2) `2026-10-15`
+
+## 2026-10-17 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 7 篇
+- **Feed 总量**: 39 篇
+- **累计已抓**: 591 篇
+
+**本次新增：**
+- [3 个月用Harness重构90万行旧项目：实战经验与踩坑总结](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804394&amp;idx=1&amp;sn=e5c46efb358d97b9f327f49175a8da53) `2026-10-16`
+- [清华×阿里 AI Native人才培养计划暨格造社启动日活动举行](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512125&amp;idx=1&amp;sn=a67f42a3bf1bf5443e8558b6bd1846c7) `2026-10-16`
+- [李飞飞看了要点赞：15分钟，一台相机，把真实世界搬进了AI](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651063453&amp;idx=1&amp;sn=6cfe0625d6f43a0a07e6aaa09172f42c) `2026-10-17`
+- [Tibo的Codex翻盘记：接手不到一年就吞掉了ChatGPT](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651063453&amp;idx=2&amp;sn=47364ac1026540b67b675fa686d100a0) `2026-10-17`
+- [给多模态大模型选「眼睛」，两个简单改进让评测相关性接近翻倍](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651063453&amp;idx=3&amp;sn=6a2fa8d5b0af63412b2da5c4e4c222be) `2026-10-17`
+- [NVIDIA寄来最新RTX Spark，最全实测来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728803&amp;idx=1&amp;sn=f08b5c8ce4bfaf602bc29a1e788e96c2) `2026-10-16`
+- [数字员工 or 数字分身？研发端到端交付提效的实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516946&amp;idx=1&amp;sn=4a0eab5c3529115d674a48caca00d8e9) `2026-10-16`
