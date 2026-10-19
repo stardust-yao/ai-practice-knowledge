@@ -1338,3 +1338,26 @@
 - [给多模态大模型选「眼睛」，两个简单改进让评测相关性接近翻倍](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651063453&amp;idx=3&amp;sn=6a2fa8d5b0af63412b2da5c4e4c222be) `2026-10-17`
 - [NVIDIA寄来最新RTX Spark，最全实测来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728803&amp;idx=1&amp;sn=f08b5c8ce4bfaf602bc29a1e788e96c2) `2026-10-16`
 - [数字员工 or 数字分身？研发端到端交付提效的实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516946&amp;idx=1&amp;sn=4a0eab5c3529115d674a48caca00d8e9) `2026-10-16`
+
+## 2026-10-18 18:00:02 CST — 抓取运行
+
+- **状态**: success_no_new
+- **新文章**: 0 篇
+- **Feed 总量**: 32 篇
+- **累计已抓**: 0 篇
+
+## 2026-10-19 18:00:05 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 7 篇
+- **Feed 总量**: 39 篇
+- **累计已抓**: 598 篇
+
+**本次新增：**
+- [直播中｜Claude垫底，GPT表现不佳，PhAI Labs用DiscoveryRSI探索科研Agent自我进化](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651068408&amp;idx=1&amp;sn=3d762a23bad4d8ea4a1ddd3d23e6ae50) `2026-10-19`
+- [AI朝阳群众出动！陪骗子唠嗑，还套出25万条情报](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651068408&amp;idx=2&amp;sn=5ac06b17454bdcff1d57bf62b22283ad) `2026-10-19`
+- [北大、VGI Labs和加州大学联合提出DynStream：首个大规模无位姿流式动态场景的高斯前馈重建框架](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651068408&amp;idx=3&amp;sn=7a8e71ff883912554fd6ae83b786e218) `2026-10-19`
+- [整活了！爆火「闪身步」实时生成动漫版，VAST世界模型全面开源](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651063676&amp;idx=1&amp;sn=a4814af1afbdc7ce1c9f6b582eb9bfac) `2026-10-18`
+- [编码智能体训练为何要重新审视源代码？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651063676&amp;idx=2&amp;sn=4efaeeeca7b59e150446767a407b46c3) `2026-10-18`
+- [这是一篇把“Personal Agent”讲明白的科普级综述！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728886&amp;idx=1&amp;sn=2d3716f2d1a1d200edc85297ffaa2f3c) `2026-10-18`
+- [突发！DeepSeek刚崩完，新模型就来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728815&amp;idx=1&amp;sn=237cb1c3ee80bb64709c04c621bf1ade) `2026-10-17`
