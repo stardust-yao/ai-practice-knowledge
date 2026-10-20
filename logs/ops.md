@@ -1361,3 +1361,16 @@
 - [编码智能体训练为何要重新审视源代码？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651063676&amp;idx=2&amp;sn=4efaeeeca7b59e150446767a407b46c3) `2026-10-18`
 - [这是一篇把“Personal Agent”讲明白的科普级综述！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728886&amp;idx=1&amp;sn=2d3716f2d1a1d200edc85297ffaa2f3c) `2026-10-18`
 - [突发！DeepSeek刚崩完，新模型就来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728815&amp;idx=1&amp;sn=237cb1c3ee80bb64709c04c621bf1ade) `2026-10-17`
+
+## 2026-10-20 18:00:05 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 4 篇
+- **Feed 总量**: 34 篇
+- **累计已抓**: 602 篇
+
+**本次新增：**
+- [从 BERT、GPT 到 Jev：一文看懂大模型架构的演进与分化](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804707&amp;idx=1&amp;sn=9291fb648a66fa13fa295fc5a2156b84) `2026-10-19`
+- [小米 × CNCC 2026，亮点预告！](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520452&amp;idx=1&amp;sn=b6d2f9b07a0d295262ddd1b3b886a0a5) `2026-10-19`
+- [Index-Translate：支持 150 种语言的多模态翻译模型是如何炼成的？](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504445&amp;idx=1&amp;sn=f75fce7106f8ba37e7ee3918ab5aa787) `2026-10-20`
+- [非常全面的 Personal Agent 产品技术与商业观察](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517027&amp;idx=1&amp;sn=2bce15f3fee178b1e0c37e23b953f26f) `2026-10-19`
