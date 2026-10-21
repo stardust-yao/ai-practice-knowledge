@@ -1374,3 +1374,21 @@
 - [小米 × CNCC 2026，亮点预告！](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520452&amp;idx=1&amp;sn=b6d2f9b07a0d295262ddd1b3b886a0a5) `2026-10-19`
 - [Index-Translate：支持 150 种语言的多模态翻译模型是如何炼成的？](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504445&amp;idx=1&amp;sn=f75fce7106f8ba37e7ee3918ab5aa787) `2026-10-20`
 - [非常全面的 Personal Agent 产品技术与商业观察](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517027&amp;idx=1&amp;sn=2bce15f3fee178b1e0c37e23b953f26f) `2026-10-19`
+
+## 2026-10-21 18:00:05 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 9 篇
+- **Feed 总量**: 39 篇
+- **累计已抓**: 611 篇
+
+**本次新增：**
+- [从0到1打造AI电影！基于WorkRally的创作实践](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804711&amp;idx=1&amp;sn=1add203ae7aaa06235a346eb6ee940e2) `2026-10-20`
+- [720P 直升 8K，解密 2026 抖音美好奇妙夜巨幕超分黑科技](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523441&amp;idx=1&amp;sn=29a4865d1b88ded22f8af828dba0410b) `2026-10-20`
+- [从种草到世界杯，小红书的技术实力藏不住了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651068870&amp;idx=1&amp;sn=adb6f29c1397c2568cb4e10a720156de) `2026-10-21`
+- [刚离开Kimi，17岁的陈广宇去了Jeff Dean新公司](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651068870&amp;idx=2&amp;sn=5d658da5cf827e7450756473485248f9) `2026-10-21`
+- [AI Agent学会自我进化！微软与UCSB新研究：自己读论文、改代码](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651068870&amp;idx=3&amp;sn=c2afa68be033b7f3864579adae468ef1) `2026-10-21`
+- [Jiuwen Symbiosis：物理智能体走进自动化科研实验室](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651068687&amp;idx=2&amp;sn=cf6a5f114ed828710d6d6b0ed6a5bc4c) `2026-10-20`
+- [从记忆到行动，还有多远？WorldMemArena把多模态记忆放进真实交互](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651068687&amp;idx=3&amp;sn=e71b564d56571d1000e85e0fb82bf595) `2026-10-20`
+- [Anthropic最新就业报告公开：AI时代，新人何去何从?](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728992&amp;idx=1&amp;sn=14a11977c9875e7c7aaf7150fdc98452) `2026-10-20`
+- [AgentTeams 加速开源迭代，新版本新增 Dashboard](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517043&amp;idx=1&amp;sn=6ebb734c54b2cefbb5e0a39bac27e546) `2026-10-20`
