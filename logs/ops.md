@@ -1392,3 +1392,16 @@
 - [从记忆到行动，还有多远？WorldMemArena把多模态记忆放进真实交互](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651068687&amp;idx=3&amp;sn=e71b564d56571d1000e85e0fb82bf595) `2026-10-20`
 - [Anthropic最新就业报告公开：AI时代，新人何去何从?](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728992&amp;idx=1&amp;sn=14a11977c9875e7c7aaf7150fdc98452) `2026-10-20`
 - [AgentTeams 加速开源迭代，新版本新增 Dashboard](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517043&amp;idx=1&amp;sn=6ebb734c54b2cefbb5e0a39bac27e546) `2026-10-20`
+
+## 2026-10-22 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 4 篇
+- **Feed 总量**: 33 篇
+- **累计已抓**: 615 篇
+
+**本次新增：**
+- [AI是什么？？？？？？](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804737&amp;idx=1&amp;sn=7b5f01ec5dc56913b0097ebec55e333a) `2026-10-21`
+- [国产算力·昇腾 910C 大模型推理优化（上）：镜像更新与参数调优，提速 40%｜得物技术](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247547397&amp;idx=1&amp;sn=07d58827badbc78b58ea3e9e247e21b6) `2026-10-21`
+- [Personal Agent到底能帮我们做什么？](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728996&amp;idx=1&amp;sn=d6326ca7d831dfaf46a746e10ebe84ac) `2026-10-21`
+- [非算法工程师也能看懂，推理框架的来龙去脉](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517076&amp;idx=1&amp;sn=b007932a5837d3acfc9a4906b5a355b6) `2026-10-21`
