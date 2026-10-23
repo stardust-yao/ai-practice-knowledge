@@ -1405,3 +1405,19 @@
 - [国产算力·昇腾 910C 大模型推理优化（上）：镜像更新与参数调优，提速 40%｜得物技术](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247547397&amp;idx=1&amp;sn=07d58827badbc78b58ea3e9e247e21b6) `2026-10-21`
 - [Personal Agent到底能帮我们做什么？](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247728996&amp;idx=1&amp;sn=d6326ca7d831dfaf46a746e10ebe84ac) `2026-10-21`
 - [非算法工程师也能看懂，推理框架的来龙去脉](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517076&amp;idx=1&amp;sn=b007932a5837d3acfc9a4906b5a355b6) `2026-10-21`
+
+## 2026-10-23 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 7 篇
+- **Feed 总量**: 40 篇
+- **累计已抓**: 622 篇
+
+**本次新增：**
+- [从LOOP到图探索 - 算法模型的AutoResearch自进化系统架构演进之路](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783546&amp;idx=1&amp;sn=23cd32a43243cd53e4e571a73a38a160) `2026-10-22`
+- [高分智能体为何反而更脆弱？阿里 Token Foundry 揭示「协同进化陷阱」，提出 CODA 可靠性评测协议](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512143&amp;idx=1&amp;sn=16294f252816161c648f6d5988c08032) `2026-10-22`
+- [首发实测！鹅厂刚开放的「元宝搜索」，给开发者减负了！（附福利激活码）](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651069516&amp;idx=1&amp;sn=2c2aa87e6fc360179ea20a6253cd2bd4) `2026-10-22`
+- [田渊栋新公司首个模型亮相！AI全程参与、不到4个月从零造](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651069516&amp;idx=2&amp;sn=c8828ee6931d4fb8aa6a093d9c964b0f) `2026-10-22`
+- [NeurIPS 2026 | 从Token到Span：重新思考大语言模型的不确定性估计](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651069516&amp;idx=3&amp;sn=ab8a98a972f88d5f4a2fdf785abb6197) `2026-10-22`
+- [“大家用AI胆子还不够大！”Claude工程负责人亲授顶级用法](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729048&amp;idx=1&amp;sn=543b14ba5e521203d4a604448bcd3d07) `2026-10-22`
+- [从 Jev 范式决策模型接入，到参与 Team 协作的完整实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517100&amp;idx=1&amp;sn=6180d7a9fc581378aba31e0a097288a6) `2026-10-22`
