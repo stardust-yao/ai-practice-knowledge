@@ -1421,3 +1421,16 @@
 - [NeurIPS 2026 | 从Token到Span：重新思考大语言模型的不确定性估计](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651069516&amp;idx=3&amp;sn=ab8a98a972f88d5f4a2fdf785abb6197) `2026-10-22`
 - [“大家用AI胆子还不够大！”Claude工程负责人亲授顶级用法](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729048&amp;idx=1&amp;sn=543b14ba5e521203d4a604448bcd3d07) `2026-10-22`
 - [从 Jev 范式决策模型接入，到参与 Team 协作的完整实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517100&amp;idx=1&amp;sn=6180d7a9fc581378aba31e0a097288a6) `2026-10-22`
+
+## 2026-10-24 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 4 篇
+- **Feed 总量**: 37 篇
+- **累计已抓**: 626 篇
+
+**本次新增：**
+- [腾讯员工下班后都在玩这么刺激的？？？](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804818&amp;idx=1&amp;sn=586605bd73d8e757fee932a5da596e9d) `2026-10-23`
+- [OpenViking 网关：让任意客户端用上 Agentic 记忆](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523647&amp;idx=1&amp;sn=f96a64e413be6cdbaf0936f0a2a69f23) `2026-10-23`
+- [OpenSandbox 正式加入 AAIF，从阿里开源项目走向行业公共基础设施](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512151&amp;idx=1&amp;sn=4141fadeb55100e34b5481d5543e28b3) `2026-10-23`
+- [AI 中台的构建和智能体调优实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517108&amp;idx=1&amp;sn=8671bf45e2e76605087fcaae5fe64817) `2026-10-23`
