@@ -1434,3 +1434,25 @@
 - [OpenViking 网关：让任意客户端用上 Agentic 记忆](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523647&amp;idx=1&amp;sn=f96a64e413be6cdbaf0936f0a2a69f23) `2026-10-23`
 - [OpenSandbox 正式加入 AAIF，从阿里开源项目走向行业公共基础设施](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512151&amp;idx=1&amp;sn=4141fadeb55100e34b5481d5543e28b3) `2026-10-23`
 - [AI 中台的构建和智能体调优实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517108&amp;idx=1&amp;sn=8671bf45e2e76605087fcaae5fe64817) `2026-10-23`
+
+## 2026-10-25 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 13 篇
+- **Feed 总量**: 46 篇
+- **累计已抓**: 639 篇
+
+**本次新增：**
+- [今年 1024，我们想讲 5 个「想用、管用」的故事](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512172&amp;idx=1&amp;sn=b114ef2ea2f00876009cea96b5bf5825) `2026-10-24`
+- [工程师的节日能有多精彩？小米技术嘉年华给你答案](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520547&amp;idx=1&amp;sn=ea4c65f5ae11c78f37a7a7228740bfc6) `2026-10-24`
+- [得物技术er，专解“不像技术”的问题 | 1024程序员节快乐！](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247547419&amp;idx=1&amp;sn=bd08cf70c571ac2a1cb31256097d3f85) `2026-10-24`
+- [PyTorch、JAX都被点名！Softmax曝出隐藏Bug，Gemini立功](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651069889&amp;idx=1&amp;sn=f243963ab47a3c32471ca7d3319ef4c6) `2026-10-25`
+- [Muse 能否帮 Meta 打赢翻身仗？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651069889&amp;idx=2&amp;sn=961329a6795b7ba229a01c9f08a20237) `2026-10-25`
+- [聚类也能「开箱即用」了！人大等团队开源TabClustPFN，给张表格就能自动分组](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651069889&amp;idx=3&amp;sn=be03ed61a5b5eccacdb6e68cce1c5210) `2026-10-25`
+- [RoboTwin第一、RoboDojo领跑：Physical AI的下一轮Scaling，为什么是Physics？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651069794&amp;idx=1&amp;sn=27a6d06d4f43e6c032d7f79db1222815) `2026-10-24`
+- [谷歌开源TorchTPU！TPU成PyTorch原生设备，CUDA最深的护城河开始松动](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651069794&amp;idx=2&amp;sn=ae62dbad6234b3c4c7359543936974c7) `2026-10-24`
+- [NeurIPS 26 | 从声音到回应，AI如何理解并表达共情？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651069794&amp;idx=3&amp;sn=24de4df712471843cfc352f370b7d213) `2026-10-24`
+- [行业首个Pro Agent问世！「AI祖师爷」Kevin Knight空降中国谈AI跃迁](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651069672&amp;idx=1&amp;sn=cda1b3d3e5fb5179e1e999897a41ca67) `2026-10-23`
+- [刚刚，你每天在用的Skills发生了一件大事](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651069672&amp;idx=2&amp;sn=068a7cc38c194f505ebebf54e913d5fc) `2026-10-23`
+- [FP4 W/A+FP4 KV的强化学习也能「又快又稳」：阿里千问提出TRACE，Rollout最高加速5.4倍](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651069672&amp;idx=3&amp;sn=6b461b4dbff4fd3f156ce081b60ac69e) `2026-10-23`
+- [用 Kimi K3.1 Pro 重新介绍 AgentCore](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517113&amp;idx=1&amp;sn=be001c9517d38cad4a67e2b6668014ac) `2026-10-24`
