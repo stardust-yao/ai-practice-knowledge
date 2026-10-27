@@ -1456,3 +1456,29 @@
 - [刚刚，你每天在用的Skills发生了一件大事](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651069672&amp;idx=2&amp;sn=068a7cc38c194f505ebebf54e913d5fc) `2026-10-23`
 - [FP4 W/A+FP4 KV的强化学习也能「又快又稳」：阿里千问提出TRACE，Rollout最高加速5.4倍](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651069672&amp;idx=3&amp;sn=6b461b4dbff4fd3f156ce081b60ac69e) `2026-10-23`
 - [用 Kimi K3.1 Pro 重新介绍 AgentCore](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517113&amp;idx=1&amp;sn=be001c9517d38cad4a67e2b6668014ac) `2026-10-24`
+
+## 2026-10-26 18:00:02 CST — 抓取运行
+
+- **状态**: success_no_new
+- **新文章**: 0 篇
+- **Feed 总量**: 33 篇
+- **累计已抓**: 0 篇
+
+## 2026-10-27 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 10 篇
+- **Feed 总量**: 42 篇
+- **累计已抓**: 649 篇
+
+**本次新增：**
+- [你的Personal Agent 如何真正跑起来？Agent实战指南](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804831&amp;idx=1&amp;sn=bcfae266ff83331edd3f2a72643592d3) `2026-10-26`
+- [Personal Agent 落地思考：主动性从哪来，又卡在哪？](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512178&amp;idx=1&amp;sn=78ebbd60fa0df076d9e53b5ae7d109e0) `2026-10-26`
+- [国产算力·昇腾 910C 大模型推理优化（下）：源码修改与算子优化，提速30%｜得物技术](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247547424&amp;idx=1&amp;sn=8672c138181f19d4881777051aa607f5) `2026-10-26`
+- [「牛来」将彻底成为过去式！Hi3D重塑三维模型新高度，V1.0正式开源](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651070119&amp;idx=1&amp;sn=b2bb372efe54996b317d53a28fb0848b) `2026-10-26`
+- [不用反向传播，也能预训练Transformer，Jeff Dean投的这家公司出成果了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651070119&amp;idx=2&amp;sn=bb57ff281605456e1b9a19fdff11ef66) `2026-10-26`
+- [先在平行世界里试一试，机器人再动手：清华提出ParallelWorld](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651070119&amp;idx=3&amp;sn=0b5bcfa3dbbba88884cf9dbff0a0c6a9) `2026-10-26`
+- [Datawhale招人啦！多个岗位开放中！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729227&amp;idx=1&amp;sn=33d3bb614fa1445ecedff08a6a65a654) `2026-10-27`
+- [Anthropic最新长文：请谨慎使用子智能体！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729220&amp;idx=1&amp;sn=1510321b33cef5b10c39d58b5780f641) `2026-10-26`
+- [13个月4次推倒重来！Codex核心团队内部复盘首次公开。](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729146&amp;idx=1&amp;sn=78d8ad04305e0f6c5781afa6f36f82f0) `2026-10-25`
+- [交付周期从 51 天缩短到 14 天，多 Agent 协作产品⾃进化背后的组织重构](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517127&amp;idx=1&amp;sn=4a60f98a9a4b937a367977182bb7fbd4) `2026-10-26`
