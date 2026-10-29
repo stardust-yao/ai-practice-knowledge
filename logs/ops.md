@@ -1482,3 +1482,40 @@
 - [Anthropic最新长文：请谨慎使用子智能体！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729220&amp;idx=1&amp;sn=1510321b33cef5b10c39d58b5780f641) `2026-10-26`
 - [13个月4次推倒重来！Codex核心团队内部复盘首次公开。](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729146&amp;idx=1&amp;sn=78d8ad04305e0f6c5781afa6f36f82f0) `2026-10-25`
 - [交付周期从 51 天缩短到 14 天，多 Agent 协作产品⾃进化背后的组织重构](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517127&amp;idx=1&amp;sn=4a60f98a9a4b937a367977182bb7fbd4) `2026-10-26`
+
+## 2026-10-28 18:00:01 CST — 抓取运行
+
+- **状态**: error
+- **新文章**: 0 篇
+- **Feed 总量**: 0 篇
+- **累计已抓**: 0 篇
+- **错误**: The read operation timed out
+
+## 2026-10-29 18:00:06 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 20 篇
+- **Feed 总量**: 51 篇
+- **累计已抓**: 669 篇
+
+**本次新增：**
+- [一句话生成看板｜灯塔AI数据分析从0到1完整指南](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804990&amp;idx=1&amp;sn=ab7cc44dcb144528b83bc90c81eb6321) `2026-10-28`
+- [OpenViking 上线原生 3D 内容理解模型](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523852&amp;idx=1&amp;sn=f753b63616a0f85bc2a12fab780e7d5d) `2026-10-28`
+- [一份旅行手册，豆包做完，IGA Pages 一句话就分享出去](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523707&amp;idx=1&amp;sn=f81f271c9d8f9b67ad9c2365d6a03a0b) `2026-10-27`
+- [豆包工作进入企业，安全如何跟上每一步？](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523707&amp;idx=2&amp;sn=388edfd9218469809125b6916eef3c35) `2026-10-27`
+- [阿里巴巴 12 篇论文入选全球系统顶会 ATC 2026（内附下载）](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512288&amp;idx=1&amp;sn=e2bc205de8a8396fb0e743f1e757b6e6) `2026-10-28`
+- [Personal Agent 对比分析及未来技术发展趋势](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512207&amp;idx=1&amp;sn=0e0559f8a74ee5a838ca4e3684272ab5) `2026-10-27`
+- [采了1800+工厂数据集，我们做了只21自由度仿生手](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520602&amp;idx=1&amp;sn=d374bbe848be7641a77ebabf1b28e19f) `2026-10-27`
+- [让Agent可评、可控、可迭代：业务效果导向的评测体系与场景实践](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562577&amp;idx=1&amp;sn=22122e51ba24f88c044e29669bafd9e7) `2026-10-28`
+- [PC研发智能体：做好团队的高效数字伙伴](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&amp;mid=2247499617&amp;idx=1&amp;sn=5874933e1e6d4fa0a3d571d9d8a37074) `2026-10-29`
+- [Jev 实战：为AI工作流引入轻量决策层 x10倍提速｜得物技术](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247547520&amp;idx=1&amp;sn=3f7c95f0028e9046f72b8ada98004064) `2026-10-28`
+- [SC26 顶会论文：八卦炉 2—— 让万卡集群学会临场应变](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651070650&amp;idx=1&amp;sn=30b3a90dd7098c73a1266fd6a5e1a965) `2026-10-28`
+- [数十agent，24天挑战数学界巨型工程，还揪出40年前漏洞](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651070650&amp;idx=2&amp;sn=1bcc855c11892d70536a6e07fd15c06c) `2026-10-28`
+- [95后创业者推动设立太空算力科研基金，院士点赞硬科技企业创新担当](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651070650&amp;idx=3&amp;sn=0ea3e7726522f258551cc543b8e5c8d4) `2026-10-28`
+- [从单点突破到系统性验证：分子之心MMDesign实现94.7%项目成功率、六大GPCR靶点全获命中](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651070489&amp;idx=2&amp;sn=f3e51965ac1b19d0ae372dceaf7db200) `2026-10-27`
+- [27B小模型反超1.6T巨兽！智源AREX-2长程反思撬动RSI新路径](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651070489&amp;idx=3&amp;sn=54e92cb2108bbc579873c8ccfaa114d3) `2026-10-27`
+- [谷歌世界模型Genie 4来了！生成世界可探索](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729344&amp;idx=1&amp;sn=dfdee5d6c1c1df3f9fd361f5dc5368cb) `2026-10-28`
+- [浙大见！亲手打造你的AI工作台](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729321&amp;idx=1&amp;sn=3c5d24cf774a9d4d151f09253c6d64c3) `2026-10-28`
+- [和真正赚到钱的 OPC 们聊一聊！南京见！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729313&amp;idx=1&amp;sn=ea7f0ecb9c36df87122aa6b136798c8b) `2026-10-28`
+- [实测近一周，对 Kimi K3.1 Pro 的真实评价](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729304&amp;idx=1&amp;sn=350883678a31ec64e98ccde8633e70fd) `2026-10-27`
+- [完整还原已经服务千家企业的 AIOps Agent 的评测和调优实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517147&amp;idx=1&amp;sn=287bd95f3660786271b2475841eee70f) `2026-10-27`
