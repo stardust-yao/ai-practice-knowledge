@@ -1519,3 +1519,19 @@
 - [和真正赚到钱的 OPC 们聊一聊！南京见！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729313&amp;idx=1&amp;sn=ea7f0ecb9c36df87122aa6b136798c8b) `2026-10-28`
 - [实测近一周，对 Kimi K3.1 Pro 的真实评价](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729304&amp;idx=1&amp;sn=350883678a31ec64e98ccde8633e70fd) `2026-10-27`
 - [完整还原已经服务千家企业的 AIOps Agent 的评测和调优实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517147&amp;idx=1&amp;sn=287bd95f3660786271b2475841eee70f) `2026-10-27`
+
+## 2026-10-30 18:00:07 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 7 篇
+- **Feed 总量**: 37 篇
+- **累计已抓**: 676 篇
+
+**本次新增：**
+- [AI Infra进阶：3万字深入理解线性注意力机制](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649807939&amp;idx=1&amp;sn=3f07a83e3ddf3f5bd3b97854077f66b1) `2026-10-29`
+- [如何在“不能出错”的系统里使用 AI Coding？分布式存储实践与边界](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783558&amp;idx=1&amp;sn=41ee792191d6655db07f863dc11cb768) `2026-10-29`
+- [迎战双十一，如何让智能客服 Agent 经得起真实业务考验？](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523857&amp;idx=1&amp;sn=c63f2fea56a8eb3da19081b5e9564c00) `2026-10-29`
+- [基于 RSI 架构的淘宝闪购店铺装修选品 Agent 实践](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512312&amp;idx=1&amp;sn=21231fab634b576f13b966e8a5f44cbd) `2026-10-29`
+- [以未来几何推演物理交互，X-Era AI拓元智慧开源原生4D世界动作模型E0.5，真机大幅超越π0.5](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651070899&amp;idx=1&amp;sn=79fca61238019e09fdc1d38766304109) `2026-10-29`
+- [OpenAI发钱了？每月最高500美元API额度等你领](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651070899&amp;idx=2&amp;sn=1c7f82a3a2956f3b886a075c0fa0fda0) `2026-10-29`
+- [EMNLP 2026 Main | AI 群聊怎样多元化？佐治亚理工和麻省理工提出 MASCOT](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651070899&amp;idx=3&amp;sn=92fc7a340639ad2c932e60e51a1f3cf4) `2026-10-29`
