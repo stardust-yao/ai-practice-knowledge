@@ -1535,3 +1535,18 @@
 - [以未来几何推演物理交互，X-Era AI拓元智慧开源原生4D世界动作模型E0.5，真机大幅超越π0.5](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651070899&amp;idx=1&amp;sn=79fca61238019e09fdc1d38766304109) `2026-10-29`
 - [OpenAI发钱了？每月最高500美元API额度等你领](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651070899&amp;idx=2&amp;sn=1c7f82a3a2956f3b886a075c0fa0fda0) `2026-10-29`
 - [EMNLP 2026 Main | AI 群聊怎样多元化？佐治亚理工和麻省理工提出 MASCOT](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651070899&amp;idx=3&amp;sn=92fc7a340639ad2c932e60e51a1f3cf4) `2026-10-29`
+
+## 2026-10-31 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 6 篇
+- **Feed 总量**: 36 篇
+- **累计已抓**: 682 篇
+
+**本次新增：**
+- [腾讯TGR：以生成式范式重塑推荐系统](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649807946&amp;idx=1&amp;sn=bddba91dc62036b312dfb28c529fb9bf) `2026-10-30`
+- [为 Agent 构建浏览器工具：Tabbit CLI 的设计与实践](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783572&amp;idx=1&amp;sn=d7141965b62cc4d458b03a3b13f896fb) `2026-10-30`
+- [以电商客服为例，看 AgentKit 技能评测如何让 Skill 敢上生产！](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523892&amp;idx=1&amp;sn=f210923b89308ffa03e248ab36043d7b) `2026-10-30`
+- [从模型优化到智能体协同：阿里 MaaS 团队的 WMT26 技术实践](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512313&amp;idx=1&amp;sn=d8564332f58af0201a766cc017da8529) `2026-10-30`
+- [小尺寸全能王：小米开源0.8B卷王OCR模型](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520628&amp;idx=1&amp;sn=82b316cb8ca7a6148323d9091fe74962) `2026-10-30`
+- [Agent 数据飞轮平台的选型和实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517172&amp;idx=1&amp;sn=733f967d63a3f9f62f08f71e07eceff0) `2026-10-30`
