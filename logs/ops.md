@@ -1550,3 +1550,20 @@
 - [从模型优化到智能体协同：阿里 MaaS 团队的 WMT26 技术实践](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512313&amp;idx=1&amp;sn=d8564332f58af0201a766cc017da8529) `2026-10-30`
 - [小尺寸全能王：小米开源0.8B卷王OCR模型](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520628&amp;idx=1&amp;sn=82b316cb8ca7a6148323d9091fe74962) `2026-10-30`
 - [Agent 数据飞轮平台的选型和实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517172&amp;idx=1&amp;sn=733f967d63a3f9f62f08f71e07eceff0) `2026-10-30`
+
+## 2026-11-01 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 8 篇
+- **Feed 总量**: 39 篇
+- **累计已抓**: 690 篇
+
+**本次新增：**
+- [阿里巴巴与Apple达成合作，将千问集成至Apple智能](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512318&amp;idx=1&amp;sn=9969e18a672d01b5c803a20991f2846e) `2026-10-31`
+- [奥特曼：PC上装内存太浪费，最好留给AI数据中心](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651071332&amp;idx=1&amp;sn=0c5de14adcf9ec2ab871ae848864ecc7) `2026-10-31`
+- [刚刚，Claude每月200美元套餐取消5小时限制](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651071332&amp;idx=2&amp;sn=9dacc8ad2d49132915dd05571bef77a7) `2026-10-31`
+- [NeurIPS 2026 ED Oral丨Benchmark也有保质期？我们给158个评测基准打了分](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651071332&amp;idx=3&amp;sn=7cc64e4b48436f5cdc7cc2766d84639a) `2026-10-31`
+- [独家｜刚刚，启元PrimeSim世界模型，登顶两大机器人权威榜单](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651071154&amp;idx=1&amp;sn=fc8decaaf9bc54e43d1721d8c2c16a77) `2026-10-30`
+- [Claude Code：别再给Claude过多提示词了...](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651071154&amp;idx=2&amp;sn=8883e8611c44cb9dc05fb1a9c0ec7f2c) `2026-10-30`
+- [最强模型准确率仅39%！当Deep Search真正进入复杂的真实互联网](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651071154&amp;idx=3&amp;sn=3c6e24a8fd2c36f338ee855bde59e312) `2026-10-30`
+- [突发！DeepSeek重磅开源：超级Agent架构！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729468&amp;idx=1&amp;sn=bd795ee34c526db407dbbab056db88c8) `2026-10-31`
