@@ -1567,3 +1567,16 @@
 - [Claude Code：别再给Claude过多提示词了...](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651071154&amp;idx=2&amp;sn=8883e8611c44cb9dc05fb1a9c0ec7f2c) `2026-10-30`
 - [最强模型准确率仅39%！当Deep Search真正进入复杂的真实互联网](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651071154&amp;idx=3&amp;sn=3c6e24a8fd2c36f338ee855bde59e312) `2026-10-30`
 - [突发！DeepSeek重磅开源：超级Agent架构！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729468&amp;idx=1&amp;sn=bd795ee34c526db407dbbab056db88c8) `2026-10-31`
+
+## 2026-11-02 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 4 篇
+- **Feed 总量**: 35 篇
+- **累计已抓**: 694 篇
+
+**本次新增：**
+- [24项真机硬碰硬！不靠大规模机器人预训练，Fysiverse-UniWAM拿下导航、移动操作双第一](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651071440&amp;idx=1&amp;sn=913d398a504d3e029db48cde218437a2) `2026-11-01`
+- [Tibo 28连更后，OpenAI合并额度池，计费聊天开始了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651071440&amp;idx=2&amp;sn=06d8aa900e443f086c007d9ee4de9789) `2026-11-01`
+- [混合架构用线性注意力还是滑窗注意力？复旦创智OpenMOSS团队：我全都要](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651071440&amp;idx=3&amp;sn=ac0f863b4725bef4e45e4453d7e081e3) `2026-11-01`
+- [学建筑的00后，5天用AI造了座重庆山城！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729497&amp;idx=1&amp;sn=136112866f6be4e9660d0f3e1ccdaa3f) `2026-11-01`
