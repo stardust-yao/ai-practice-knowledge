@@ -1580,3 +1580,17 @@
 - [Tibo 28连更后，OpenAI合并额度池，计费聊天开始了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651071440&amp;idx=2&amp;sn=06d8aa900e443f086c007d9ee4de9789) `2026-11-01`
 - [混合架构用线性注意力还是滑窗注意力？复旦创智OpenMOSS团队：我全都要](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651071440&amp;idx=3&amp;sn=ac0f863b4725bef4e45e4453d7e081e3) `2026-11-01`
 - [学建筑的00后，5天用AI造了座重庆山城！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729497&amp;idx=1&amp;sn=136112866f6be4e9660d0f3e1ccdaa3f) `2026-11-01`
+
+## 2026-11-03 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 5 篇
+- **Feed 总量**: 36 篇
+- **累计已抓**: 699 篇
+
+**本次新增：**
+- [LongCat-2.5：面向智能体任务的原生多模态模型](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783580&amp;idx=1&amp;sn=d7cfb3fc14a72aacfaf8ce34ceac9b2e) `2026-11-02`
+- [个性化视频技术：历时七年的算法演进](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523974&amp;idx=1&amp;sn=71549486fa67ac09532748b26bc01fed) `2026-11-02`
+- [Skill 路由优化实战：基于真实业务请求的 description 自进化](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562614&amp;idx=1&amp;sn=22a04ecd3c21546160609682c1074a3f) `2026-11-03`
+- [刚刚！首个成体系的Agentic RL中文项目来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729523&amp;idx=1&amp;sn=29f334f9289a59210e13a88b72fb4547) `2026-11-02`
+- [从长程 Agent 到 Super-agent，解锁更多场景](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517188&amp;idx=1&amp;sn=e107782c87456b467ad84ea3a09efc34) `2026-11-02`
