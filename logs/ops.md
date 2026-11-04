@@ -1594,3 +1594,21 @@
 - [Skill 路由优化实战：基于真实业务请求的 description 自进化](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562614&amp;idx=1&amp;sn=22a04ecd3c21546160609682c1074a3f) `2026-11-03`
 - [刚刚！首个成体系的Agentic RL中文项目来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729523&amp;idx=1&amp;sn=29f334f9289a59210e13a88b72fb4547) `2026-11-02`
 - [从长程 Agent 到 Super-agent，解锁更多场景](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517188&amp;idx=1&amp;sn=e107782c87456b467ad84ea3a09efc34) `2026-11-02`
+
+## 2026-11-04 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 9 篇
+- **Feed 总量**: 42 篇
+- **累计已抓**: 708 篇
+
+**本次新增：**
+- [从OpenClaw，怎么走到了Super Agent？](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649807992&amp;idx=1&amp;sn=821997daaf7926936b0b4f59fd82ceb0) `2026-11-03`
+- [让改进有迹可循：Storage Agent Family Eval 工程实践](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524007&amp;idx=1&amp;sn=a8f5f0e536fc1ef3b0d7d2cc8e0e20cc) `2026-11-03`
+- [蔡崇信：AI只有开源开放，才能普惠普及](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512323&amp;idx=1&amp;sn=30129744ad48cf5f35f3d513f953389c) `2026-11-03`
+- [双料大奖！小米斩获世界互联网大会“杰出贡献奖”与“领先科技奖”](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520658&amp;idx=1&amp;sn=a4baf51e46e319931647509af8b346a0) `2026-11-03`
+- [顶级AI研究员的下一个机会在哪？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651071630&amp;idx=1&amp;sn=a5c21e20ab98da774eb96ebb74203a1b) `2026-11-02`
+- [LeCun证明了：规模从未起作用，下一token路线效率低](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651071630&amp;idx=2&amp;sn=0faea44c57b2196395b8f21320fc3bc3) `2026-11-02`
+- [CoRL 2026｜浙大联合TeleAI提出GR-BC，用图搜索从机器人试错中找出有效动作](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651071630&amp;idx=3&amp;sn=eb53a9e986917c63fb1231d3ec554c30) `2026-11-02`
+- [首个成体系的Agentic RL中文教程来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729538&amp;idx=1&amp;sn=e2076dc7304f94e1c0ae95b7d8b658b9) `2026-11-03`
+- [便宜的模型越来越多，怎么判断它能不能胜任我的 Agent 工作](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517200&amp;idx=1&amp;sn=296a837f711451a9ec9e4db0d16fc2c8) `2026-11-03`
