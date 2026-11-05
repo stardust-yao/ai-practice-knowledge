@@ -1612,3 +1612,27 @@
 - [CoRL 2026｜浙大联合TeleAI提出GR-BC，用图搜索从机器人试错中找出有效动作](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651071630&amp;idx=3&amp;sn=eb53a9e986917c63fb1231d3ec554c30) `2026-11-02`
 - [首个成体系的Agentic RL中文教程来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729538&amp;idx=1&amp;sn=e2076dc7304f94e1c0ae95b7d8b658b9) `2026-11-03`
 - [便宜的模型越来越多，怎么判断它能不能胜任我的 Agent 工作](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517200&amp;idx=1&amp;sn=296a837f711451a9ec9e4db0d16fc2c8) `2026-11-03`
+
+## 2026-11-05 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 15 篇
+- **Feed 总量**: 46 篇
+- **累计已抓**: 723 篇
+
+**本次新增：**
+- [高德 Data Agent 实践：从业务问题到可信数据（上篇）](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512389&amp;idx=1&amp;sn=ce00de88385556da121f3cf2ebe8396b) `2026-11-04`
+- [高德 Data Agent 实践：从数字到业务决策（下篇）](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512389&amp;idx=2&amp;sn=acd04fef032852acffc169f4a50acb7a) `2026-11-04`
+- [小米 WorldCast 3D 运镜，REDMI K100 已上线](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520694&amp;idx=1&amp;sn=620e84f1904b1c9167fdbe7311055431) `2026-11-04`
+- [从风险识别到验证闭环：高德营销AI质量工程实践](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562661&amp;idx=1&amp;sn=72fbbe35495d144786c1c190473dcb71) `2026-11-05`
+- [从代码到服务：让 AI 打通最后一公里](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&amp;mid=2247499626&amp;idx=1&amp;sn=b12277659ece36c4a38d02ca9eb862bc) `2026-11-05`
+- [多 Agent 架构的三次反转：从中心调度到自驱协作｜得物技术](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247547547&amp;idx=1&amp;sn=29d59aedf6f185f365e2c214889fc01f) `2026-11-04`
+- [把黄仁勋的小黄鸭训练放在本地！国产端侧600T算力即将到来](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072104&amp;idx=1&amp;sn=f11fab2e4f1f7e5c4204f3524123f1ee) `2026-11-04`
+- [比DeepSeek Super-agent更早，Comma已经把长期记忆做进Agent「大管家」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072104&amp;idx=2&amp;sn=76f783cd421be6688eed397816487dfa) `2026-11-04`
+- [让Code Agent从自己的错误中进化：ReTerm探索失败驱动的RSI](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072104&amp;idx=3&amp;sn=72caa8c3d846ccf53820d188e298acec) `2026-11-04`
+- [具身智能的下一个主战场，为什么是「仓储物流」？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651071984&amp;idx=1&amp;sn=a21668592af67a5670548f881a042de3) `2026-11-03`
+- [便利店打工24小时后，智元两名机器人员工「转正」失败](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651071984&amp;idx=2&amp;sn=0fa8db8b5270b28fa06cf816a062d61e) `2026-11-03`
+- [NeurIPS 2026｜离散数据也能一步生成？ReSFlow在统计流形上「拉直」生成路径](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651071984&amp;idx=3&amp;sn=98399c058237b5901b84c20786f9cdb7) `2026-11-03`
+- [GPT-Image 2.6来了！可以生成GIF了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729628&amp;idx=1&amp;sn=9a334e9673d8c70ece9032086b134714) `2026-11-05`
+- [DeepSeek大肥鱼教程来了！养成你的第一只鲸鱼娘](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729612&amp;idx=1&amp;sn=d803aaa8822b68be423132ecbf39ebc4) `2026-11-04`
+- [AgentCore + Codex 构建生产级 Agent 的原理与实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517266&amp;idx=1&amp;sn=c3a30dab94ba099d22a9f35e26150379) `2026-11-04`
