@@ -1636,3 +1636,21 @@
 - [GPT-Image 2.6来了！可以生成GIF了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729628&amp;idx=1&amp;sn=9a334e9673d8c70ece9032086b134714) `2026-11-05`
 - [DeepSeek大肥鱼教程来了！养成你的第一只鲸鱼娘](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729612&amp;idx=1&amp;sn=d803aaa8822b68be423132ecbf39ebc4) `2026-11-04`
 - [AgentCore + Codex 构建生产级 Agent 的原理与实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517266&amp;idx=1&amp;sn=c3a30dab94ba099d22a9f35e26150379) `2026-11-04`
+
+## 2026-11-06 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 9 篇
+- **Feed 总量**: 39 篇
+- **累计已抓**: 732 篇
+
+**本次新增：**
+- [可直接喂给 WorkBuddy 的实战模板 | 零基础构建策划团队 Skill](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808051&amp;idx=1&amp;sn=aae2ab11cae15d4014bf7af0bb0cb118) `2026-11-05`
+- [每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的&#34;隐形底座&#34;？](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524066&amp;idx=1&amp;sn=09bbc349ba9edd8ad8a82890256e16a3) `2026-11-05`
+- [OpenViking连接业务系统，LLM Wiki一键编译](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524066&amp;idx=2&amp;sn=34ef93bca435a2d298fbe078aa081c69) `2026-11-05`
+- [双11：当 AI 接管支付宝大促交付，模型之外还要建什么？](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512420&amp;idx=1&amp;sn=9cbbdf991c3fb80c11592f078ad64f0b) `2026-11-05`
+- [从LLM到Ontology：本体驱动的AI数据研发原理与最佳实践](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562668&amp;idx=1&amp;sn=656d481d77033e822c4b34780757cae0) `2026-11-06`
+- [对谈千问蒋冠军：从模型、记忆到生态，Personal Agent的技术架构如何搭建？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072404&amp;idx=1&amp;sn=1de487a458c1d282c00b4a696aae70ee) `2026-11-05`
+- [不做Token化，也不搞双系统！多模态模型有了第三条路](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072404&amp;idx=3&amp;sn=215382bbb92aebdbef3c201ac3e33851) `2026-11-05`
+- [AI造游戏：开发者创作大赛等你挑战！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729676&amp;idx=1&amp;sn=84a37b356f7612cf258c67313b6f8d93) `2026-11-05`
+- [Datawhale团队第十五期录取名单！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729675&amp;idx=1&amp;sn=deafa99334e86ee35d9d8baef3da5483) `2026-11-05`
