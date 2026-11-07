@@ -1654,3 +1654,19 @@
 - [不做Token化，也不搞双系统！多模态模型有了第三条路](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072404&amp;idx=3&amp;sn=215382bbb92aebdbef3c201ac3e33851) `2026-11-05`
 - [AI造游戏：开发者创作大赛等你挑战！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729676&amp;idx=1&amp;sn=84a37b356f7612cf258c67313b6f8d93) `2026-11-05`
 - [Datawhale团队第十五期录取名单！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729675&amp;idx=1&amp;sn=deafa99334e86ee35d9d8baef3da5483) `2026-11-05`
+
+## 2026-11-07 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 7 篇
+- **Feed 总量**: 38 篇
+- **累计已抓**: 739 篇
+
+**本次新增：**
+- [多Agent协作的下一场竞争，不在模型，而在上下文](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808052&amp;idx=1&amp;sn=b3d44a9aff307ff725a3300d14efe314) `2026-11-06`
+- [决策模型 Jev 可以直接上生产？用实验和公式理解 logit 调优与训练要领（长文干货）](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512450&amp;idx=1&amp;sn=65ef4a129320212fc63ac325a5e96786) `2026-11-06`
+- [从静态清单到可交互工具：交付顾问用 AI 提升车主验车体验](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520698&amp;idx=1&amp;sn=975c6f08a443b35f791d062e98054e68) `2026-11-06`
+- [纵横9米高空的机器人，跑出3.3个马拉松，一座大仓的极速28小时](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072640&amp;idx=1&amp;sn=e52b59c8ea12a5344d99ebea6098370e) `2026-11-06`
+- [让机器人学会「一口气干完一件活」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072640&amp;idx=2&amp;sn=b87d67bebe76dda38cc9eb5123d49239) `2026-11-06`
+- [世界模型「云游戏」问世，李飞飞World Labs出品](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072640&amp;idx=3&amp;sn=52917d7d6f2663f8f3276ce4ae36cbb6) `2026-11-06`
+- [给硅谷泼冷水！李飞飞与Jeff Dean关于 RSI 的讨论会实录](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729736&amp;idx=1&amp;sn=02202edcc886e53320dd63f2f12dafb6) `2026-11-06`
