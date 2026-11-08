@@ -1670,3 +1670,16 @@
 - [让机器人学会「一口气干完一件活」](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072640&amp;idx=2&amp;sn=b87d67bebe76dda38cc9eb5123d49239) `2026-11-06`
 - [世界模型「云游戏」问世，李飞飞World Labs出品](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072640&amp;idx=3&amp;sn=52917d7d6f2663f8f3276ce4ae36cbb6) `2026-11-06`
 - [给硅谷泼冷水！李飞飞与Jeff Dean关于 RSI 的讨论会实录](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729736&amp;idx=1&amp;sn=02202edcc886e53320dd63f2f12dafb6) `2026-11-06`
+
+## 2026-11-08 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 4 篇
+- **Feed 总量**: 35 篇
+- **累计已抓**: 743 篇
+
+**本次新增：**
+- [陶大程教授最新技术文章：一台机器人犯过的错，怎样让另一台少走弯路？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072774&amp;idx=1&amp;sn=17484407e18d75fca1e41a09be82bc03) `2026-11-07`
+- [State of AI 2026：AGI 2027 真的会来吗？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072774&amp;idx=2&amp;sn=8b8a1f19a5fb23e7b97328ab977f5e6e) `2026-11-07`
+- [NeurIPS 2026 | 从「先出题」到「先探索」：重新思考Tool-Calling Agent的训练数据合成](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072774&amp;idx=3&amp;sn=7907f035a6b5b83908acc800cf7b3d96) `2026-11-07`
+- [整理了最新GPT-Images-2.6的全网10个爆火玩法！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729778&amp;idx=1&amp;sn=025d6c90bc5a6112bc5f2f44071a5180) `2026-11-07`
