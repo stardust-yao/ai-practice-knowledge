@@ -1683,3 +1683,16 @@
 - [State of AI 2026：AGI 2027 真的会来吗？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072774&amp;idx=2&amp;sn=8b8a1f19a5fb23e7b97328ab977f5e6e) `2026-11-07`
 - [NeurIPS 2026 | 从「先出题」到「先探索」：重新思考Tool-Calling Agent的训练数据合成](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072774&amp;idx=3&amp;sn=7907f035a6b5b83908acc800cf7b3d96) `2026-11-07`
 - [整理了最新GPT-Images-2.6的全网10个爆火玩法！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729778&amp;idx=1&amp;sn=025d6c90bc5a6112bc5f2f44071a5180) `2026-11-07`
+
+## 2026-11-09 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 4 篇
+- **Feed 总量**: 35 篇
+- **累计已抓**: 747 篇
+
+**本次新增：**
+- [ICLR 2027首轮评审，槽点有点多](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072888&amp;idx=1&amp;sn=653a56cbd49310e83158f277d56a993b) `2026-11-08`
+- [GPT-6.1 Sol参与活体大脑手术！三轮定位，一次比一次准](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072888&amp;idx=2&amp;sn=7451fe12fd75fc3295e0e71c0235040a) `2026-11-08`
+- [英伟达等重新设计VLA推理！机器人动作提速3.4倍](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072888&amp;idx=3&amp;sn=75cf566a70af17c8a5cfa30d459aab8b) `2026-11-08`
+- [李沐：我带着新模型回来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729818&amp;idx=1&amp;sn=7ffee68e5b08c11ec6b11ec1b80c4a2e) `2026-11-08`
