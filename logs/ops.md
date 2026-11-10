@@ -1696,3 +1696,20 @@
 - [GPT-6.1 Sol参与活体大脑手术！三轮定位，一次比一次准](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072888&amp;idx=2&amp;sn=7451fe12fd75fc3295e0e71c0235040a) `2026-11-08`
 - [英伟达等重新设计VLA推理！机器人动作提速3.4倍](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651072888&amp;idx=3&amp;sn=75cf566a70af17c8a5cfa30d459aab8b) `2026-11-08`
 - [李沐：我带着新模型回来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729818&amp;idx=1&amp;sn=7ffee68e5b08c11ec6b11ec1b80c4a2e) `2026-11-08`
+
+## 2026-11-10 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 8 篇
+- **Feed 总量**: 38 篇
+- **累计已抓**: 755 篇
+
+**本次新增：**
+- [说个最近越想越不对劲的事......           《AI 编程的加速陷阱》    我是maple，目前主要在腾讯做Agent 相关的一些开发业务。    我们...](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808120&amp;idx=1&amp;sn=b007fdc7119e2018ef1a0ffda9a41b0a) `2026-11-09`
+- [从进化到泛化，RSI 四大前沿框架如何实现 Agent 自动调优](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512471&amp;idx=1&amp;sn=cce98b31a76694181957c85cc6109efb) `2026-11-09`
+- [今天起，千问AI平台Token Plan额度上调70%以上](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562673&amp;idx=1&amp;sn=bd1d6662b36d44f8b949eac94a6f3d2a) `2026-11-09`
+- [AI Scientists「终极大考」，全球首个真实湿实验的Physical AI Verifier来了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651073140&amp;idx=1&amp;sn=4ea07aeb526d7f8730cdf320ba182d9d) `2026-11-09`
+- [你的AI同事，已经开始用「云电脑」上班了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651073140&amp;idx=2&amp;sn=1c23febbcadcab87c36b64b28d76ae18) `2026-11-09`
+- [让AI「摸懂」物理世界，首个触觉推理模型Touch-R1，入选NeurIPS 2026](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651073140&amp;idx=3&amp;sn=788754bcaa053557f9c8ccd807058410) `2026-11-09`
+- [全网390万围观！中国团队开源753B科研神器](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729861&amp;idx=1&amp;sn=067e77a40af4b406049f6a317551e7ec) `2026-11-09`
+- [让复杂任务由团队完成：阿里云 AgentCore 多 Agent 协作架构及实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517281&amp;idx=1&amp;sn=a349b49f81e2ac5d525e22d60affc85f) `2026-11-09`
