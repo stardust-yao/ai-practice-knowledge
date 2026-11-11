@@ -1713,3 +1713,19 @@
 - [让AI「摸懂」物理世界，首个触觉推理模型Touch-R1，入选NeurIPS 2026](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651073140&amp;idx=3&amp;sn=788754bcaa053557f9c8ccd807058410) `2026-11-09`
 - [全网390万围观！中国团队开源753B科研神器](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729861&amp;idx=1&amp;sn=067e77a40af4b406049f6a317551e7ec) `2026-11-09`
 - [让复杂任务由团队完成：阿里云 AgentCore 多 Agent 协作架构及实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517281&amp;idx=1&amp;sn=a349b49f81e2ac5d525e22d60affc85f) `2026-11-09`
+
+## 2026-11-11 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 7 篇
+- **Feed 总量**: 37 篇
+- **累计已抓**: 762 篇
+
+**本次新增：**
+- [AI从Working、Coding到Oncall：腾讯视频如何让知识流动起来？](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808124&amp;idx=1&amp;sn=24e1795f9b37a52914a395ced0ec6c7f) `2026-11-10`
+- [LongCat-2.5开源：从看见，到抵达](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783696&amp;idx=1&amp;sn=6f4cd9456525884e21b9a363fccab6b2) `2026-11-10`
+- [美团与上海交大共话具身智能与大模型，如何让 AI 走进物理世界？](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783696&amp;idx=2&amp;sn=a1e59f6d4527356c6f91246e692e69bb) `2026-11-10`
+- [从淘小蜜分流模型的实践，聊聊 Jev 与 System One](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512476&amp;idx=1&amp;sn=071544b548af1892af197b38f330d562) `2026-11-10`
+- [Qwen4-Max 预览版首发上线千问AI平台Token Plan](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562678&amp;idx=1&amp;sn=4bca2da2340d7065386940ee76a34d51) `2026-11-11`
+- [刚刚！Anthropic首次公开Claude记忆架构！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729895&amp;idx=1&amp;sn=6e486687100696a37703dcb9effd5115) `2026-11-10`
+- [关于 DeepSeek 的 SuperAgent，以及我们的实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517354&amp;idx=1&amp;sn=5cbc905ba5585fbeb6227ee1ebd43d93) `2026-11-10`
