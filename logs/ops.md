@@ -1729,3 +1729,25 @@
 - [Qwen4-Max 预览版首发上线千问AI平台Token Plan](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562678&amp;idx=1&amp;sn=4bca2da2340d7065386940ee76a34d51) `2026-11-11`
 - [刚刚！Anthropic首次公开Claude记忆架构！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729895&amp;idx=1&amp;sn=6e486687100696a37703dcb9effd5115) `2026-11-10`
 - [关于 DeepSeek 的 SuperAgent，以及我们的实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517354&amp;idx=1&amp;sn=5cbc905ba5585fbeb6227ee1ebd43d93) `2026-11-10`
+
+## 2026-11-12 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 13 篇
+- **Feed 总量**: 42 篇
+- **累计已抓**: 775 篇
+
+**本次新增：**
+- [开发者实测｜把视频处理交给 Agent：AI MediaKit Skill 深度评测](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524166&amp;idx=1&amp;sn=a906ea8e660c7264fd65de893e7c82c2) `2026-11-11`
+- [AI短片之后，如何真正迈向长片创作？](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&amp;mid=2247499630&amp;idx=1&amp;sn=3a1df77fd97b41b2862ad71bcecb1f90) `2026-11-12`
+- [压测AI Agent 治理与评测调优实践](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247547614&amp;idx=1&amp;sn=d8132825fac2baa4814c999618ca1a14) `2026-11-11`
+- [具身出海，菜鸟先飞](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651073583&amp;idx=1&amp;sn=83cc6c943216d42d020d383eb4e64136) `2026-11-11`
+- [HyperAgent：openJiuwen对未来Agent架构的思考和实践](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651073583&amp;idx=2&amp;sn=b51e6ed1e5957fa9dffb517b737cd2c1) `2026-11-11`
+- [GEAR：打造 Scikit-learn 式的模块化 RSI 框架，让 Agent 从真实任务中持续进化](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651073583&amp;idx=3&amp;sn=79fcb81defc98a744a413df8129044cf) `2026-11-11`
+- [Fable 5.2 徒手玩魔方？有了大模型，硅谷大厂还缺什么数据](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651073491&amp;idx=1&amp;sn=32a281ee4ab01783c448fdc49ce20fd0) `2026-11-10`
+- [机器人版「苦涩的教训」来了？  Claude 5.2操作性能大涨，前Optimus研究员加盟](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651073491&amp;idx=2&amp;sn=ced8463f39aaf80a79e1aeffe1305ae9) `2026-11-10`
+- [不靠外部裁判，统一多模态模型学会自己「看图改图」：修复成功率提升到3倍，GenEval 0.72→0.84](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651073491&amp;idx=3&amp;sn=b6814108953b35e12764216d29097516) `2026-11-10`
+- [11.14日杭州见，全球开源生态圈，半壁江山都来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729956&amp;idx=1&amp;sn=0997afb78bc1680fb25c02bd30cbed36) `2026-11-11`
+- [COSCon&#39;26｜张博：打造你的专属 AI Agent](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729930&amp;idx=1&amp;sn=e75633d34f275b068862c204a19142f9) `2026-11-11`
+- [COSCon&#39;26 特邀嘉宾公布｜徐旭初](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729929&amp;idx=1&amp;sn=f1d48f1159734c36fa795146c6f20768) `2026-11-11`
+- [阿里云智能体白皮书开源进展](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517359&amp;idx=1&amp;sn=9a53ae830b148e1966d0a50732bdb63c) `2026-11-11`
