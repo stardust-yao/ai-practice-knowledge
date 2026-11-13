@@ -1751,3 +1751,20 @@
 - [COSCon&#39;26｜张博：打造你的专属 AI Agent](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729930&amp;idx=1&amp;sn=e75633d34f275b068862c204a19142f9) `2026-11-11`
 - [COSCon&#39;26 特邀嘉宾公布｜徐旭初](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729929&amp;idx=1&amp;sn=f1d48f1159734c36fa795146c6f20768) `2026-11-11`
 - [阿里云智能体白皮书开源进展](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517359&amp;idx=1&amp;sn=9a53ae830b148e1966d0a50732bdb63c) `2026-11-11`
+
+## 2026-11-13 18:00:05 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 8 篇
+- **Feed 总量**: 35 篇
+- **累计已抓**: 783 篇
+
+**本次新增：**
+- [码住！WorkBuddy压箱底的7个值得装的Skill](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808160&amp;idx=1&amp;sn=330f5030d5f14f0a2676f9e681fd5bc4) `2026-11-12`
+- [OpenViking 3D理解模型上线轴测八视图及PMI解析](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524273&amp;idx=1&amp;sn=00864fccfa91a8cf8533d53cf0a3c164) `2026-11-12`
+- [授人以鱼不如授人以渔：我对企业级 AI 研发提效的思考与实践](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512492&amp;idx=1&amp;sn=2134349b220aff2dc128808e7324f391) `2026-11-12`
+- [首次Agentic RL开课了！十一月最丰富组队学习来了🥳（多达21个课程）](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730005&amp;idx=1&amp;sn=2e5051ac051a3c82e73fba452d256a10) `2026-11-12`
+- [开源4天下载破百万！MOSS CEO现身开源年会](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729979&amp;idx=1&amp;sn=007ba1e12cca78ea2e5a8e9efa8e5eb3) `2026-11-12`
+- [AI+医药，能碰撞出怎样的新可能？](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729978&amp;idx=1&amp;sn=e3ce4b07365b4265d309fa11fd4fd4a1) `2026-11-12`
+- [COSCon&#39;26｜Jennie Sun：让 AI 真正落地](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729977&amp;idx=1&amp;sn=ab09f018e52a7b924cea2e328d5c1af4) `2026-11-12`
+- [AgentCore 支持 DeepSeek Harness 托管，加速企业生产化验证](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517386&amp;idx=1&amp;sn=86f2f5399cf1a2d0b18fdfab20b0b622) `2026-11-12`
