@@ -1768,3 +1768,25 @@
 - [AI+医药，能碰撞出怎样的新可能？](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729978&amp;idx=1&amp;sn=e3ce4b07365b4265d309fa11fd4fd4a1) `2026-11-12`
 - [COSCon&#39;26｜Jennie Sun：让 AI 真正落地](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247729977&amp;idx=1&amp;sn=ab09f018e52a7b924cea2e328d5c1af4) `2026-11-12`
 - [AgentCore 支持 DeepSeek Harness 托管，加速企业生产化验证](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517386&amp;idx=1&amp;sn=86f2f5399cf1a2d0b18fdfab20b0b622) `2026-11-12`
+
+## 2026-11-14 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 13 篇
+- **Feed 总量**: 40 篇
+- **累计已抓**: 796 篇
+
+**本次新增：**
+- [不只是Memory：Ontology如何让Coding Agent越用越懂项目？](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808188&amp;idx=1&amp;sn=9493b80e2a1e4c6ab409e77f2ac57584) `2026-11-13`
+- [基于本体的 AI 数据研发落地：淘宝行业经营分析实战](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512497&amp;idx=1&amp;sn=82924a5a7f2f62006617c12080a83fc2) `2026-11-13`
+- [智能体 Skill 调优“焚诀”——业务逻辑之外的胜负手](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562689&amp;idx=1&amp;sn=e48b34b83266f63e8b791887839b8133) `2026-11-13`
+- [Jev实战：为AI工作流引入轻量决策层](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247547712&amp;idx=1&amp;sn=a848c96b1a7c2708b8e7ce689faf4aa2) `2026-11-13`
+- [斯坦福让GPT-6 Astra直接修改机器人参数：只动65行词嵌入，修复一类指令失灵](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651074362&amp;idx=2&amp;sn=5a8b2bef8739a7443d5e57b276c4d80a) `2026-11-13`
+- [ICSE 2027 | 清华提出CoACT：降低Coding Agent 33% Token开销](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651074362&amp;idx=3&amp;sn=da18bc335c6b6345ee976e60b4009347) `2026-11-13`
+- [10秒生成4K图：MiniMax再次拿出开源SOTA](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651074135&amp;idx=1&amp;sn=94195be03009adcb3b3e390782573b38) `2026-11-12`
+- [64张B300、不到5天，FireFlash比肩Fable 5与GPT-6Sol，单任务成本低30倍！](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651074135&amp;idx=3&amp;sn=f702c61a40c6ebe66be517d551e8d6b6) `2026-11-12`
+- [重磅！Claude Code的Harness实战教程来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730045&amp;idx=1&amp;sn=2580121ff467f292a96a18d7ea42b245) `2026-11-13`
+- [游戏也能做公益？他用开源做到了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730029&amp;idx=1&amp;sn=5e56c8f0be718861ffbf18d4870c1a3a) `2026-11-13`
+- [华为专家教你“AI Naive”软件开发](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730028&amp;idx=1&amp;sn=024e54c397fcc6605aa652cdfe1efc5a) `2026-11-13`
+- [COSCon&#39;26｜王琦：开源如何改变科研？](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730027&amp;idx=1&amp;sn=62f6d6515eedd86168addf27af8e9c24) `2026-11-13`
+- [把主力模型用在刀刃上：一个月 300 亿 Token、31 万行 Rust 背后的 AI Coding 实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517387&amp;idx=1&amp;sn=76c4a48adb17ef3fefdaacf60b4b9e46) `2026-11-13`
