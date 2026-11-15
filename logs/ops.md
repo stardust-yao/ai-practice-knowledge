@@ -1790,3 +1790,16 @@
 - [华为专家教你“AI Naive”软件开发](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730028&amp;idx=1&amp;sn=024e54c397fcc6605aa652cdfe1efc5a) `2026-11-13`
 - [COSCon&#39;26｜王琦：开源如何改变科研？](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730027&amp;idx=1&amp;sn=62f6d6515eedd86168addf27af8e9c24) `2026-11-13`
 - [把主力模型用在刀刃上：一个月 300 亿 Token、31 万行 Rust 背后的 AI Coding 实践](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517387&amp;idx=1&amp;sn=76c4a48adb17ef3fefdaacf60b4b9e46) `2026-11-13`
+
+## 2026-11-15 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 4 篇
+- **Feed 总量**: 32 篇
+- **累计已抓**: 800 篇
+
+**本次新增：**
+- [亮相联合国气候大会，小米斩获中国车企首个国际EPD双项认证](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520709&amp;idx=1&amp;sn=52eacfac881f2a4bbb6e22cb0e33dc11) `2026-11-14`
+- [踢开具身Scaling的另一扇门：华为诺亚团队登顶Behavior Challenge 2026](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651074456&amp;idx=1&amp;sn=fd945abf7738045bba3669031d5ef7a2) `2026-11-14`
+- [收购之后，李飞飞、苏姿丰首次同台对话，要点都在这里了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651074456&amp;idx=2&amp;sn=96fd9bd0e55a35b655b0a2dddd61264d) `2026-11-14`
+- [AI自己改科研策略，能过湿实验这一关吗？他们把RSI带入分子发现](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651074456&amp;idx=3&amp;sn=3ce02b6ba0021829c919847dffc37e64) `2026-11-14`
