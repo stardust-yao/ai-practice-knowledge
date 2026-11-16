@@ -1803,3 +1803,16 @@
 - [踢开具身Scaling的另一扇门：华为诺亚团队登顶Behavior Challenge 2026](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651074456&amp;idx=1&amp;sn=fd945abf7738045bba3669031d5ef7a2) `2026-11-14`
 - [收购之后，李飞飞、苏姿丰首次同台对话，要点都在这里了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651074456&amp;idx=2&amp;sn=96fd9bd0e55a35b655b0a2dddd61264d) `2026-11-14`
 - [AI自己改科研策略，能过湿实验这一关吗？他们把RSI带入分子发现](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651074456&amp;idx=3&amp;sn=3ce02b6ba0021829c919847dffc37e64) `2026-11-14`
+
+## 2026-11-16 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 4 篇
+- **Feed 总量**: 33 篇
+- **累计已抓**: 804 篇
+
+**本次新增：**
+- [Qwen4-Max首发上线千问AI平台，API服务、Token Plan同步开放](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562716&amp;idx=1&amp;sn=c26e9cb992b7f32c9ab6f7d3f82d390a) `2026-11-16`
+- [刚刚，李沐加入Aimotion！出任联创兼CTO](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651074549&amp;idx=1&amp;sn=5af6f646bcad4a81a50fe188d15649b2) `2026-11-15`
+- [马斯克SpaceX创造历史：「筷子夹火箭2.0」，星舰飞船首次被发射塔捕获](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651074549&amp;idx=2&amp;sn=c6abc90807ed922e181cbb0e5589e670) `2026-11-15`
+- [给大模型装上摄像头，北大重磅开源：3D空间智能基准来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730067&amp;idx=1&amp;sn=2df63b527a2e85ca4800399a549d6f3f) `2026-11-15`
