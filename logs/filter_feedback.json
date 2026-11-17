@@ -1,7 +1,7 @@
 {
-  "total_reviews": 52,
+  "total_reviews": 376,
   "total_overrides": 0,
-  "consecutive_agreements": 52,
+  "consecutive_agreements": 376,
   "auto_approve_enabled": true,
   "history": [
     {
@@ -82,104 +82,6 @@
       "agreed": true
     },
     {
-      "time": "2026-07-27 18:42:20 CST",
-      "kept_count": 4,
-      "skipped_count": 2,
-      "overrides": [],
-      "agreed": true
-    },
-    {
-      "time": "2026-07-27 18:45:32 CST",
-      "kept_count": 4,
-      "skipped_count": 2,
-      "overrides": [],
-      "agreed": true
-    },
-    {
-      "time": "2026-07-31 12:36:16 CST",
-      "kept_count": 3,
-      "skipped_count": 2,
-      "overrides": [],
-      "agreed": true
-    },
-    {
-      "time": "2026-07-31 12:37:25 CST",
-      "kept_count": 12,
-      "skipped_count": 8,
-      "overrides": [],
-      "agreed": true
-    },
-    {
-      "time": "2026-07-31 12:37:29 CST",
-      "kept_count": 16,
-      "skipped_count": 4,
-      "overrides": [],
-      "agreed": true
-    },
-    {
-      "time": "2026-07-31 12:37:33 CST",
-      "kept_count": 17,
-      "skipped_count": 3,
-      "overrides": [],
-      "agreed": true
-    },
-    {
-      "time": "2026-07-31 12:37:37 CST",
-      "kept_count": 17,
-      "skipped_count": 3,
-      "overrides": [],
-      "agreed": true
-    },
-    {
-      "time": "2026-07-31 12:37:49 CST",
-      "kept_count": 19,
-      "skipped_count": 1,
-      "overrides": [],
-      "agreed": true
-    },
-    {
-      "time": "2026-07-31 12:37:52 CST",
-      "kept_count": 19,
-      "skipped_count": 1,
-      "overrides": [],
-      "agreed": true
-    },
-    {
-      "time": "2026-07-31 12:37:56 CST",
-      "kept_count": 19,
-      "skipped_count": 1,
-      "overrides": [],
-      "agreed": true
-    },
-    {
-      "time": "2026-07-31 12:37:59 CST",
-      "kept_count": 20,
-      "skipped_count": 0,
-      "overrides": [],
-      "agreed": true
-    },
-    {
-      "time": "2026-07-31 12:38:02 CST",
-      "kept_count": 19,
-      "skipped_count": 1,
-      "overrides": [],
-      "agreed": true
-    },
-    {
-      "time": "2026-07-31 12:38:21 CST",
-      "kept_count": 16,
-      "skipped_count": 4,
-      "overrides": [],
-      "agreed": true
-    },
-    {
-      "time": "2026-07-31 12:38:25 CST",
-      "kept_count": 12,
-      "skipped_count": 8,
-      "overrides": [],
-      "agreed": true
-    },
-    {
       "time": "2026-08-12 18:00:02 CST",
       "kept_count": 1,
       "skipped_count": 2,
@@ -211,6 +113,27 @@
       "time": "2026-08-13 18:00:02 CST",
       "kept_count": 1,
       "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-13 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-13 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-13 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
       "overrides": [],
       "agreed": true
     },
@@ -365,6 +288,2351 @@
       "time": "2026-08-18 18:00:04 CST",
       "kept_count": 2,
       "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-19 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-19 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-19 18:00:03 CST",
+      "kept_count": 5,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-19 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-20 18:00:01 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-20 18:00:02 CST",
+      "kept_count": 2,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-20 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-20 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-20 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-20 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-21 18:00:01 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-21 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 7,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-21 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-21 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-21 18:00:03 CST",
+      "kept_count": 5,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-21 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-22 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-22 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-23 18:00:03 CST",
+      "kept_count": 3,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-23 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-24 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-24 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-25 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-25 18:00:03 CST",
+      "kept_count": 5,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-25 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-26 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-27 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-27 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-27 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-27 18:00:04 CST",
+      "kept_count": 4,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-27 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-28 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-28 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 8,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-28 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-28 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-28 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-28 18:00:03 CST",
+      "kept_count": 3,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-29 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-29 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-29 18:00:04 CST",
+      "kept_count": 3,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-29 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-30 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-30 18:00:03 CST",
+      "kept_count": 5,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-31 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-31 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-08-31 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-01 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-01 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-01 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-01 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-01 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-01 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-01 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-02 18:00:01 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-02 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-02 18:00:03 CST",
+      "kept_count": 3,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-03 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-03 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-03 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-03 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-03 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-04 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 8,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-04 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-04 18:00:04 CST",
+      "kept_count": 2,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-04 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 6,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-05 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-05 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-05 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-05 18:00:04 CST",
+      "kept_count": 2,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-05 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 6,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-06 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 6,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-07 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 6,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-08 18:00:01 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-08 18:00:01 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-09 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-09 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-09 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-09 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 6,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-10 18:00:01 CST",
+      "kept_count": 1,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-10 18:00:02 CST",
+      "kept_count": 2,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-10 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-10 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-10 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 9,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-11 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 8,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-11 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-11 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-11 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-11 18:00:03 CST",
+      "kept_count": 5,
+      "skipped_count": 6,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-11 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 8,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-12 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-12 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-12 18:00:03 CST",
+      "kept_count": 3,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-13 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-13 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 9,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-14 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-14 18:00:04 CST",
+      "kept_count": 2,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-15 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-15 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-16 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-16 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-16 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 9,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-17 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-17 18:00:02 CST",
+      "kept_count": 2,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-17 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-17 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-17 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-17 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 9,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-18 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-18 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-18 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-18 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 8,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-19 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 8,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-19 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-19 18:00:03 CST",
+      "kept_count": 5,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-19 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 8,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-20 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-20 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 8,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-21 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-22 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-22 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-22 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-22 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-22 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-22 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-22 18:00:04 CST",
+      "kept_count": 2,
+      "skipped_count": 7,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-23 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-23 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 7,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-23 18:00:02 CST",
+      "kept_count": 2,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-23 18:00:02 CST",
+      "kept_count": 2,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-23 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-23 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-23 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 7,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-24 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-24 18:00:02 CST",
+      "kept_count": 2,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-24 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-24 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-24 18:00:04 CST",
+      "kept_count": 4,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-24 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 6,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-25 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-25 18:00:02 CST",
+      "kept_count": 2,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-25 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-25 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-26 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-26 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-27 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-28 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-29 18:00:02 CST",
+      "kept_count": 2,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-29 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-09-29 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-05 18:00:02 CST",
+      "kept_count": 2,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-05 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-05 18:00:03 CST",
+      "kept_count": 11,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-05 18:00:03 CST",
+      "kept_count": 6,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-06 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-06 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-07 18:00:09 CST",
+      "kept_count": 2,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-08 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-09 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-09 18:00:03 CST",
+      "kept_count": 4,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-09 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-10 18:00:01 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-10 18:00:01 CST",
+      "kept_count": 2,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-10 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-10 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-11 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-11 18:00:03 CST",
+      "kept_count": 5,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-11 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-12 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-12 18:00:03 CST",
+      "kept_count": 3,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-12 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-12 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 8,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-13 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-13 18:00:04 CST",
+      "kept_count": 3,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-13 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-13 18:00:05 CST",
+      "kept_count": 1,
+      "skipped_count": 7,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-14 18:00:01 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-14 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-14 18:00:04 CST",
+      "kept_count": 3,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-14 18:00:05 CST",
+      "kept_count": 1,
+      "skipped_count": 6,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-15 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-15 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-15 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-15 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-15 18:00:04 CST",
+      "kept_count": 5,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-15 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-15 18:00:05 CST",
+      "kept_count": 1,
+      "skipped_count": 6,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-16 18:00:01 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-16 18:00:01 CST",
+      "kept_count": 1,
+      "skipped_count": 7,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-16 18:00:01 CST",
+      "kept_count": 2,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-16 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-16 18:00:03 CST",
+      "kept_count": 3,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-16 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-16 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 6,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-17 18:00:01 CST",
+      "kept_count": 1,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-17 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-17 18:00:03 CST",
+      "kept_count": 3,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-17 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-17 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 6,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-19 18:00:04 CST",
+      "kept_count": 5,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-19 18:00:04 CST",
+      "kept_count": 2,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-20 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-20 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-20 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-20 18:00:05 CST",
+      "kept_count": 1,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-21 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-21 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-21 18:00:04 CST",
+      "kept_count": 5,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-21 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-21 18:00:05 CST",
+      "kept_count": 1,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-22 18:00:01 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-22 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-22 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-22 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-23 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 9,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-23 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-23 18:00:03 CST",
+      "kept_count": 3,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-23 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-23 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-24 18:00:01 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-24 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-24 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-24 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-25 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-25 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-25 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-25 18:00:04 CST",
+      "kept_count": 9,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-25 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-27 18:00:01 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-27 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-27 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-27 18:00:03 CST",
+      "kept_count": 3,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-27 18:00:03 CST",
+      "kept_count": 3,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-27 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-28 18:00:02 CST",
+      "kept_count": 2,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-28 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-28 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-28 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-28 18:00:04 CST",
+      "kept_count": 2,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-28 18:00:36 CST",
+      "kept_count": 1,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-29 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-29 18:00:02 CST",
+      "kept_count": 3,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-29 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-29 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-29 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-29 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-29 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-29 18:00:04 CST",
+      "kept_count": 5,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-29 18:00:05 CST",
+      "kept_count": 4,
+      "skipped_count": 6,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-29 18:00:05 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-30 18:00:01 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-30 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 8,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-30 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-30 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-30 18:00:03 CST",
+      "kept_count": 3,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-31 18:00:01 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-31 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 8,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-31 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-31 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-31 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-10-31 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-01 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-01 18:00:03 CST",
+      "kept_count": 6,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-01 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 8,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-02 18:00:03 CST",
+      "kept_count": 3,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-02 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 8,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-03 18:00:01 CST",
+      "kept_count": 1,
+      "skipped_count": 8,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-03 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-03 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-03 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 7,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-03 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-04 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-04 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-04 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-04 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-04 18:00:04 CST",
+      "kept_count": 3,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-04 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 8,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-04 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-05 18:00:02 CST",
+      "kept_count": 2,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-05 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-05 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-05 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-05 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-05 18:00:03 CST",
+      "kept_count": 6,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-05 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 7,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-05 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-06 18:00:01 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-06 18:00:02 CST",
+      "kept_count": 2,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-06 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-06 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-06 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-06 18:00:03 CST",
+      "kept_count": 2,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-07 18:00:01 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-07 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-07 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-07 18:00:03 CST",
+      "kept_count": 3,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-07 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-08 18:00:03 CST",
+      "kept_count": 3,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-08 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-09 18:00:03 CST",
+      "kept_count": 3,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-09 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-10 18:00:01 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-10 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-10 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-10 18:00:03 CST",
+      "kept_count": 3,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-10 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-10 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-11 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-11 18:00:02 CST",
+      "kept_count": 2,
+      "skipped_count": 8,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-11 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-11 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-11 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 6,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-11 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-12 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-12 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-12 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-12 18:00:03 CST",
+      "kept_count": 6,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-12 18:00:03 CST",
+      "kept_count": 3,
+      "skipped_count": 4,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-12 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-13 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-13 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-13 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-13 18:00:04 CST",
+      "kept_count": 4,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-13 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-14 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-14 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-14 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-14 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-14 18:00:04 CST",
+      "kept_count": 4,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-14 18:00:04 CST",
+      "kept_count": 4,
+      "skipped_count": 1,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-14 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 0,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-15 18:00:02 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-15 18:00:03 CST",
+      "kept_count": 3,
+      "skipped_count": 2,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-16 18:00:03 CST",
+      "kept_count": 1,
+      "skipped_count": 5,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-16 18:00:04 CST",
+      "kept_count": 2,
+      "skipped_count": 3,
+      "overrides": [],
+      "agreed": true
+    },
+    {
+      "time": "2026-11-16 18:00:04 CST",
+      "kept_count": 1,
+      "skipped_count": 2,
       "overrides": [],
       "agreed": true
     }

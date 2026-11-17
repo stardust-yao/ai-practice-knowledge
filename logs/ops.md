@@ -1816,3 +1816,21 @@
 - [刚刚，李沐加入Aimotion！出任联创兼CTO](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651074549&amp;idx=1&amp;sn=5af6f646bcad4a81a50fe188d15649b2) `2026-11-15`
 - [马斯克SpaceX创造历史：「筷子夹火箭2.0」，星舰飞船首次被发射塔捕获](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651074549&amp;idx=2&amp;sn=c6abc90807ed922e181cbb0e5589e670) `2026-11-15`
 - [给大模型装上摄像头，北大重磅开源：3D空间智能基准来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730067&amp;idx=1&amp;sn=2df63b527a2e85ca4800399a549d6f3f) `2026-11-15`
+
+## 2026-11-17 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 9 篇
+- **Feed 总量**: 38 篇
+- **累计已抓**: 813 篇
+
+**本次新增：**
+- [用 Super-agent 的理念，拆解 Octop 团队模式](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808189&amp;idx=1&amp;sn=bde97fbc46f8cb2e118267dce763042c) `2026-11-16`
+- [Qwen4-Max 正式上线！](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512505&amp;idx=1&amp;sn=1c20deef6f26aaa98b23cfc483c123ca) `2026-11-16`
+- [压测 AI Agent 治理与评测调优实践](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247547734&amp;idx=1&amp;sn=b209c8551fd912752d56807e042bec74) `2026-11-16`
+- [自研Agent两场实测均分超过GPT-6，NovaSilicon首提CDK，Fabless之后是Designless？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651074684&amp;idx=1&amp;sn=0ddb788a327e64cd83ac3069ccad7744) `2026-11-16`
+- [恶劣骗局！AI垃圾论文乱加大佬作者，Hinton、李飞飞、LeCun、吴恩达等中招](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651074684&amp;idx=2&amp;sn=d9d5b8d0066e6f455ff6395786414131) `2026-11-16`
+- [NeurIPS 2026｜不再依赖外挂：清华把「自我进化技能」训进Agent大脑](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651074684&amp;idx=3&amp;sn=98e2d05a9365087f6adf4590de6d8793) `2026-11-16`
+- [谷歌放出Agent记忆教程，代码已开源！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730088&amp;idx=1&amp;sn=79de49328253a9c46d4302241451ddf6) `2026-11-16`
+- [Datawhale招人啦！8个岗位开放中🐳](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730073&amp;idx=1&amp;sn=31c8b78cc830da8f8010a9570ef78187) `2026-11-16`
+- [我们用 AI 手搓了一套海底世界，并对外开源了](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517413&amp;idx=1&amp;sn=ef1e71b0ce5716be18e3541fe14405d8) `2026-11-16`
