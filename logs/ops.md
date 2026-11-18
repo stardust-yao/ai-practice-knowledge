@@ -1834,3 +1834,23 @@
 - [谷歌放出Agent记忆教程，代码已开源！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730088&amp;idx=1&amp;sn=79de49328253a9c46d4302241451ddf6) `2026-11-16`
 - [Datawhale招人啦！8个岗位开放中🐳](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730073&amp;idx=1&amp;sn=31c8b78cc830da8f8010a9570ef78187) `2026-11-16`
 - [我们用 AI 手搓了一套海底世界，并对外开源了](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517413&amp;idx=1&amp;sn=ef1e71b0ce5716be18e3541fe14405d8) `2026-11-16`
+
+## 2026-11-18 18:00:05 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 11 篇
+- **Feed 总量**: 40 篇
+- **累计已抓**: 824 篇
+
+**本次新增：**
+- [登上GitHub Trending｜腾讯开源 LoopForge](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808207&amp;idx=1&amp;sn=2e8dc64891bdc8488ea11e48c33711b4) `2026-11-17`
+- [《Agent评测白皮书》业务实践篇：商家 AI 助手的评测与优化闭环实践](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783747&amp;idx=1&amp;sn=d697bb242a34232160d2cc7f0cf71a9d) `2026-11-17`
+- [EMNLP 2026 | 美团技术团队学术论文精选](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783747&amp;idx=3&amp;sn=ac6d217cee2ae316587c4df59a1678e8) `2026-11-17`
+- [让数据按业务流动：EFS 数据流动重塑 AI 时代的文件存储](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524318&amp;idx=1&amp;sn=e834fd29a169549dd609f81979109eb9) `2026-11-17`
+- [让算力说同一种管理语言：共建 XPU 带外管理标准](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524318&amp;idx=2&amp;sn=f87733fff5a5bfdcae6f2ffba1b65a93) `2026-11-17`
+- [AI 写代码越来越快，谁来守住章法？](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512530&amp;idx=1&amp;sn=8b68130297282a0c27a8648c649b22e4) `2026-11-17`
+- [AI蛋白质设计开始比谁的分子能用：这家AI制药公司拿到数亿元融资](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651074900&amp;idx=1&amp;sn=943b14f5dfc3b6daa9c74f8641732b62) `2026-11-17`
+- [千万token下，比DeepSeek式稀疏注意力再快22倍](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651074900&amp;idx=2&amp;sn=9e3dc407e5451c7ff8aef36fd598f6ce) `2026-11-17`
+- [WorkBuddy 教师课程正式上线 Datawhale官网](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730127&amp;idx=1&amp;sn=778dd1d361c114262a42e772c0ca9d68) `2026-11-18`
+- [刚刚！首个SGLang中文教程项目来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730113&amp;idx=1&amp;sn=33b160c7be59fb96746984b82e9b5edd) `2026-11-17`
+- [从生成到决策：AgenticOps 决策模型的能力实测](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517444&amp;idx=1&amp;sn=2b1d9f209e1ad95526a20449b5d794fc) `2026-11-17`
