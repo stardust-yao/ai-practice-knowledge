@@ -1854,3 +1854,19 @@
 - [WorkBuddy 教师课程正式上线 Datawhale官网](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730127&amp;idx=1&amp;sn=778dd1d361c114262a42e772c0ca9d68) `2026-11-18`
 - [刚刚！首个SGLang中文教程项目来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730113&amp;idx=1&amp;sn=33b160c7be59fb96746984b82e9b5edd) `2026-11-17`
 - [从生成到决策：AgenticOps 决策模型的能力实测](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517444&amp;idx=1&amp;sn=2b1d9f209e1ad95526a20449b5d794fc) `2026-11-17`
+
+## 2026-11-19 18:00:05 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 7 篇
+- **Feed 总量**: 35 篇
+- **累计已抓**: 831 篇
+
+**本次新增：**
+- [把 80+ 项音视频能力装进 Claude Code 后，我合上了 FFmpeg 手册](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524506&amp;idx=1&amp;sn=0d9dab639998e69bde48db3e1dadf652) `2026-11-18`
+- [淘宝闪购本体平台：让人与 AI Agent 共用一份实时可信的业务知识](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512538&amp;idx=1&amp;sn=e647beb5607a2116473bddad4cb04719) `2026-11-18`
+- [从研发经验到团队知识：Akashic知识工程实践｜得物技术](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247547753&amp;idx=1&amp;sn=cb228982ab9aa9a11b41ef7523b1e460) `2026-11-18`
+- [Agent多人共用为何会失控？来自Ankole的Business Agent架构设计分享](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075119&amp;idx=1&amp;sn=87c3aecd0cd20bbd7c0957c8e131d71c) `2026-11-18`
+- [openJiuwen首发AgentOS「Harnessless」开发范式：不用自建Harness，让Agent原生应用触手可及](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075119&amp;idx=2&amp;sn=3c605eec20f55342d9385a5f813e17ac) `2026-11-18`
+- [思维链之父Jason Wei离开Meta，加盟200亿美元AI独角兽](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075119&amp;idx=3&amp;sn=f13b42ee2bcde04babe2341c5f834dce) `2026-11-18`
+- [我用英伟达 RTX Spark 打造24小时工作的 AI Agent，实战来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730219&amp;idx=1&amp;sn=a48d6a3f43e2d93e7d370dfedeef214d) `2026-11-18`
