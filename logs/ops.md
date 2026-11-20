@@ -1870,3 +1870,17 @@
 - [openJiuwen首发AgentOS「Harnessless」开发范式：不用自建Harness，让Agent原生应用触手可及](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075119&amp;idx=2&amp;sn=3c605eec20f55342d9385a5f813e17ac) `2026-11-18`
 - [思维链之父Jason Wei离开Meta，加盟200亿美元AI独角兽](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075119&amp;idx=3&amp;sn=f13b42ee2bcde04babe2341c5f834dce) `2026-11-18`
 - [我用英伟达 RTX Spark 打造24小时工作的 AI Agent，实战来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730219&amp;idx=1&amp;sn=a48d6a3f43e2d93e7d370dfedeef214d) `2026-11-18`
+
+## 2026-11-20 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 5 篇
+- **Feed 总量**: 32 篇
+- **累计已抓**: 836 篇
+
+**本次新增：**
+- [OpenViking 3D 理解模型 X 汽车行业 Benchmark 数据库](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524531&amp;idx=1&amp;sn=389bd912508d0b689da757928f16a91e) `2026-11-19`
+- [语言模型推理折叠蛋白质？把3D结构塞进思维链，超越AlphaFold3、IsoDDE与Claude Opus](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075302&amp;idx=1&amp;sn=1badc9c3cd5176dcd98e705345707a2d) `2026-11-19`
+- [Anthropic IPO定价83美元/股，投资者疯抢](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075302&amp;idx=2&amp;sn=8da8a7badbf656bb807e1e4aa135ae98) `2026-11-19`
+- [写入记忆，何必读完整个网络？英伟达SEED每GPU吞吐最高提升42%](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075302&amp;idx=3&amp;sn=3638e59c38cbc04d5ff6d800abd49c51) `2026-11-19`
+- [盯完两天 APEC，大佬们聊的 AI 重点都在这篇了。](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730326&amp;idx=1&amp;sn=07803538f14397a63beeb1e7a53b6563) `2026-11-19`
