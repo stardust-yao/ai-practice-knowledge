@@ -1884,3 +1884,22 @@
 - [Anthropic IPO定价83美元/股，投资者疯抢](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075302&amp;idx=2&amp;sn=8da8a7badbf656bb807e1e4aa135ae98) `2026-11-19`
 - [写入记忆，何必读完整个网络？英伟达SEED每GPU吞吐最高提升42%](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075302&amp;idx=3&amp;sn=3638e59c38cbc04d5ff6d800abd49c51) `2026-11-19`
 - [盯完两天 APEC，大佬们聊的 AI 重点都在这篇了。](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730326&amp;idx=1&amp;sn=07803538f14397a63beeb1e7a53b6563) `2026-11-19`
+
+## 2026-11-21 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 10 篇
+- **Feed 总量**: 37 篇
+- **累计已抓**: 846 篇
+
+**本次新增：**
+- [我并网了，我变强了？](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808250&amp;idx=1&amp;sn=d12cf910f8328e1078a6cd194e540bcb) `2026-11-20`
+- [阿里巴巴人工智能研究基金第二批征集启动](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512870&amp;idx=1&amp;sn=21a64a1c16c9fa3ad107657fc12c3185) `2026-11-20`
+- [阿里巴巴两篇论文获 ATC 2026 最佳论文奖，并在港研讨 AI Native 系统的可靠性与效率](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512863&amp;idx=1&amp;sn=6bb494cb5f4f8cfc53945efeea17c50a) `2026-11-19`
+- [NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075624&amp;idx=3&amp;sn=d08693456bc97db18084229852b76739) `2026-11-21`
+- [TML开源新模型，循环Transformer架构，笔记本就能跑](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075624&amp;idx=2&amp;sn=b6e7e23d631dba7a952cbe5da8e77769) `2026-11-21`
+- [没有AI，12年潜心研究！人类数学家紧急公开广义黎曼猜想证明](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075624&amp;idx=1&amp;sn=03d16a0fc5490ccdb4b2d3151ef8b228) `2026-11-21`
+- [上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075493&amp;idx=3&amp;sn=63643451e794a6d8ac3dbb423d7f460d) `2026-11-20`
+- [AGI还不是终点，DeepMind开始思考ASI的未来](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075493&amp;idx=2&amp;sn=7806a7ce49d42c7e0dcd482bf2f18913) `2026-11-20`
+- [拿比特币模型做 RSI，这思路太绝了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730382&amp;idx=1&amp;sn=6badd1f2faa2dec5d2eac37c272f388d) `2026-11-20`
+- [第二期玄武FDE企业AI落地实践营来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730363&amp;idx=1&amp;sn=79447a40ed0a06e46975f6aa87bd5043) `2026-11-20`
