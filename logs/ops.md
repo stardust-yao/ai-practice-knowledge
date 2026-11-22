@@ -1903,3 +1903,15 @@
 - [AGI还不是终点，DeepMind开始思考ASI的未来](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075493&amp;idx=2&amp;sn=7806a7ce49d42c7e0dcd482bf2f18913) `2026-11-20`
 - [拿比特币模型做 RSI，这思路太绝了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730382&amp;idx=1&amp;sn=6badd1f2faa2dec5d2eac37c272f388d) `2026-11-20`
 - [第二期玄武FDE企业AI落地实践营来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730363&amp;idx=1&amp;sn=79447a40ed0a06e46975f6aa87bd5043) `2026-11-20`
+
+## 2026-11-22 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 3 篇
+- **Feed 总量**: 29 篇
+- **累计已抓**: 849 篇
+
+**本次新增：**
+- [NeurIPS 2026 | F2G-Pose：一次前向预测物体位姿、尺寸与完整形状](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075704&amp;idx=2&amp;sn=3b3303aa11937d51386964ec70bf1eff) `2026-11-22`
+- [VLA/WAM已死，基模当立？Mind2Act World通用基准用「知行合一」角度为具身模型诊断进化方向](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075704&amp;idx=1&amp;sn=dd36e17788a25d918f6fbc5c3c0907cb) `2026-11-22`
+- [重磅！前DeepSeek核心成员创业项目开源！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730415&amp;idx=1&amp;sn=e287af5af98ce88912039e244ceee78a) `2026-11-21`
