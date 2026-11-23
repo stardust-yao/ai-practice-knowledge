@@ -1915,3 +1915,13 @@
 - [NeurIPS 2026 | F2G-Pose：一次前向预测物体位姿、尺寸与完整形状](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075704&amp;idx=2&amp;sn=3b3303aa11937d51386964ec70bf1eff) `2026-11-22`
 - [VLA/WAM已死，基模当立？Mind2Act World通用基准用「知行合一」角度为具身模型诊断进化方向](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075704&amp;idx=1&amp;sn=dd36e17788a25d918f6fbc5c3c0907cb) `2026-11-22`
 - [重磅！前DeepSeek核心成员创业项目开源！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730415&amp;idx=1&amp;sn=e287af5af98ce88912039e244ceee78a) `2026-11-21`
+
+## 2026-11-23 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 1 篇
+- **Feed 总量**: 27 篇
+- **累计已抓**: 850 篇
+
+**本次新增：**
+- [刚刚！Claude黎曼猜想证明迎来反转](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730431&amp;idx=1&amp;sn=85cde3e91a394e395d164f169a1092f6) `2026-11-23`
