@@ -1925,3 +1925,24 @@
 
 **本次新增：**
 - [刚刚！Claude黎曼猜想证明迎来反转](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730431&amp;idx=1&amp;sn=85cde3e91a394e395d164f169a1092f6) `2026-11-23`
+
+## 2026-11-24 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 12 篇
+- **Feed 总量**: 38 篇
+- **累计已抓**: 862 篇
+
+**本次新增：**
+- [50GB工作区秒级可访问，腾讯EROX破解Agent恢复难题](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808258&amp;idx=1&amp;sn=4954a3eef1bc7617fc57abd0fafbd0c3) `2026-11-23`
+- [从提示词优化到决策模型：Jev 辅助业务 Agent 技能路由的探索与落地](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562775&amp;idx=1&amp;sn=0603f659ab1306847898db1a8fefc314) `2026-11-24`
+- [得物通过ISO/IEC 42001:2023人工智能管理体系权威认证｜兼顾创新与安全能力](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247547789&amp;idx=1&amp;sn=00fdb2319f7ff7f2fd5865a07b4b41fa) `2026-11-23`
+- [从2D图像到3D点云，机器人操作性能能提升多少？北大等团队提出JEPA4R](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075852&amp;idx=3&amp;sn=c8d8005bb205d8b88bfb2215f9066f8b) `2026-11-24`
+- [继黎曼猜想后，Claude给出VP≠VNP证明！通过Lean 4形式化验证](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075852&amp;idx=2&amp;sn=b43990c90fd68a8fbf4fbe9d6d16f15b) `2026-11-24`
+- [560B开源，医疗健康版DeepSeek来了！](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075852&amp;idx=1&amp;sn=583b80f42ea942315343c859db884807) `2026-11-24`
+- [NeurIPS 26｜新国立提出PEEK：扩散生成采样「偷看」一步，相同步数下FID可压49点，即插即用](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075779&amp;idx=3&amp;sn=ff8f20a1a0f4b849a0dbf430478343ba) `2026-11-23`
+- [Meta亚历山大王：超级智能即将到来，AI将接管一切科学研究](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075779&amp;idx=2&amp;sn=db35c965e76c082820047067df9b866e) `2026-11-23`
+- [为下一代智算系统搭建开放模拟实验室，清华、无问芯穹开源系统级仿真平台Uni3Sim](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651075779&amp;idx=1&amp;sn=636885b17d34d106010c6d8fbe0fb5bb) `2026-11-23`
+- [突发！黄仁勋恢复英伟达CEO，即刻生效！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730496&amp;idx=1&amp;sn=c56a020512194c5262d5859f6fee4b97) `2026-11-23`
+- [清华大学站！你的第一个AI工作台来了](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730482&amp;idx=1&amp;sn=c6d2d25cc4fc7d01380fd4dc4c337a3c) `2026-11-23`
+- [近期开源的 Durable Harness 对 Always-on 有什么帮助？](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517461&amp;idx=1&amp;sn=602e741d401628a4f56d4f2bf7b974b6) `2026-11-23`
