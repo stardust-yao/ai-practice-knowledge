@@ -1946,3 +1946,17 @@
 - [突发！黄仁勋恢复英伟达CEO，即刻生效！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730496&amp;idx=1&amp;sn=c56a020512194c5262d5859f6fee4b97) `2026-11-23`
 - [清华大学站！你的第一个AI工作台来了](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730482&amp;idx=1&amp;sn=c6d2d25cc4fc7d01380fd4dc4c337a3c) `2026-11-23`
 - [近期开源的 Durable Harness 对 Always-on 有什么帮助？](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517461&amp;idx=1&amp;sn=602e741d401628a4f56d4f2bf7b974b6) `2026-11-23`
+
+## 2026-11-25 18:00:05 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 5 篇
+- **Feed 总量**: 31 篇
+- **累计已抓**: 867 篇
+
+**本次新增：**
+- [小米集团2026年Q3业绩：稳中求进，单季营收站稳千亿](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520790&amp;idx=1&amp;sn=6090d31875c496216d5b9d660472a9ab) `2026-11-24`
+- [深度解析 DeepSeek Super-agent：多端协同的自主 Agent 设计思路](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562800&amp;idx=1&amp;sn=dfde8934e08bc1d8bad6e28f1a906287) `2026-11-25`
+- [不再一味堆参数：General Looped Model向计算深度要智能](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651076132&amp;idx=2&amp;sn=a96369759d1abdfef8c456a9c776b291) `2026-11-25`
+- [通用大模型已经杀进来了，具身智能靠「微调续命」还能撑多久？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651076132&amp;idx=1&amp;sn=b275d89079bea4d585f24b284a83baa0) `2026-11-25`
+- [久等了：让你的 Agent 来管理 AgentCore](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517512&amp;idx=1&amp;sn=e91f562d564d09e9d23fb4f6c1261e23) `2026-11-24`
