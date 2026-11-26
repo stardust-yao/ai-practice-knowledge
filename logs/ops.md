@@ -1960,3 +1960,20 @@
 - [不再一味堆参数：General Looped Model向计算深度要智能](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651076132&amp;idx=2&amp;sn=a96369759d1abdfef8c456a9c776b291) `2026-11-25`
 - [通用大模型已经杀进来了，具身智能靠「微调续命」还能撑多久？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651076132&amp;idx=1&amp;sn=b275d89079bea4d585f24b284a83baa0) `2026-11-25`
 - [久等了：让你的 Agent 来管理 AgentCore](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517512&amp;idx=1&amp;sn=e91f562d564d09e9d23fb4f6c1261e23) `2026-11-24`
+
+## 2026-11-26 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 8 篇
+- **Feed 总量**: 35 篇
+- **累计已抓**: 875 篇
+
+**本次新增：**
+- [CodeBuddy 三位一体 AI 全栈开发落地实践](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808323&amp;idx=1&amp;sn=efa282d3273912ecf90ce04af25cfe6f) `2026-11-25`
+- [你有一笔积分到账通知。         WorkBuddy 积分不够用？这份「薅羊毛指南」请收好！ 今天，我们邀请鹅厂福利官 Lulu 来分享一份 WorkBud...](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808285&amp;idx=1&amp;sn=80a282a9a6118a925d2bc207346b402c) `2026-11-24`
+- [一个向量库，两种检索：VikingDB 关键词检索实践](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524676&amp;idx=2&amp;sn=d75e8a013600c2a94fb64ae29fde4d7c) `2026-11-25`
+- [不用自建后端，前端页面也能接入云端数据了：Pages Data SDK 正式上线](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524676&amp;idx=1&amp;sn=d3c8dba365471f3ed41af535bebbead5) `2026-11-25`
+- [从真实问题出发，复旦大学 × 阿里巴巴格造社启动](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512946&amp;idx=1&amp;sn=c1bd7ddd6535cf7a4abbabcc0ffe2393) `2026-11-25`
+- [命令式、函数式与 λ 编码：不同代码表达对 AI 协作成本的影响](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562826&amp;idx=1&amp;sn=f5f8266a4acd4f29b2980674c0418a08) `2026-11-26`
+- [重磅！OpenAI 首次公开内部核心指标！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730572&amp;idx=1&amp;sn=e1ad5a2e2c6588e91e6224a20913fde1) `2026-11-25`
+- [AgentCore 上新：一站式上下文工程方案，让 Agent 更懂企业业务](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517525&amp;idx=1&amp;sn=604cf062bef927c858b7b7fa3b2c96e2) `2026-11-25`
