@@ -1977,3 +1977,19 @@
 - [命令式、函数式与 λ 编码：不同代码表达对 AI 协作成本的影响](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562826&amp;idx=1&amp;sn=f5f8266a4acd4f29b2980674c0418a08) `2026-11-26`
 - [重磅！OpenAI 首次公开内部核心指标！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730572&amp;idx=1&amp;sn=e1ad5a2e2c6588e91e6224a20913fde1) `2026-11-25`
 - [AgentCore 上新：一站式上下文工程方案，让 Agent 更懂企业业务](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517525&amp;idx=1&amp;sn=604cf062bef927c858b7b7fa3b2c96e2) `2026-11-25`
+
+## 2026-11-27 18:00:04 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 7 篇
+- **Feed 总量**: 34 篇
+- **累计已抓**: 882 篇
+
+**本次新增：**
+- [美团第四届低空经济与具身智能挑战赛圆满收官](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783786&amp;idx=2&amp;sn=e4ec97065895f4e5656c437a2a86a36a) `2026-11-26`
+- [从模仿到自我纠错：Keeta客服模型的RSI实践](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783786&amp;idx=1&amp;sn=d28007c681b2973c8383caf5b9c71b61) `2026-11-26`
+- [智能体身份与授权：智能体生态的信任底座](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512957&amp;idx=1&amp;sn=e018f76617777f9304e13650b3381024) `2026-11-26`
+- [千问 AI Arena：让你的智能体走进支付宝](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562833&amp;idx=1&amp;sn=b17256dfcccf44941af611df251f29e3) `2026-11-27`
+- [Akashic知识工程实践｜得物技术](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247547863&amp;idx=1&amp;sn=8f307143d06ad3b67031f45c41894ff0) `2026-11-26`
+- [首批八个城市！Datawhale FDE场景实训班来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730605&amp;idx=1&amp;sn=9d5098128430f096aacbeb85f6d77066) `2026-11-26`
+- [解放日常答疑琐事，客服 Agent 的构建和调优之路](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517548&amp;idx=1&amp;sn=c055cda6b5433681e8b3ecddf5ff1f8d) `2026-11-26`
