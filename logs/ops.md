@@ -1993,3 +1993,23 @@
 - [Akashic知识工程实践｜得物技术](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&amp;mid=2247547863&amp;idx=1&amp;sn=8f307143d06ad3b67031f45c41894ff0) `2026-11-26`
 - [首批八个城市！Datawhale FDE场景实训班来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730605&amp;idx=1&amp;sn=9d5098128430f096aacbeb85f6d77066) `2026-11-26`
 - [解放日常答疑琐事，客服 Agent 的构建和调优之路](https://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517548&amp;idx=1&amp;sn=c055cda6b5433681e8b3ecddf5ff1f8d) `2026-11-26`
+
+## 2026-11-28 18:00:03 CST — 抓取运行
+
+- **状态**: success
+- **新文章**: 11 篇
+- **Feed 总量**: 38 篇
+- **累计已抓**: 893 篇
+
+**本次新增：**
+- [如何让Agent 记得住、查得准、改得对？腾讯Octop Memory实践](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808338&amp;idx=1&amp;sn=57cfea874bf5950111a3c255609227b5) `2026-11-27`
+- [直播预告｜字节跳动 ByteKMP 技术沙龙：从基建优化到业务落地](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524727&amp;idx=2&amp;sn=dc3a3a2e62a255b027ff3b41b17b6f7e) `2026-11-27`
+- [让 SSD 读懂业务优先级——NeoHint 的设计与实践](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524727&amp;idx=1&amp;sn=5fd1623144dd5847582c8391d3dec46d) `2026-11-27`
+- [一个 7B 模型服务冷启动要 2 分半，我们把它压进了 12 秒](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512965&amp;idx=1&amp;sn=586669b4c9bf2dd547b6766a6953e1a9) `2026-11-27`
+- [小米 DriveFoundry：以认知驱动驾驶，让数据与模型共同进化](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520896&amp;idx=2&amp;sn=292ee4d22f81613714c8e8f8c5799eff) `2026-11-27`
+- [小米汽车世界模型 2.0：面向真实世界辅助驾驶与具身智能的因果世界模型](https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&amp;mid=2247520896&amp;idx=1&amp;sn=eb12dadc2aaedccc7c491ac0cda228a9) `2026-11-27`
+- [具身智能新一局，这家公司「出手」了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651076720&amp;idx=1&amp;sn=ef2ebbb2d6ecb322cf51296ebcd3d0c4) `2026-11-27`
+- [SteerSound：迈向更可靠的音频编辑](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651076468&amp;idx=3&amp;sn=f12338e3ac2c0ac570f87aa9337689c5) `2026-11-26`
+- [传RSA已被OpenAI与Anthropic攻破，互联网加密要变天了？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651076468&amp;idx=2&amp;sn=133ad9665035bc5be0491b4357010b3a) `2026-11-26`
+- [整理了最新Grok Bot的全网爆火用法！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730684&amp;idx=1&amp;sn=592128a596b371c818f6a81686262be0) `2026-11-27`
+- [前 DeepSeek 核心成员，带着新作来杭州了](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&amp;mid=2247730618&amp;idx=1&amp;sn=d46f765925094cda500421f327c6924e) `2026-11-27`
